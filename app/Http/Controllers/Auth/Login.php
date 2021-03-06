@@ -67,7 +67,7 @@ class Login extends Controller
 
             return response()->json($response);
         }
-
+        
         // Check if is customer
         if ($user->can('read-client-portal')) {
             $path = session('url.intended', 'portal');
