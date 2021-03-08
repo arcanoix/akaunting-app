@@ -30,6 +30,8 @@ mix
     .js('resources/assets/js/views/auth/reset.js', 'public/js/auth')
     .js('resources/assets/js/views/auth/roles.js', 'public/js/auth')
     .js('resources/assets/js/views/auth/users.js', 'public/js/auth')
+    .js('resources/assets/js/views/auth/register.js', 'public/js/auth')
+
 
     // Banking
     .js('resources/assets/js/views/banking/accounts.js', 'public/js/banking')

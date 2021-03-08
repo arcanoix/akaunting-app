@@ -49,6 +49,9 @@
             <div class="mt-5 mb--4">
                 <a href="{{ route('forgot') }}" class="text-white"><small>{{ trans('auth.forgot_password') }}</small></a>
             </div>
+            <div class="mt-5 mb--4">
+                <a href="{{ route('register') }}" class="text-white"><small>{{ trans('auth.register') }}</small></a>
+            </div>
         @stack('forgotten-password-end')
     {!! Form::close() !!}
 @endsection

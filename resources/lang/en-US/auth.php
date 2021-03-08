@@ -37,5 +37,7 @@ return [
         'message_2'     => 'If you did not request a password reset, no further action is required.',
         'button'        => 'Reset Password',
     ],
-
+    'register'          => 'Register',
+    'register_to'       => 'Register new user',
+    'register_notification' => 'You are register complete'
 ];

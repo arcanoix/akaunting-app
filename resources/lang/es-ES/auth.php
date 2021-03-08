@@ -37,5 +37,9 @@ return [
         'message_2'     => 'Si no solicitó un restablecimiento de contraseña, no es necesaria ninguna acción de su parte.',
         'button'        => 'Restablecer Contraseña',
     ],
+    'register'          => 'Registrar',
+    'register_to'       => 'Registro nuevo usuario',
+    'register_notification' => 'Se ha registrado satisfactoriamente'
+
 
 ];

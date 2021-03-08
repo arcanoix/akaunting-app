@@ -38,4 +38,7 @@ return [
         'button'        => 'Restablecer Contraseña',
     ],
 
+    'register'          => 'Registrar',
+    'register_to'       => 'Registro nuevo usuario'
+
 ];
