@@ -30,13 +30,17 @@ class Item extends FormRequest
         }
 
         return [
-            'name' => 'required|string',
-            'sale_price' => 'required',
-            'purchase_price' => 'required',
-            'tax_ids' => 'nullable|array',
-            'category_id' => 'nullable|integer',
-            'enabled' => 'integer|boolean',
-            'picture' => $picture,
+            'name'              => 'required|string',
+            'sale_price'        => 'required',
+            'purchase_price'    => 'required',
+            'tax_ids'           => 'nullable|array',
+            'category_id'       => 'nullable|integer',
+            'enabled'           => 'integer|boolean',
+            'picture'           => $picture,
+            'code_item'         => 'required|string',
+            'description_code'  => 'required|string',
+            'unit_item'         => 'required|string',
+            'description_unit'  => 'required|string',
         ];
     }
 }

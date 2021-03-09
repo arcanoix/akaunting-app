@@ -31,6 +31,14 @@
                     {{ Form::selectRemoteAddNewGroup('category_id', trans_choice('general.categories', 1), 'folder', $categories, $item->category_id, ['path' => route('modals.categories.create') . '?type=item', 'remote_action' => route('categories.index'). '?search=type:item']) }}
 
                     {{ Form::fileGroup('picture', trans_choice('general.pictures', 1), '', ['dropzone-class' => 'form-file'], $item->picture) }}
+                    
+                    {{ Form::textGroup('code_item', trans('items.code_item')) }}
+
+                    {{ Form::textGroup('description_code', trans('items.description_code')) }}
+
+                    {{ Form::textGroup('unit_item', trans('items.unit_item')) }}
+
+                    {{ Form::textGroup('description_unit', trans('items.description_unit')) }}
 
                     {{ Form::radioGroup('enabled', trans('general.enabled'), $item->enabled) }}
                 </div>
