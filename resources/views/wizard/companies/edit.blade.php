@@ -57,9 +57,23 @@
 
                     {{ Form::dateGroup('financial_start', trans('settings.localisation.financial_start'), 'calendar', ['id' => 'financial_start', 'class' => 'form-control datepicker', 'show-date-format' => 'j F', 'date-format' => 'd-m', 'autocomplete' => 'off'], Date::now()->startOfYear()->format('d-m')) }}
 
-                    {{ Form::textareaGroup('address', trans('settings.company.address')) }}
+                    {{ Form::textGroup('address', trans('settings.company.address')) }}
+                    {{ Form::textGroup('street',  trans('general.street')) }}
+                    {{ Form::textGroup('no_int',  trans('general.no_int')) }}
+                    {{ Form::textGroup('state',   trans('general.state')) }}
+                    {{ Form::textGroup('colony', trans('general.colony')) }}
+                    {{ Form::textGroup('reference', trans('general.reference')) }}
+                    {{ Form::textGroup('no_ext', trans('general.no_ext')) }}
+                    {{ Form::textGroup('zone_code', trans('general.zone_code')) }}
+                    {{ Form::textGroup('municipality', trans('general.municipality')) }}
+                    {{ Form::textGroup('location', trans('general.location')) }}
+                    {{ Form::textGroup('country', trans('general.country')) }}
 
                     {{ Form::fileGroup('logo', trans('settings.company.logo'), '', ['dropzone-class' => 'form-file']) }}
+
+                    {{ Form::fileGroup('certificate', trans('companies.certificate'), '', ['dropzone-class' => 'form-file', 'options' => ['acceptedFiles' => '.cer']]) }}
+
+                    {{ Form::fileGroup('key_private', trans('companies.key_private'), '', ['dropzone-class' => 'form-file', 'options' => ['acceptedFiles' => '.key']]) }}
                 </div>
             </div>
 

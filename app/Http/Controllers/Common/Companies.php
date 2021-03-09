@@ -99,7 +99,7 @@ class Companies extends Controller
         }
 
         $currencies = Currency::enabled()->pluck('name', 'code');
-
+     //   dd($company->certificate);
         return view('common.companies.edit', compact('company', 'currencies'));
     }
 

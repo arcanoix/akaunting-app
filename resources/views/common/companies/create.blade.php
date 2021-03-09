@@ -29,9 +29,23 @@
 
                     {{ Form::textGroup('phone', trans('settings.company.phone'), 'phone', [], setting('company.phone')) }}
 
-                    {{ Form::textareaGroup('address', trans('general.address')) }}
+                    {{ Form::textGroup('address', trans('general.address')) }}
+                    {{ Form::textGroup('street',  trans('general.street')) }}
+                    {{ Form::textGroup('no_int',  trans('general.no_int')) }}
+                    {{ Form::textGroup('state',   trans('general.state')) }}
+                    {{ Form::textGroup('colony', trans('general.colony')) }}
+                    {{ Form::textGroup('reference', trans('general.reference')) }}
+                    {{ Form::textGroup('no_ext', trans('general.no_ext')) }}
+                    {{ Form::textGroup('zone_code', trans('general.zone_code')) }}
+                    {{ Form::textGroup('municipality', trans('general.municipality')) }}
+                    {{ Form::textGroup('location', trans('general.location')) }}
+                    {{ Form::textGroup('country', trans('general.country')) }}
 
                     {{ Form::fileGroup('logo', trans('companies.logo'), '', ['dropzone-class' => 'form-file']) }}
+
+                    {{ Form::fileGroup('certificate', trans('companies.certificate'), '', ['dropzone-class' => 'form-file', 'options' => ['acceptedFiles' => '.cer']]) }}
+
+                    {{ Form::fileGroup('key_private', trans('companies.key_private'), '', ['dropzone-class' => 'form-file', 'options' => ['acceptedFiles' => '.key']]) }}
 
                     {{ Form::radioGroup('enabled', trans('general.enabled'), true) }}
                 </div>

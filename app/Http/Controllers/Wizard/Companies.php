@@ -50,8 +50,24 @@ class Companies extends Controller
 
         $fields = $request->all();
 
-        $skip_keys = ['company_id', '_method', '_token'];
+        $skip_keys = ['company_id', '_method', '_token', 'certificate', 'key_private'];
         $file_keys = ['company.logo'];
+
+        if($request->file('certificate')) {
+            $certificate_file = file_get_contents($request->file('certificate'));
+            $base64 = base64_encode($certificate_file);
+            setting()->set([
+                'company.certificate' => $base64,
+            ]);
+        }
+
+        if($request->file('key_private')) {
+            $key_private_file = file_get_contents($request->file('key_private'));
+            $base64_key = base64_encode($key_private_file);
+            setting()->set([
+                'company.key_private' => $base64_key,
+            ]);
+        }
 
         foreach ($fields as $key => $value) {
             // Don't process unwanted keys

@@ -160,6 +160,16 @@ return [
     'recurring_and_more'    => 'Recurring and more..',
     'due_on'                => 'Due on',
     'amount_due'            => 'Amount due',
+    'street'                => 'Street',
+    'no_int'                => 'No. Int.',
+    'state'                 => 'State',
+    'colony'                => 'Colony',
+    'reference'             => 'Reference',
+    'no_ext'                => 'No. Ext.',
+    'zone_code'             => 'Postal Code',
+    'municipality'          => 'Municipality',
+    'location'              => 'Location',
+    'country'               => 'Country',
 
     'card' => [
         'cards'                 => 'Card|Cards',

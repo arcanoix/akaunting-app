@@ -4,6 +4,8 @@ return [
 
     'domain'                => 'Domain',
     'logo'                  => 'Logo',
+    'certificate'           => 'Certificate',
+    'key_private'           => 'Private Key',
 
     'error' => [
         'not_user_company'  => 'Error: You are not allowed to change this company!',

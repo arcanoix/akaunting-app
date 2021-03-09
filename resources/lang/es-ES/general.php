@@ -153,6 +153,17 @@ return [
     'clear_cache'           => 'Limpiar caché',
     'go_to_dashboard'       => 'Ir al panel de control',
 
+    'street'                => 'Calle',
+    'no_int'                => 'No. Int.',
+    'state'                 => 'Estado',
+    'colony'                => 'Colonia',
+    'reference'             => 'Referencia',
+    'no_ext'                => 'No. Ext.',
+    'zone_code'             => 'Código Postal',
+    'municipality'          => 'Municipio',
+    'location'              => 'Localidad',
+    'country'               => 'País',
+
     'card' => [
         'name'                  => 'Nombre del titular',
         'number'                => 'Número de tarjeta',

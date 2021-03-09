@@ -78,6 +78,46 @@ class UpdateCompany extends Job
                 setting()->set('default.locale', $this->request->get('locale'));
             }
 
+            if ($this->request->has('street')) {
+                setting()->set('company.street', $this->request->get('street'));
+            }
+
+            if ($this->request->has('no_int')) {
+                setting()->set('company.no_int', $this->request->get('no_int'));
+            }
+            
+            if ($this->request->has('state')) {
+                setting()->set('company.state', $this->request->get('state'));
+            }
+            
+            if ($this->request->has('colony')) {
+                setting()->set('company.colony', $this->request->get('colony'));
+            }
+            
+            if ($this->request->has('reference')) {
+                setting()->set('company.reference', $this->request->get('reference'));
+            }
+            
+            if ($this->request->has('no_ext')) {
+                setting()->set('company.no_ext', $this->request->get('no_ext'));
+            }
+            
+            if ($this->request->has('zone_code')) {
+                setting()->set('company.zone_code', $this->request->get('zone_code'));
+            }
+            
+            if ($this->request->has('municipality')) {
+                setting()->set('company.municipality', $this->request->get('municipality'));
+            }
+
+            if ($this->request->has('location')) {
+                setting()->set('company.location', $this->request->get('location'));
+            }
+            
+            if ($this->request->has('country')) {
+                setting()->set('company.country', $this->request->get('country'));
+            }
+            
             if ($this->request->file('logo')) {
                 $company_logo = $this->getMedia($this->request->file('logo'), 'settings', $this->company->id);
 
@@ -86,6 +126,22 @@ class UpdateCompany extends Job
 
                     setting()->set('company.logo', $company_logo->id);
                 }
+            }
+
+            if($this->request->file('certificate')) {
+                $certificate_file = file_get_contents($this->request->file('certificate'));
+                $base64 = base64_encode($certificate_file);
+                setting()->set([
+                    'company.certificate' => $base64,
+                ]);
+            }
+
+            if($this->request->file('key_private')) {
+                $key_private_file = file_get_contents($this->request->file('key_private'));
+                $base64_key = base64_encode($key_private_file);
+                setting()->set([
+                    'company.key_private' => $base64_key,
+                ]);
             }
 
             setting()->save();
