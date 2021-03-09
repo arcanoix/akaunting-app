@@ -232,7 +232,8 @@ class Installer
 
     public static function createCompany($name, $email, $locale)
     {
-        dispatch_now(new CreateCompany([
+       
+      dispatch_now(new CreateCompany([
             'name' => $name,
             'domain' => '',
             'email' => $email,
@@ -240,6 +241,7 @@ class Installer
             'locale' => $locale,
             'enabled' => '1',
         ]));
+      
     }
 
     public static function createUser($email, $password, $locale)

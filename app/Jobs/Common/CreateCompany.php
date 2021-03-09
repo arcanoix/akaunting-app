@@ -32,7 +32,7 @@ class CreateCompany extends Job
     public function handle()
     {
         event(new CompanyCreating($this->request));
-
+      
         \DB::transaction(function () {
             $this->company = Company::create($this->request->all());
 
@@ -46,7 +46,7 @@ class CreateCompany extends Job
         });
 
         event(new CompanyCreated($this->company));
-
+       
         return $this->company;
     }
 
