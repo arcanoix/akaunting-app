@@ -205,6 +205,10 @@ const app = new Vue({
 
                 this.form.items[index].name = item.name;
                 this.form.items[index].description = item.description;
+                this.form.items[index].code_item = item.code_item;
+                this.form.items[index].description_code = item.description_code;
+                this.form.items[index].unit_item = item.unit_item;
+                this.form.items[index].description_unit = item.description_unit;
                 this.form.items[index].quantity = item.quantity;
                 this.form.items[index].price = item.price;
                 this.form.items[index].discount = item.discount;
@@ -281,11 +285,17 @@ const app = new Vue({
                     });
                 }, this);
             }
+            
+            console.info(item);
 
             this.form.items.push({
                 item_id: item.id,
                 name: item.name,
                 description: item.description,
+                code_item: item.code_item,
+                description_code: item.description_code,
+                unit_item: item.unit_item,
+                description_unit: item.description_unit,
                 quantity: 1,
                 price: item.price,
                 tax_ids: item.tax_ids,
@@ -297,6 +307,10 @@ const app = new Vue({
                 item_id: item.id,
                 name: item.name,
                 description: item.description,
+                code_item: item.code_item,
+                description_code: item.description_code,
+                unit_item: item.unit_item,
+                description_unit: item.description_unit,
                 quantity: 1,
                 price: item.price,
                 add_tax: (document.getElementById('invoice-item-discount-rows') != null) ? false : true,
@@ -556,6 +570,10 @@ const app = new Vue({
                     item_id: item.item_id,
                     name: item.name,
                     description: item.description === null ? "" : item.description,
+                    description_code: item.description_code  === null ? "" : item.description_code,
+                    unit_item: item.unit_item  === null ? "" : item.unit_item,
+                    description_unit: item.description_unit  === null ? "" : item.description_unit ,
+                    code_item: item.code_item,
                     quantity: item.quantity,
                     price: (item.price).toFixed(2),
                     tax_ids: item.tax_ids,
@@ -591,6 +609,10 @@ const app = new Vue({
                     item_id: item.item_id,
                     name: item.name,
                     description: item.description === null ? "" : item.description,
+                    code_item: item.code_item === null ? "" : item.code_item,
+                    description_code: item.description_code  === null ? "" : item.description_code,
+                    unit_item: item.unit_item  === null ? "" : item.unit_item,
+                    description_unit: item.description_unit  === null ? "" : item.description_unit ,
                     quantity: item.quantity,
                     price: (item.price).toFixed(2),
                     add_tax: (!item_taxes.length && document.getElementById('invoice-item-discount-rows') != null) ? false : true,

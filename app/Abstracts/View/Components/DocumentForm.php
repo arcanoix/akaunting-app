@@ -181,6 +181,9 @@ abstract class DocumentForm extends Base
     public $hideDescription;
 
     /** @var bool */
+    public $hideCodeitem;
+
+    /** @var bool */
     public $hideQuantity;
 
     /** @var bool */
@@ -227,7 +230,7 @@ abstract class DocumentForm extends Base
         /** Metadata Component End */
         /** Items Component Start */
         string $textItems = '', string $textQuantity = '', string $textPrice = '', string $textAmount = '',
-        bool $hideItems = false, bool $hideName = false, bool $hideDescription = false, bool $hideQuantity = false,
+        bool $hideItems = false, bool $hideName = false, bool $hideDescription = false, bool $hideQuantity = false, $hideCodeitem = false,
         bool $hidePrice = false, bool $hideDiscount = false, bool $hideAmount = false,
         bool $hideEditItemColumns = false,
         bool $isSalePrice = false, bool $isPurchasePrice = false
@@ -299,10 +302,12 @@ abstract class DocumentForm extends Base
         $this->textQuantity = $this->getTextQuantity($type, $textQuantity);
         $this->textPrice = $this->getTextPrice($type, $textPrice);
         $this->textAmount = $this->getTextAmount($type, $textAmount);
+       
 
         $this->hideItems = $this->getHideItems($type, $hideItems, $hideName, $hideDescription);
         $this->hideName = $this->getHideName($type, $hideName);
         $this->hideDescription = $this->getHideDescription($type, $hideDescription);
+        $this->hideCodeitem = $this->getHideCodeItem($type, $hideCodeitem); //TODO: crear metodo
         $this->hideQuantity = $this->getHideQuantity($type, $hideQuantity);
         $this->hidePrice = $this->getHidePrice($type, $hidePrice);
         $this->hideDiscount = $this->getHideDiscount($type, $hideDiscount);
@@ -844,6 +849,27 @@ abstract class DocumentForm extends Base
 
         // @todo what return value invoice or always false??
         return setting('invoice.hide_item_description', $hideDescription);
+    }
+
+    protected function getHideCodeItem($type, $hideCodeitem)
+    {
+        if (!empty($hideCodeitem)) {
+            return $hideCodeitem;
+        }
+
+        // if you use settting translation
+        if ($hideCodeitem = setting($this->getSettingKey($type, 'hide_code_item'), false)) {
+            return $hideCodeitem;
+        }
+
+        $hide = $this->getHideFromConfig($type, 'hide_code_item');
+
+        if ($hide) {
+            return $hide;
+        }
+
+        // @todo what return value invoice or always false??
+        return setting('invoice.hide_item_description', $hideCodeitem);
     }
 
     protected function getHideQuantity($type, $hideQuantity)

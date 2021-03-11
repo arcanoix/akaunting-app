@@ -3,16 +3,20 @@
     @stack('name_td_start')
         <td class="border-right-0 border-bottom-0 p-0"
             :class="[{'has-error': form.errors.has('items.' + index + '.name') }]"
-            colspan="7">
+            colspan="11">
             <table class="w-100">
                 <colgroup>
-                    <col class="document-item-40-px">
-                    <col class="document-item-25">
+                    <col class="document-item-10-px">
+                    <col class="document-item-15">
                     <col class="document-item-30 description">
+                    <col class="document-item-10 code_item">
+                    <col class="document-item-10 description_code">
+                    <col class="document-item-10 unit_item">
+                    <col class="document-item-10 description_unit">
                     <col class="document-item-10">
                     <col class="document-item-10">
-                    <col class="document-item-20">
-                    <col class="document-item-40-px">
+                    <col class="document-item-10">
+                    <col class="document-item-30-px">
                 </colgroup>
                 <tbody>
                     <tr>
@@ -68,6 +72,72 @@
                                         @endif
                                     </td>
                                 @stack('description_td_end')
+                            <!-- Nuevos Campos agregados -->        
+                                @stack('code_item_td_start')
+                                    <td class="pb-3 align-middle border-bottom-0 code_item text-wrap">
+                                        @if (!$hideDescription)
+                                            <input type="hidden"
+                                                class="form-control"
+                                                style="height: 36px; overflow: hidden;"
+                                                v-model="row.code_item"
+                                                :name="'items.' + index + '.code_item'"
+                                                data-item="code_item"
+                                                resize="none"
+                                                @input="onBindingItemField(index, 'code_item')"
+                                            >
+                                            <span class="aka-text aka-text--body" tabindex="0" v-html="row.code_item" v-if="row.code_item"></span>
+                                        @endif
+                                    </td>
+                                @stack('code_item_td_end')
+                                @stack('description_code_td_start')
+                                    <td class="pb-3 align-middle border-bottom-0 description_code text-wrap">
+                                        @if (!$hideDescription)
+                                            <input type="hidden"
+                                                class="form-control"
+                                                style="height: 36px; overflow: hidden;"
+                                                v-model="row.description_code"
+                                                :name="'items.' + index + '.description_code'"
+                                                data-item="description_code"
+                                                resize="none"
+                                                @input="onBindingItemField(index, 'description_code')"
+                                            >
+                                            <span class="aka-text aka-text--body" tabindex="0" v-html="row.description_code" v-if="row.description_code"></span>
+                                        @endif
+                                    </td>
+                                @stack('description_code_td_end')
+                                @stack('unit_item_td_start')
+                                    <td class="pb-3 align-middle border-bottom-0 unit_item text-wrap">
+                                        @if (!$hideDescription)
+                                            <input type="hidden"
+                                                class="form-control"
+                                                style="height: 26px; overflow: hidden;"
+                                                v-model="row.unit_item"
+                                                :name="'items.' + index + '.unit_item'"
+                                                data-item="unit_item"
+                                                resize="none"
+                                                @input="onBindingItemField(index, 'unit_item')"
+                                            >
+                                            <span class="aka-text aka-text--body" tabindex="0" v-html="row.unit_item" v-if="row.unit_item"></span>
+                                        @endif
+                                    </td>
+                                @stack('unit_item_td_end')
+                                @stack('description_unit_td_start')
+                                    <td class="pb-3 align-middle border-bottom-0 description_unit text-wrap">
+                                        @if (!$hideDescription)
+                                            <input type="hidden"
+                                                class="form-control"
+                                                style="height: 26px; overflow: hidden;"
+                                                v-model="row.description_unit"
+                                                :name="'items.' + index + '.description_unit'"
+                                                data-item="description_unit"
+                                                resize="none"
+                                                @input="onBindingItemField(index, 'description_unit')"
+                                            >
+                                            <span class="aka-text aka-text--body" tabindex="0" v-html="row.description_unit" v-if="row.description_unit"></span>
+                                        @endif
+                                    </td>
+                                @stack('description_unit_td_end')
+                                <!-- Fin de agregados -->
                             @endif
                         @stack('items_td_end')
 

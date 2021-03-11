@@ -222,7 +222,7 @@ export default {
             // Option set sort_option data
             if (!Array.isArray(items)) {
                 let index = 0;
-
+                
                 for (const [key, value] of Object.entries(items)) {
                     this.item_list.push({
                         index: index,
@@ -231,6 +231,10 @@ export default {
                         type: 'item',
                         id: key,
                         name: value,
+                        code_item: '',
+                        description_code: '',
+                        unit_item: '',
+                        description_unit: '',
                         description: '',
                         price: 0,
                         tax_ids: [], 
@@ -248,6 +252,10 @@ export default {
                         id: item.id,
                         name: (item.title) ? item.title : (item.display_name) ? item.display_name : item.name,
                         description: (item.description) ? item.description : '',
+                        description_code: (item.description_code) ? item.description_code : '',
+                        unit_item: (item.unit_item) ? item.unit_item : '',
+                        description_unit: (item.description_unit) ? item.description_unit : '',
+                        code_item: (item.code_item) ? item.code_item : '',
                         price: (item.price) ? item.price : (this.price == 'purchase_price') ? item.purchase_price : item.sale_price,
                         tax_ids: (item.tax_ids) ? item.tax_ids : [],
                     });
@@ -283,6 +291,10 @@ export default {
                         id: item.id,
                         name: (item.title) ? item.title : (item.display_name) ? item.display_name : item.name,
                         description: (item.description) ? item.description : '',
+                        description_code: (item.description_code) ? item.description_code : '',
+                        unit_item: (item.unit_item) ? item.unit_item : '',
+                        description_unit: (item.description_unit) ? item.description_unit : '',
+                        code_item: (item.code_item) ? item.code_item : '',
                         price: (item.price) ? item.price : (this.price == 'purchase_price') ? item.purchase_price : item.sale_price,
                         tax_ids: (item.tax_ids) ? item.tax_ids : [],
                     });
@@ -320,6 +332,10 @@ export default {
                 id: 0,
                 name: this.search,
                 description: '',
+                code_item: '',
+                description_code: '',
+                unit_item: '',
+                description_unit: '',
                 price: 0,
                 tax_ids: [],
             };
@@ -439,6 +455,10 @@ export default {
                         id: item.id,
                         name: (item.title) ? item.title : (item.display_name) ? item.display_name : item.name,
                         description: (item.description) ? item.description : '',
+                        code_item: (item.code_item) ? item.code_item : '',
+                        description_code: (item.description_code) ? item.description_code : '',
+                        unit_item: (item.unit_item) ? item.unit_item : '',
+                        description_unit: (item.description_unit) ? item.description_unit : '',
                         price: (item.price) ? item.price : (this.price == 'purchase_price') ? item.purchase_price : item.sale_price,
                         tax_ids: (item.tax_ids) ? item.tax_ids : [],
                     });

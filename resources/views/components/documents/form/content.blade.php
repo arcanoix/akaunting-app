@@ -58,6 +58,7 @@
             hide-items="{{ $hideItems }}"
             hide-name="{{ $hideName }}"
             hide-description="{{ $hideDescription }}"
+            hide-codeitem="{{ $hideCodeitem }}"
             text-items="{{ $textItems }}"
             hide-quantity="{{ $hideQuantity }}"
             text-quantity="{{ $textQuantity }}"

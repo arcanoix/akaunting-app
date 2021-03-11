@@ -7,13 +7,17 @@
         <div class="table-responsive overflow-x-scroll overflow-y-hidden">
             <table class="table" id="items" style="table-layout: fixed">
                 <colgroup>
-                    <col class="document-item-40-px">
-                    <col class="document-item-25">
+                    <col class="document-item-10-px">
+                    <col class="document-item-15">
                     <col class="document-item-30 description">
+                    <col class="document-item-10 code_item">
+                    <col class="document-item-10 description_code">
+                    <col class="document-item-10 unit_item">
+                    <col class="document-item-10 description_unit">
                     <col class="document-item-10">
                     <col class="document-item-10">
-                    <col class="document-item-20">
-                    <col class="document-item-40-px">
+                    <col class="document-item-10">
+                    <col class="document-item-30-px">
                 </colgroup>
                 <thead class="thead-light">
                     <tr>
@@ -34,6 +38,11 @@
                                 <th class="text-left border-top-0 border-right-0 border-bottom-0"></th>
                             @stack('move_th_end')
                         @endif
+
+                        <th class="text-center pl-2 border-top-0 border-right-0 border-bottom-0"></th>
+                        <th class="text-center pl-2 border-top-0 border-right-0 border-bottom-0"></th>
+                        <th class="text-center pl-2 border-top-0 border-right-0 border-bottom-0"></th>
+                        <th class="text-center pl-2 border-top-0 border-right-0 border-bottom-0"></th>
 
                         @stack('quantity_th_start')
                             <th class="text-center pl-2 border-top-0 border-right-0 border-bottom-0">
@@ -72,7 +81,7 @@
 
                     @stack('add_item_td_start')
                         <tr id="addItem">
-                            <td class="text-right border-bottom-0 p-0" colspan="7">
+                            <td class="text-right border-bottom-0 p-0" colspan="11">
                                 <x-select-item-button
                                     type="{{ $type }}"
                                     is-sale="{{ $isSalePrice }}"
