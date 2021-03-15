@@ -87,6 +87,23 @@ class Settings extends Controller
 
         $total_companies = Company::count();
 
+        
+        if($request->file('certificate')) {
+            $certificate_file = file_get_contents($request->file('certificate'));
+            $base64 = base64_encode($certificate_file);
+            setting()->set([
+                'company.certificate' => $base64,
+            ]);
+        }
+
+        if($request->file('key_private')) {
+            $key_private_file = file_get_contents($request->file('key_private'));
+            $base64_key = base64_encode($key_private_file);
+            setting()->set([
+                'company.key_private' => $base64_key,
+            ]);
+        }
+
         foreach ($fields as $key => $value) {
             $real_key = $prefix . '.' . $key;
 
@@ -126,6 +143,7 @@ class Settings extends Controller
             if ($total_companies == 1) {
                 $this->oneCompany($real_key, $value);
             }
+
 
             setting()->set($real_key, $value);
         }
