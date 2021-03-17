@@ -38,6 +38,22 @@
             @if (!$hideOrderNumber)
             {{ Form::textGroup('order_number', trans($textOrderNumber), 'shopping-cart', [], $orderNumber) }}
             @endif
+
+            @if(!$hideSellTo)
+            {{ Form::selectGroup('sellto', 'Vendido a', 'exchange-alt', $sellTo, null, ['required' => 'required']) }}
+            @endif
+
+            @if(!$hideMethodPayment)
+            {{ Form::selectGroup('method_payment_id', 'Metodo Pago', 'exchange-alt', $methodPayment, null, ['required' => 'required']) }}
+            @endif
+
+            @if(!$hideShapePayment)
+            {{ Form::selectGroup('shape_payment_id', 'Forma Pago', 'exchange-alt', $shapePayment, null, ['required' => 'required']) }}
+            @endif
+
+            @if(!$hideTypeVoucher)
+            {{ Form::selectGroup('type_voucher_id', 'Tipo Comprobante', 'exchange-alt', $typeVoucher, null, ['required' => 'required']) }}
+            @endif
         </div>
     </div>
 </div>

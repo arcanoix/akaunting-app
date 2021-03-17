@@ -31,13 +31,9 @@
 
                     {{ Form::fileGroup('picture', trans_choice('general.pictures', 1), 'plus', ['dropzone-class' => 'form-file']) }}
 
-                    {{ Form::textGroup('code_item', trans('items.code_item')) }}
-
-                    {{ Form::textGroup('description_code', trans('items.description_code')) }}
-
-                    {{ Form::textGroup('unit_item', trans('items.unit_item')) }}
-
-                    {{ Form::textGroup('description_unit', trans('items.description_unit')) }}
+                   
+                    {{ Form::selectGroup('code_item', trans('items.code_item'), 'exchange-alt', $keyProductService, null, ['required' => 'required']) }}
+                    {{ Form::selectGroup('unit_item', trans('items.unit_item'), 'exchange-alt', $keyUnitService, null, ['required' => 'required']) }}
 
                     {{ Form::radioGroup('enabled', trans('general.enabled'), true) }}
                 </div>

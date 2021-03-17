@@ -11,7 +11,7 @@ class Item extends TransformerAbstract
     /**
      * @var array
      */
-    protected $defaultIncludes = ['taxes', 'category'];
+    protected $defaultIncludes = ['taxes', 'category','code_item', 'unit_item'];
 
     /**
      * @param  Model $model
@@ -30,6 +30,8 @@ class Item extends TransformerAbstract
             'tax_ids' => $model->tax_ids,
             'picture' => $model->picture,
             'enabled' => $model->enabled,
+            'unit_item' => $model->unit_item,
+            'code_item' => $model->code_item,
             'created_at' => $model->created_at ? $model->created_at->toIso8601String() : '',
             'updated_at' => $model->updated_at ? $model->updated_at->toIso8601String() : '',
         ];

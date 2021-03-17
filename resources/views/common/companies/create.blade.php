@@ -40,6 +40,7 @@
                     {{ Form::textGroup('municipality', trans('general.municipality')) }}
                     {{ Form::textGroup('location', trans('general.location')) }}
                     {{ Form::textGroup('country', trans('general.country')) }}
+                    {{ Form::textGroup('curp', trans('general.curp')) }}
 
                     {{ Form::fileGroup('logo', trans('companies.logo'), '', ['dropzone-class' => 'form-file']) }}
 

@@ -1,0 +1,7256 @@
+[{
+		"key": 18,
+		"name": "Tambor de cincuenta y cinco galones (EUA)"
+	},{
+		"key": 19,
+		"name": "Camión cisterna"
+	},{
+		"key": 26,
+		"name": "Tonelada real"
+	},{
+		"key": 29,
+		"name": "Libra por mil pies cuadrados"
+	},{
+		"key": 30,
+		"name": "Día de potencia de caballos por tonelada métrica de aire seco"
+	},{
+		"key": 31,
+		"name": "Pescar"
+	},{
+		"key": 32,
+		"name": "Kilogramo por tonelada métrica seca del aire"
+	},{
+		"key": 36,
+		"name": "Pie cúbico por minuto por pie cuadrado"
+	},{
+		"key": 44,
+		"name": "Bolsa a granel de quinientos kilos"
+	},{
+		"key": 45,
+		"name": "Bolsa a granel de trescientos kilos"
+	},{
+		"key": 46,
+		"name": "Bolsa a granel de cincuenta libras"
+	},{
+		"key": 47,
+		"name": "Bolso de cincuenta libras"
+	},{
+		"key": 48,
+		"name": "Carga masiva"
+	},{
+		"key": 53,
+		"name": "Kilogramo teórico"
+	},{
+		"key": 54,
+		"name": "Tonelada teórica (UK)"
+	},{
+		"key": 62,
+		"name": "Por ciento por 1000 horas"
+	},{
+		"key": 63,
+		"name": "Tasa de fracaso en el tiempo"
+	},{
+		"key": 64,
+		"name": "Libra por pulgada cuadrada, calíbre"
+	},{
+		"key": 66,
+		"name": "Oersted"
+	},{
+		"key": 69,
+		"name": "Escala específica de prueba"
+	},{
+		"key": 71,
+		"name": "Voltios amperios por libra"
+	},{
+		"key": 72,
+		"name": "Vatio por libra"
+	},{
+		"key": 73,
+		"name": "Amperios por centímetro"
+	},{
+		"key": 76,
+		"name": "Gauss"
+	},{
+		"key": 78,
+		"name": "Kilogauss"
+	},{
+		"key": 84,
+		"name": "Kilopound-force por pulgada cuadrada"
+	},{
+		"key": 90,
+		"name": "Saybold segundo universal"
+	},{
+		"key": 92,
+		"name": "Calorías por centímetro cúbico"
+	},{
+		"key": 93,
+		"name": "Calorías por gramo"
+	},{
+		"key": 94,
+		"name": "Unidad de curl"
+	},{
+		"key": 95,
+		"name": "Veinte mil galones"
+	},{
+		"key": 96,
+		"name": "Diez mil galones (US)"
+	},{
+		"key": 97,
+		"name": "Diez kilos de tambor"
+	},{
+		"key": 98,
+		"name": "Quince kilos de tambor"
+	},{
+		"key": 5,
+		"name": "Ascensor"
+	},{
+		"key": 6,
+		"name": "Pequeño aerosol"
+	},{
+		"key": 8,
+		"name": "Montón de calor"
+	},{
+		"key": 10,
+		"name": "Grupos"
+	},{
+		"key": 11,
+		"name": "Equipos"
+	},{
+		"key": 13,
+		"name": "Raciones"
+	},{
+		"key": 14,
+		"name": "Shot"
+	},{
+		"key": 15,
+		"name": "Palo, medida militar."
+	},{
+		"key": 16,
+		"name": "Tambor de 115 kilogramos"
+	},{
+		"key": 17,
+		"name": "Tambor de cien libras"
+	},{
+		"key": "1A",
+		"name": "Milla de carros"
+	},{
+		"key": "1B",
+		"name": "Recuento de automóviles"
+	},{
+		"key": "1C",
+		"name": "Conteo de locomotoras"
+	},{
+		"key": "1D",
+		"name": "Caboose count"
+	},{
+		"key": "1E",
+		"name": "Coche vacío"
+	},{
+		"key": "1F",
+		"name": "Milla de tren"
+	},{
+		"key": "1G",
+		"name": "Galón del uso del combustible (los EUA)"
+	},{
+		"key": "1H",
+		"name": "Milla de caboose"
+	},{
+		"key": "1I",
+		"name": " Tipo de interés fijo"
+	},{
+		"key": "1J",
+		"name": "Tonelada milla"
+	},{
+		"key": "1K",
+		"name": "Milla locomotora"
+	},{
+		"key": "1L",
+		"name": "Recuento total de automóviles"
+	},{
+		"key": "1M",
+		"name": "Milla total del coche"
+	},{
+		"key": "1X",
+		"name": "Cuarto de milla"
+	},{
+		"key": 20,
+		"name": " Contenedores de veinte pies"
+	},{
+		"key": 21,
+		"name": " Contenedor de cuarenta pies"
+	},{
+		"key": 22,
+		"name": "Decilitro por gramo"
+	},{
+		"key": 23,
+		"name": "Gramo por centímetro cúbico"
+	},{
+		"key": 24,
+		"name": "Libra teórica"
+	},{
+		"key": 25,
+		"name": "Gramo por centímetro cuadrado"
+	},{
+		"key": 27,
+		"name": "Tonelada teórica"
+	},{
+		"key": 28,
+		"name": "Kilogramo por metro cuadrado"
+	},{
+		"key": "2A",
+		"name": "Radián por segundo"
+	},{
+		"key": "2B",
+		"name": "Radián por segundo cuadrado"
+	},{
+		"key": "2C",
+		"name": "Roentgen"
+	},{
+		"key": "2G",
+		"name": "Voltios CA"
+	},{
+		"key": "2H",
+		"name": "Voltios CD"
+	},{
+		"key": "2I",
+		"name": "Unidad térmica británica (tabla internacional) por hora"
+	},{
+		"key": "2J",
+		"name": "Centímetro cúbico por segundo"
+	},{
+		"key": "2K",
+		"name": "Pie cúbico por hora"
+	},{
+		"key": "2L",
+		"name": "Pie cúbico por minuto"
+	},{
+		"key": "2M",
+		"name": "Centímetro por segundo"
+	},{
+		"key": "2N",
+		"name": "Decibel"
+	},{
+		"key": "2P",
+		"name": "Kilobyte"
+	},{
+		"key": "2Q",
+		"name": "Kilobecquerel"
+	},{
+		"key": "2R",
+		"name": "Kilocurie"
+	},{
+		"key": "2U",
+		"name": "Megagramo"
+	},{
+		"key": "2V",
+		"name": "Megagrama por hora"
+	},{
+		"key": "2X",
+		"name": "Metro por minuto"
+	},{
+		"key": "2Y",
+		"name": "Milliroentgen"
+	},{
+		"key": "2Z",
+		"name": "Milivoltio"
+	},{
+		"key": 33,
+		"name": "Kilopascal por grtr"
+	},{
+		"key": 34,
+		"name": "Kilopascal por milimetro"
+	},{
+		"key": 35,
+		"name": "Milimetro por un segundo centimetro cuadrado"
+	},{
+		"key": 37,
+		"name": "Onza por pie cuadrado"
+	},{
+		"key": 38,
+		"name": "Onzas por pie cuadrado por 0,01 pulgadas"
+	},{
+		"key": "3B",
+		"name": "Megajoule"
+	},{
+		"key": "3C",
+		"name": "Manmonth"
+	},{
+		"key": "3E",
+		"name": "Libra por libra de producto"
+	},{
+		"key": "3G",
+		"name": "Libra por pieza de producto"
+	},{
+		"key": "3H",
+		"name": "Kilogramo por kilogramo de producto"
+	},{
+		"key": "3I",
+		"name": "Kilogramo por pedazo de producto"
+	},{
+		"key": 40,
+		"name": "Mililitro por segundo"
+	},{
+		"key": 41,
+		"name": "Mililitro por minuto"
+	},{
+		"key": "4B",
+		"name": "Gorra"
+	},{
+		"key": "4C",
+		"name": "Centistokes"
+	},{
+		"key": "4E",
+		"name": "Veinte pack"
+	},{
+		"key": "4G",
+		"name": "Microlitro"
+	},{
+		"key": "4H",
+		"name": "Micra"
+	},{
+		"key": "4K",
+		"name": "Miliamperio"
+	},{
+		"key": "4L",
+		"name": "Megabyte"
+	},{
+		"key": "4M",
+		"name": "Miligramo por hora"
+	},{
+		"key": "4N",
+		"name": "Megabequerel"
+	},{
+		"key": "4O",
+		"name": "Microfaradio"
+	},{
+		"key": "4P",
+		"name": "Newton por metro"
+	},{
+		"key": "4Q",
+		"name": "Onza pulgada"
+	},{
+		"key": "4R",
+		"name": "Onza pie"
+	},{
+		"key": "4T",
+		"name": "Picofaradio"
+	},{
+		"key": "4U",
+		"name": "Libra por hora"
+	},{
+		"key": "4W",
+		"name": "Tonelada (EUA) por hora"
+	},{
+		"key": "4X",
+		"name": "Kilolitro por hora"
+	},{
+		"key": 56,
+		"name": "Sitas"
+	},{
+		"key": 57,
+		"name": "Malla"
+	},{
+		"key": 58,
+		"name": " kilogramo neto"
+	},{
+		"key": 59,
+		"name": "Parte por millón"
+	},{
+		"key": "5A",
+		"name": "Barril por minuto"
+	},{
+		"key": "5B",
+		"name": "Batch"
+	},{
+		"key": "5C",
+		"name": "Galón (US) por mil"
+	},{
+		"key": "5E",
+		"name": "Mmscf/day"
+	},{
+		"key": "5F",
+		"name": "Libra por mil"
+	},{
+		"key": "5G",
+		"name": "bomba"
+	},{
+		"key": "5H",
+		"name": "Escenario"
+	},{
+		"key": "5I",
+		"name": "Pies cúbicos estándar"
+	},{
+		"key": "5J",
+		"name": "Caballos de potencia hidráulica"
+	},{
+		"key": "5K",
+		"name": "Contar por minuto"
+	},{
+		"key": "5P",
+		"name": "Nivel sísmico"
+	},{
+		"key": "5Q",
+		"name": "Línea sísmica"
+	},{
+		"key": 60,
+		"name": "Tanto por ciento en peso"
+	},{
+		"key": 61,
+		"name": "Parte por mil millones (EUA)"
+	},{
+		"key": 74,
+		"name": "Milipascal"
+	},{
+		"key": 77,
+		"name": "Mili-pulgada"
+	},{
+		"key": 80,
+		"name": "Libra por pulgada cuadrado absoluta"
+	},{
+		"key": 81,
+		"name": "Henry"
+	},{
+		"key": 85,
+		"name": "Pie libra-fuerza"
+	},{
+		"key": 87,
+		"name": "Libra por pie cúbico"
+	},{
+		"key": 89,
+		"name": "Poise"
+	},{
+		"key": 91,
+		"name": "Stokes"
+	},{
+		"key": "A1",
+		"name": "15 ° C calorías"
+	},{
+		"key": "A10",
+		"name": "Amperio por metro cuadrado por joule segundo"
+	},{
+		"key": "A11",
+		"name": "Ángstrom"
+	},{
+		"key": "A12",
+		"name": "Unidad astronómica"
+	},{
+		"key": "A13",
+		"name": "Attojoule"
+	},{
+		"key": "A14",
+		"name": "Barn"
+	},{
+		"key": "A15",
+		"name": "Barn por electrovoltio"
+	},{
+		"key": "A16",
+		"name": "Barn por electrovoltio "
+	},{
+		"key": "A17",
+		"name": "Barn por esteroradian"
+	},{
+		"key": "A18",
+		"name": "Becquerel por kilogramo"
+	},{
+		"key": "A19",
+		"name": "Becquerel por metro cúbico"
+	},{
+		"key": "A2",
+		"name": "Amperio por centímetro"
+	},{
+		"key": "A20",
+		"name": "Unidad térmica británica (tabla internacional) por segundo pie cuadrado grado rankine."
+	},{
+		"key": "A21",
+		"name": "Unidad térmica británica (tabla internacional) por libra grado rankine"
+	},{
+		"key": "A22",
+		"name": "Unidad térmica británica (tabla internacional) por segundo pie grado rankine"
+	},{
+		"key": "A23",
+		"name": "Unidad térmica británica (tabla internacional) por hora pie cuadrado grado rankine."
+	},{
+		"key": "A24",
+		"name": "Candela por metro cuadrado"
+	},{
+		"key": "A25",
+		"name": "Caballo de vapor"
+	},{
+		"key": "A26",
+		"name": "Culombio metro"
+	},{
+		"key": "A27",
+		"name": "Culombio metro cuadrado por voltio"
+	},{
+		"key": "A28",
+		"name": "Culombio por centímetro cúbico"
+	},{
+		"key": "A29",
+		"name": "Culombio por metro cúbico"
+	},{
+		"key": "A3",
+		"name": "Amperio por milímetro"
+	},{
+		"key": "A30",
+		"name": "Culombio por milimetro cúbico"
+	},{
+		"key": "A31",
+		"name": "Culombio por kilogramo-segundo"
+	},{
+		"key": "A32",
+		"name": "Culombio por Mol"
+	},{
+		"key": "A33",
+		"name": "Culombio por centímetro cuadrado"
+	},{
+		"key": "A34",
+		"name": "Culombio por metro cuadrado"
+	},{
+		"key": "A35",
+		"name": "Culombio por milímetro cuadrado"
+	},{
+		"key": "A36",
+		"name": "Centimetro cúbico por Mol"
+	},{
+		"key": "A37",
+		"name": "Decimetro cuadrado por Mol"
+	},{
+		"key": "A38",
+		"name": "Cubic pooulo p"
+	},{
+		"key": "A39",
+		"name": "Metro cúbico por kilogramo"
+	},{
+		"key": "A4",
+		"name": "Amperio por centímetro cuadrado"
+	},{
+		"key": "A40",
+		"name": "Metro cubbico por Mol"
+	},{
+		"key": "A41",
+		"name": "Amperio por metro cuadrado"
+	},{
+		"key": "A42",
+		"name": "Curie por kilogramo"
+	},{
+		"key": "A43",
+		"name": "Tonelaje de peso muerto"
+	},{
+		"key": "A44",
+		"name": "Decalitro"
+	},{
+		"key": "A45",
+		"name": "Decámetro"
+	},{
+		"key": "A47",
+		"name": "Decitex"
+	},{
+		"key": "A48",
+		"name": "Grado rankine"
+	},{
+		"key": "A49",
+		"name": "Negador"
+	},{
+		"key": "A5",
+		"name": "Amperio metro cuadrado"
+	},{
+		"key": "A50",
+		"name": "Dina segundo por centímetro cúbico"
+	},{
+		"key": "A51",
+		"name": "Dina segundo por centímetro"
+	},{
+		"key": "A52",
+		"name": "Dina segundo por centímetro a la quinta potencia"
+	},{
+		"key": "A53",
+		"name": "Electrónvoltio"
+	},{
+		"key": "A54",
+		"name": "Electrovoltio por metro"
+	},{
+		"key": "A55",
+		"name": "Electrovoltio por metro cuadrado"
+	},{
+		"key": "A56",
+		"name": "Electrovoltio metro cuadrado por kilogramo"
+	},{
+		"key": "A57",
+		"name": "Ergio"
+	},{
+		"key": "A58",
+		"name": "Erg por centímetro"
+	},{
+		"key": "A59",
+		"name": "La cobertura de nubes 8-parte"
+	},{
+		"key": "A6",
+		"name": "Amperio por metro cuadrado Kelvin cuadrado"
+	},{
+		"key": "A60",
+		"name": "Erg por centímetro cúbico"
+	},{
+		"key": "A61",
+		"name": "Erg por gramo"
+	},{
+		"key": "A62",
+		"name": "Erg por segundo gramo"
+	},{
+		"key": "A63",
+		"name": "Erg por segundo"
+	},{
+		"key": "A64",
+		"name": "Erg por segundo centímetro cuadrado"
+	},{
+		"key": "A65",
+		"name": "Erg por centímetro cuadrado segundo"
+	},{
+		"key": "A66",
+		"name": "Erg centímetro cuadrado"
+	},{
+		"key": "A67",
+		"name": "Erg centímetro cuadrado por gramo"
+	},{
+		"key": "A68",
+		"name": "Exajoule"
+	},{
+		"key": "A69",
+		"name": "Faradio por metro"
+	},{
+		"key": "A7",
+		"name": "Amperio por milímetro cuadrado"
+	},{
+		"key": "A70",
+		"name": "Femtojoule"
+	},{
+		"key": "A71",
+		"name": "Femtómetro"
+	},{
+		"key": "A73",
+		"name": "Pie por segundo al cuadrado"
+	},{
+		"key": "A74",
+		"name": "Pie libra-fuerza por segundo"
+	},{
+		"key": "A75",
+		"name": "Tonelada de carga"
+	},{
+		"key": "A76",
+		"name": "Galón"
+	},{
+		"key": "A77",
+		"name": "Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de desplazamiento"
+	},{
+		"key": "A78",
+		"name": "Gaussiano CGS (Centímetro-Gram-Segundo sistema) unidad de corriente eléctrica"
+	},{
+		"key": "A79",
+		"name": "Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de carga eléctrica"
+	},{
+		"key": "A8",
+		"name": "Amperio segundo"
+	},{
+		"key": "A80",
+		"name": "Gaussiano CGS (Centímetro-Gram-Segundo sistema) unidad de la fuerza del campo eléctrico"
+	},{
+		"key": "A81",
+		"name": "Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de polarización eléctrica"
+	},{
+		"key": "A82",
+		"name": "Gaussiano CGS (Centímetro-Gram-Segundo sistema) unidad de potencial eléctrico"
+	},{
+		"key": "A83",
+		"name": "Gaussian CGS (Centímetro-Gram-Segundo sistema) unidad de magnetización"
+	},{
+		"key": "A84",
+		"name": "GigaCulombio por metro cúbico"
+	},{
+		"key": "A85",
+		"name": "Gigaelectrónvoltio"
+	},{
+		"key": "A86",
+		"name": "Gigahertz"
+	},{
+		"key": "A87",
+		"name": "GigaOhm"
+	},{
+		"key": "A88",
+		"name": "GigaOhm metro"
+	},{
+		"key": "A89",
+		"name": "Gigapascal"
+	},{
+		"key": "A9",
+		"name": "Tarífa"
+	},{
+		"key": "A90",
+		"name": "Gigawatt"
+	},{
+		"key": "A91",
+		"name": "Grado centesimal"
+	},{
+		"key": "A93",
+		"name": "Gramo por metro cúbico"
+	},{
+		"key": "A94",
+		"name": "Gramo por Mol"
+	},{
+		"key": "A95",
+		"name": "Gray"
+	},{
+		"key": "A96",
+		"name": "Gray por segundo"
+	},{
+		"key": "A97",
+		"name": "Hectopascal"
+	},{
+		"key": "A98",
+		"name": "Henry por metro"
+	},{
+		"key": "A99",
+		"name": "Bit"
+	},{
+		"key": "AA",
+		"name": "Balón"
+	},{
+		"key": "AB",
+		"name": "Paquete a granel"
+	},{
+		"key": "ACR",
+		"name": "Acre"
+	},{
+		"key": "ACT",
+		"name": "Actividad"
+	},{
+		"key": "AD",
+		"name": "Byte"
+	},{
+		"key": "AE",
+		"name": "Amperio por metro"
+	},{
+		"key": "AH",
+		"name": "Minuto adicional"
+	},{
+		"key": "AI",
+		"name": "Minuto y medio por llamada"
+	},{
+		"key": "AJ",
+		"name": "policía"
+	},{
+		"key": "AK",
+		"name": "Braza"
+	},{
+		"key": "AL",
+		"name": "Línea de acceso"
+	},{
+		"key": "AMH",
+		"name": "Amperio hora"
+	},{
+		"key": "AMP",
+		"name": "Amperio"
+	},{
+		"key": "ANN",
+		"name": "Año"
+	},{
+		"key": "AP",
+		"name": "Libra de aluminio solamente"
+	},{
+		"key": "APZ",
+		"name": "Onza troy u onza farmacéutica "
+	},{
+		"key": "AQ",
+		"name": "Unidad del factir anti-hemofilico."
+	},{
+		"key": "AR",
+		"name": "supositorio"
+	},{
+		"key": "ARE",
+		"name": "Are"
+	},{
+		"key": "AS",
+		"name": "Variedad"
+	},{
+		"key": "ASM",
+		"name": "Grado alcohólico en masa"
+	},{
+		"key": "ASU",
+		"name": "Grado alcohólico volumétrico"
+	},{
+		"key": "ATM",
+		"name": "Atmósfera estándar"
+	},{
+		"key": "ATT",
+		"name": "Atmósfera técnica"
+	},{
+		"key": "AW",
+		"name": "Relleno de polvo en viales"
+	},{
+		"key": "AWG",
+		"name": "Calibre de alambre americano"
+	},{
+		"key": "AY",
+		"name": "Montaje"
+	},{
+		"key": "AZ",
+		"name": "Unidad térmica británica (tabla internacional) por libra"
+	},{
+		"key": "B0",
+		"name": "Btu por pie cúbico"
+	},{
+		"key": "B1",
+		"name": "Barril (EUA) por día"
+	},{
+		"key": "B10",
+		"name": "Bits por segundo"
+	},{
+		"key": "B11",
+		"name": "Joule por kilogramo kelvin"
+	},{
+		"key": "B12",
+		"name": "Joule por metro"
+	},{
+		"key": "B13",
+		"name": "Joule por metro cuadrado"
+	},{
+		"key": "B14",
+		"name": "Joule por metro a la cuarta potencia"
+	},{
+		"key": "B15",
+		"name": "Juole por Mol"
+	},{
+		"key": "B16",
+		"name": "Juoule por Mol kelvin"
+	},{
+		"key": "B17",
+		"name": "Crédito"
+	},{
+		"key": "B18",
+		"name": "Segundos joule"
+	},{
+		"key": "B19",
+		"name": "Dígito"
+	},{
+		"key": "B2",
+		"name": "litera"
+	},{
+		"key": "B20",
+		"name": "Joule metro cuadrado por kologramo"
+	},{
+		"key": "B21",
+		"name": "Kelvin por watt"
+	},{
+		"key": "B22",
+		"name": "Kiloamperio"
+	},{
+		"key": "B23",
+		"name": "Kiloamperio por metro cuadrado"
+	},{
+		"key": "B24",
+		"name": "Kiloamperio por metro"
+	},{
+		"key": "B25",
+		"name": "Kilobecquerel por metrocúbico"
+	},{
+		"key": "B26",
+		"name": "KiloCulombio"
+	},{
+		"key": "B27",
+		"name": "KiloCulombio por metro cúbico"
+	},{
+		"key": "B28",
+		"name": "KiloCulombio por metro cuadrado"
+	},{
+		"key": "B29",
+		"name": "Kiloelectrónvoltio"
+	},{
+		"key": "B3",
+		"name": "Libra de bateo"
+	},{
+		"key": "B30",
+		"name": "Gibibit"
+	},{
+		"key": "B31",
+		"name": "Kilogramo metro por segundo"
+	},{
+		"key": "B32",
+		"name": "Kilogramo metro cuadrado"
+	},{
+		"key": "B33",
+		"name": "Kilogramo metro cuadrado por segundo"
+	},{
+		"key": "B34",
+		"name": "Kilogramo por decímetro cúbico"
+	},{
+		"key": "B35",
+		"name": "Kilogramo por litro"
+	},{
+		"key": "B36",
+		"name": "Calorías (termoquímicas) por gramo"
+	},{
+		"key": "B37",
+		"name": "Kilogramo de fuerza"
+	},{
+		"key": "B38",
+		"name": "Kilogramo-metro de la fuerza"
+	},{
+		"key": "B39",
+		"name": "Kilogramo-fuerza del metro por segundo"
+	},{
+		"key": "B4",
+		"name": "Barril, unidad imperial"
+	},{
+		"key": "B40",
+		"name": "Kilogramo de fuerza por metro cuadrado"
+	},{
+		"key": "B41",
+		"name": "Kilojoule por kelvin"
+	},{
+		"key": "B42",
+		"name": "Kilojoule por kilogramo"
+	},{
+		"key": "B43",
+		"name": "Kilojoule por kilogramo kelvin"
+	},{
+		"key": "B44",
+		"name": "Kilojoule por Mol "
+	},{
+		"key": "B45",
+		"name": "KiloMol"
+	},{
+		"key": "B46",
+		"name": "KiloMol por metro cúbico"
+	},{
+		"key": "B47",
+		"name": "Kilonewton"
+	},{
+		"key": "B48",
+		"name": "Kilonewton metro"
+	},{
+		"key": "B49",
+		"name": "KiloOhm"
+	},{
+		"key": "B5",
+		"name": "palanquilla"
+	},{
+		"key": "B50",
+		"name": "KiloOhm metro"
+	},{
+		"key": "B51",
+		"name": "KiloLibra"
+	},{
+		"key": "B52",
+		"name": "Kilosegundo"
+	},{
+		"key": "B53",
+		"name": "Kilosiemens"
+	},{
+		"key": "B54",
+		"name": "Kilosiemens por metro"
+	},{
+		"key": "B55",
+		"name": "Kilovoltio por metro"
+	},{
+		"key": "B56",
+		"name": "Kiloweber por metro"
+	},{
+		"key": "B57",
+		"name": "Año luz"
+	},{
+		"key": "B58",
+		"name": "Litro por Mol"
+	},{
+		"key": "B59",
+		"name": "Lumen hora"
+	},{
+		"key": "B6",
+		"name": "Bollo"
+	},{
+		"key": "B60",
+		"name": "Lumen por metro cuadrado"
+	},{
+		"key": "B61",
+		"name": "Luminosidad por watt"
+	},{
+		"key": "B62",
+		"name": "Lumen segundo"
+	},{
+		"key": "B63",
+		"name": "Hora de luz"
+	},{
+		"key": "B64",
+		"name": "Segundo de luz"
+	},{
+		"key": "B65",
+		"name": "Maxwell"
+	},{
+		"key": "B66",
+		"name": "Megaamperio por metro cuadrado"
+	},{
+		"key": "B67",
+		"name": "Megabecquerel por kilogramo"
+	},{
+		"key": "B68",
+		"name": "Gigabit"
+	},{
+		"key": "B69",
+		"name": "MegaCulombio por metro cúbico"
+	},{
+		"key": "B7",
+		"name": "Ciclo"
+	},{
+		"key": "B70",
+		"name": "MegaCulombio por metro cuadrado"
+	},{
+		"key": "B71",
+		"name": "Megaelectrónvoltio"
+	},{
+		"key": "B72",
+		"name": "Megagramo por metro cúbico"
+	},{
+		"key": "B73",
+		"name": "Meganewton"
+	},{
+		"key": "B74",
+		"name": "Meganewton metro"
+	},{
+		"key": "B75",
+		"name": "MegaOhm"
+	},{
+		"key": "B76",
+		"name": "MegaOhm metro"
+	},{
+		"key": "B77",
+		"name": "Megasiemens por metro"
+	},{
+		"key": "B78",
+		"name": "Megavoltio "
+	},{
+		"key": "B79",
+		"name": "Megavoltio por metro"
+	},{
+		"key": "B8",
+		"name": "Joule por metro cúbico"
+	},{
+		"key": "B80",
+		"name": "Gigabit por segundo"
+	},{
+		"key": "B81",
+		"name": "Reciprocidad del metro cuadrado, reciprocidad del segundo"
+	},{
+		"key": "B82",
+		"name": "Pulgadas por pie lineal"
+	},{
+		"key": "B83",
+		"name": "Metro a la cuarta potencia"
+	},{
+		"key": "B84",
+		"name": "Microamperio"
+	},{
+		"key": "B85",
+		"name": "Microbar"
+	},{
+		"key": "B86",
+		"name": "MicroCulombio"
+	},{
+		"key": "B87",
+		"name": "MicroCulombio por metro cúbico"
+	},{
+		"key": "B88",
+		"name": "MicroCulombio por metro cuadrado"
+	},{
+		"key": "B89",
+		"name": "Microfaradio por metro"
+	},{
+		"key": "B9",
+		"name": "Batt"
+	},{
+		"key": "B90",
+		"name": "Microhenry"
+	},{
+		"key": "B91",
+		"name": "Microhenry por metro"
+	},{
+		"key": "B92",
+		"name": "Micronewton"
+	},{
+		"key": "B93",
+		"name": "Micronewton metro"
+	},{
+		"key": "B94",
+		"name": "Micro Ohm"
+	},{
+		"key": "B95",
+		"name": "MicroOhm metro"
+	},{
+		"key": "B96",
+		"name": "Micropascal"
+	},{
+		"key": "B97",
+		"name": "Microrradián"
+	},{
+		"key": "B98",
+		"name": "Microsegundo"
+	},{
+		"key": "B99",
+		"name": "Microsiemens"
+	},{
+		"key": "BAR",
+		"name": "Bar [unidad de presión]"
+	},{
+		"key": "BB",
+		"name": "Caja base"
+	},{
+		"key": "BFT",
+		"name": "Tablero de pies"
+	},{
+		"key": "BH",
+		"name": "Cepillo"
+	},{
+		"key": "BHP",
+		"name": "Potencia al freno"
+	},{
+		"key": "BIL",
+		"name": "Billon"
+	},{
+		"key": "BLD",
+		"name": "Barril seco (EUA)"
+	},{
+		"key": "BLL",
+		"name": "Barril (EUA)"
+	},{
+		"key": "BP",
+		"name": "Tabledo de cien pies"
+	},{
+		"key": "BPM",
+		"name": "Latidos por minuto"
+	},{
+		"key": "BQL",
+		"name": "Becquerel"
+	},{
+		"key": "BTU",
+		"name": "Unidad térmica británica (tabla internacional)"
+	},{
+		"key": "BUA",
+		"name": "Bushel (EUA)"
+	},{
+		"key": "BUI",
+		"name": "Bushel (UK)"
+	},{
+		"key": "BW",
+		"name": "Peso base"
+	},{
+		"key": "BZ",
+		"name": "Millones de BTUs"
+	},{
+		"key": "C0",
+		"name": "Llamada"
+	},{
+		"key": "C1",
+		"name": "Libra de producto compuesto (peso total)"
+	},{
+		"key": "C10",
+		"name": "Milifaradio"
+	},{
+		"key": "C11",
+		"name": "Miligalón"
+	},{
+		"key": "C12",
+		"name": "Miligramo por metro"
+	},{
+		"key": "C13",
+		"name": "MilliGray"
+	},{
+		"key": "C14",
+		"name": "Milihenry"
+	},{
+		"key": "C15",
+		"name": "Milijoule"
+	},{
+		"key": "C16",
+		"name": "Milímetro por segundo"
+	},{
+		"key": "C17",
+		"name": "Milímetro cuadrado por segundo"
+	},{
+		"key": "C18",
+		"name": "MiliMol"
+	},{
+		"key": "C19",
+		"name": "Mol por kilogramo"
+	},{
+		"key": "C2",
+		"name": "Carset"
+	},{
+		"key": "C20",
+		"name": "Milinewton"
+	},{
+		"key": "C21",
+		"name": "Kibibit"
+	},{
+		"key": "C22",
+		"name": "Milinewton por metro"
+	},{
+		"key": "C23",
+		"name": "MiliOhm metro"
+	},{
+		"key": "C24",
+		"name": "Milipascal segundo"
+	},{
+		"key": "C25",
+		"name": "Milirradián"
+	},{
+		"key": "C26",
+		"name": "Milisegundo"
+	},{
+		"key": "C27",
+		"name": "Milisiemens"
+	},{
+		"key": "C28",
+		"name": "MilliSievert"
+	},{
+		"key": "C29",
+		"name": "Militesla"
+	},{
+		"key": "C3",
+		"name": "Microvoltios por metro"
+	},{
+		"key": "C30",
+		"name": "Milivoltio por metro"
+	},{
+		"key": "C31",
+		"name": "Miliwatt"
+	},{
+		"key": "C32",
+		"name": "Miliwatt por metro cuadrado"
+	},{
+		"key": "C33",
+		"name": "Miliweber"
+	},{
+		"key": "C34",
+		"name": "Mol"
+	},{
+		"key": "C35",
+		"name": "Mol por decimetro cúbico"
+	},{
+		"key": "C36",
+		"name": "Mol por metro cúbico"
+	},{
+		"key": "C37",
+		"name": "Kilobits"
+	},{
+		"key": "C38",
+		"name": "Mol por litro"
+	},{
+		"key": "C39",
+		"name": "Nanoamperio"
+	},{
+		"key": "C4",
+		"name": "partido de carga"
+	},{
+		"key": "C40",
+		"name": "NanoCulombio"
+	},{
+		"key": "C41",
+		"name": "Nanofaradio"
+	},{
+		"key": "C42",
+		"name": "Nanofaradio por metro"
+	},{
+		"key": "C43",
+		"name": "Nanohenry"
+	},{
+		"key": "C44",
+		"name": "Nanohenry por metro"
+	},{
+		"key": "C45",
+		"name": "Nanómetro"
+	},{
+		"key": "C46",
+		"name": "NanoOhm metro"
+	},{
+		"key": "C47",
+		"name": "Nanosegundo"
+	},{
+		"key": "C48",
+		"name": "Nanotesla"
+	},{
+		"key": "C49",
+		"name": "Nanowatt"
+	},{
+		"key": "C5",
+		"name": "Costo"
+	},{
+		"key": "C50",
+		"name": "Neperio"
+	},{
+		"key": "C51",
+		"name": "Neperio por segundo"
+	},{
+		"key": "C52",
+		"name": "Picómetro"
+	},{
+		"key": "C53",
+		"name": "Newton metro segundo"
+	},{
+		"key": "C54",
+		"name": "Newton metro cuadrado por kilogramo cuadrado"
+	},{
+		"key": "C55",
+		"name": "Newton por metro cuadrado"
+	},{
+		"key": "C56",
+		"name": "Newton por milimetro cuadrado"
+	},{
+		"key": "C57",
+		"name": "Newton segundo"
+	},{
+		"key": "C58",
+		"name": "Segundos newton por metro"
+	},{
+		"key": "C59",
+		"name": "Octava"
+	},{
+		"key": "C6",
+		"name": "celda"
+	},{
+		"key": "C60",
+		"name": "Ohm centímetro"
+	},{
+		"key": "C61",
+		"name": "Ohm metro"
+	},{
+		"key": "C62",
+		"name": "Uno"
+	},{
+		"key": "C63",
+		"name": "Pársec"
+	},{
+		"key": "C64",
+		"name": "Pascal por kelvin"
+	},{
+		"key": "C65",
+		"name": "Pascal segundo"
+	},{
+		"key": "C66",
+		"name": "Segundos pascal por metro cúbico"
+	},{
+		"key": "C67",
+		"name": "Segundos pascal por metro "
+	},{
+		"key": "C68",
+		"name": "Petajoule"
+	},{
+		"key": "C69",
+		"name": "Phon"
+	},{
+		"key": "C7",
+		"name": "Centipoise"
+	},{
+		"key": "C70",
+		"name": "Picoamperio"
+	},{
+		"key": "C71",
+		"name": "PicoCulombio"
+	},{
+		"key": "C72",
+		"name": "Picofaradio por metro"
+	},{
+		"key": "C73",
+		"name": "Picohenry"
+	},{
+		"key": "C74",
+		"name": "Kilobits por segundo"
+	},{
+		"key": "C75",
+		"name": "Picowatt"
+	},{
+		"key": "C76",
+		"name": "Picowatt  por metro cuadrado"
+	},{
+		"key": "C77",
+		"name": "Calibre de libra"
+	},{
+		"key": "C78",
+		"name": "Libra fuerza"
+	},{
+		"key": "C79",
+		"name": "Kilovoltios horas amperios"
+	},{
+		"key": "C8",
+		"name": "MilliCulombio por kilogramo"
+	},{
+		"key": "C80",
+		"name": "Rad"
+	},{
+		"key": "C81",
+		"name": "Radián"
+	},{
+		"key": "C82",
+		"name": "Radianmetro cuadrado por Mol"
+	},{
+		"key": "C83",
+		"name": "Rradian metro cuadrado por kilogramo"
+	},{
+		"key": "C84",
+		"name": "Radían por metro"
+	},{
+		"key": "C85",
+		"name": "Reciprocidad Ámstrong"
+	},{
+		"key": "C86",
+		"name": "Reciprocidad del metro cúbico"
+	},{
+		"key": "C87",
+		"name": "Reciprocidad metro cúbico por segundo"
+	},{
+		"key": "C88",
+		"name": "Recíproco joule por metro cúbico"
+	},{
+		"key": "C89",
+		"name": "Henry recíproco"
+	},{
+		"key": "C9",
+		"name": "Grupo bobinas"
+	},{
+		"key": "C90",
+		"name": "Recíproco Henry"
+	},{
+		"key": "C91",
+		"name": "Recíprocidad de kelvin ó kelvin a la potencia menos 1"
+	},{
+		"key": "C92",
+		"name": "Reciprocidad Metro"
+	},{
+		"key": "C93",
+		"name": "Reciprocidad Metro cuadrado"
+	},{
+		"key": "C94",
+		"name": "Reciprocidad Minuto"
+	},{
+		"key": "C95",
+		"name": "Reciprocidad Mol"
+	},{
+		"key": "C96",
+		"name": "Reciprocidad Pascal o pascal a la potencia menos 1 "
+	},{
+		"key": "C97",
+		"name": "Reciprocidad Segundo"
+	},{
+		"key": "C98",
+		"name": "Segundo recíproco por metro cúbico"
+	},{
+		"key": "C99",
+		"name": "Reciprocidad Segundo por metro cuadrado"
+	},{
+		"key": "CCT",
+		"name": "Capacidad de carga en toneladas métricas"
+	},{
+		"key": "CDL",
+		"name": "Candela"
+	},{
+		"key": "CE",
+		"name": "Cada mes"
+	},{
+		"key": "CEL",
+		"name": "Grados celsius"
+	},{
+		"key": "CEN",
+		"name": "Centenar"
+	},{
+		"key": "CG",
+		"name": "Tarjeta"
+	},{
+		"key": "CGM",
+		"name": "Centígramo"
+	},{
+		"key": "CK",
+		"name": "Conector"
+	},{
+		"key": "CKG",
+		"name": "Culombio por kilogramo"
+	},{
+		"key": "CLF",
+		"name": "Cientos de hojas"
+	},{
+		"key": "CLT",
+		"name": "Centilitro"
+	},{
+		"key": "CMK",
+		"name": "Centímetro cuadrado"
+	},{
+		"key": "CMQ",
+		"name": "Centímetro cúbico"
+	},{
+		"key": "CMT",
+		"name": "Centímetro"
+	},{
+		"key": "CNP",
+		"name": "Cientos de paquetes"
+	},{
+		"key": "CNT",
+		"name": "Cental (UK)"
+	},{
+		"key": "COU",
+		"name": "Culombio"
+	},{
+		"key": "CTG",
+		"name": "Contenido en gramos"
+	},{
+		"key": "CTM",
+		"name": "Quilatage métrico"
+	},{
+		"key": "CTN",
+		"name": "Tonelada de contenido (métrica)"
+	},{
+		"key": "CUR",
+		"name": "Curie"
+	},{
+		"key": "CWA",
+		"name": "Hundred pound"
+	},{
+		"key": "CWI",
+		"name": "Hundredweight"
+	},{
+		"key": "CZ",
+		"name": "Combo"
+	},{
+		"key": "D03",
+		"name": "Kilovatio hora por hora"
+	},{
+		"key": "D04",
+		"name": "Lot [unidad de peso]"
+	},{
+		"key": "D1",
+		"name": "Segundo recíproco por estereorradián"
+	},{
+		"key": "D10",
+		"name": "Siemens por metro"
+	},{
+		"key": "D11",
+		"name": "Mebibit"
+	},{
+		"key": "D12",
+		"name": "Siemens metro cuadrado por Mol"
+	},{
+		"key": "D13",
+		"name": "Sievert"
+	},{
+		"key": "D14",
+		"name": "Yarda mil lineal"
+	},{
+		"key": "D15",
+		"name": "Sone"
+	},{
+		"key": "D16",
+		"name": "Centimetro cuadrado por erg"
+	},{
+		"key": "D17",
+		"name": "Centimetro cuadrado por esteroradian erg"
+	},{
+		"key": "D18",
+		"name": "Metro kelvin"
+	},{
+		"key": "D19",
+		"name": "Metro cuadrado kelvin por watt."
+	},{
+		"key": "D2",
+		"name": "Segundo recíproco por estereorradián metro cuadrado"
+	},{
+		"key": "D20",
+		"name": "Metro cuadrado por joule"
+	},{
+		"key": "D21",
+		"name": "Metro cuadrado por kilogramo"
+	},{
+		"key": "D22",
+		"name": "Metro cuadrado por Mol"
+	},{
+		"key": "D23",
+		"name": "Gramo pluma (proteína)"
+	},{
+		"key": "D24",
+		"name": "Metro cuadrado por esteroradian"
+	},{
+		"key": "D25",
+		"name": "Metro cuadrado por esteroradian joule"
+	},{
+		"key": "D26",
+		"name": "Metro cuadrado por voltiosegundo"
+	},{
+		"key": "D27",
+		"name": "Estereorradían"
+	},{
+		"key": "D28",
+		"name": "sifón"
+	},{
+		"key": "D29",
+		"name": "Terahertz"
+	},{
+		"key": "D30",
+		"name": "Terajoule"
+	},{
+		"key": "D31",
+		"name": "Terawatt"
+	},{
+		"key": "D32",
+		"name": "Terawatt hora "
+	},{
+		"key": "D33",
+		"name": "Tesla"
+	},{
+		"key": "D34",
+		"name": "Tex"
+	},{
+		"key": "D35",
+		"name": "Calorías (termoquímicas)"
+	},{
+		"key": "D36",
+		"name": "Megabit"
+	},{
+		"key": "D37",
+		"name": "Calorías (termoquímicas) por gramo de kelvin"
+	},{
+		"key": "D38",
+		"name": "Calorías (termoquímicas) por segundo centímetro kelvin"
+	},{
+		"key": "D39",
+		"name": "Calorías (termoquímicas) por segundo centímetro cuadrado kelvin"
+	},{
+		"key": "D40",
+		"name": "Mil litros"
+	},{
+		"key": "D41",
+		"name": "Tonelada por metro cúbico"
+	},{
+		"key": "D42",
+		"name": "Año tropical"
+	},{
+		"key": "D43",
+		"name": "Unidad de masa atómica unificada"
+	},{
+		"key": "D44",
+		"name": "Var"
+	},{
+		"key": "D45",
+		"name": "Voltio cuadrado por kelvin cuadrado"
+	},{
+		"key": "D46",
+		"name": "Voltioio-amperio"
+	},{
+		"key": "D47",
+		"name": "Voltio por centímetro"
+	},{
+		"key": "D48",
+		"name": "Voltio por Kelvin "
+	},{
+		"key": "D49",
+		"name": "Millivoltio por Kelvin "
+	},{
+		"key": "D5",
+		"name": "Kilogramo por centímetro cuadrado"
+	},{
+		"key": "D50",
+		"name": "Voltio por metro"
+	},{
+		"key": "D51",
+		"name": "Voltio por milímetro"
+	},{
+		"key": "D52",
+		"name": "Watt por kelvin"
+	},{
+		"key": "D53",
+		"name": "Watt por metro kelvin"
+	},{
+		"key": "D54",
+		"name": "Watt por metro cuadrado"
+	},{
+		"key": "D55",
+		"name": "Watt por metro cuadrado kelvin"
+	},{
+		"key": "D56",
+		"name": "Watt por metro cuadrado kelvin a la cuarta potencia"
+	},{
+		"key": "D57",
+		"name": "Watt por estereorradián"
+	},{
+		"key": "D58",
+		"name": "Watt por estereorradián metro cuadrado"
+	},{
+		"key": "D59",
+		"name": "Weber por metro"
+	},{
+		"key": "D6",
+		"name": "Roentgen por segundo"
+	},{
+		"key": "D60",
+		"name": "Weber por milímetro"
+	},{
+		"key": "D61",
+		"name": "Minuto [unidad de ángulo]"
+	},{
+		"key": "D62",
+		"name": "Segundo [unidad de ángulo]"
+	},{
+		"key": "D63",
+		"name": "Libro"
+	},{
+		"key": "D64",
+		"name": "bloquear"
+	},{
+		"key": "D65",
+		"name": "Redondo"
+	},{
+		"key": "D66",
+		"name": "casete"
+	},{
+		"key": "D67",
+		"name": "Dólar por hora"
+	},{
+		"key": "D68",
+		"name": "Número de palabras"
+	},{
+		"key": "D69",
+		"name": "Pulgada a la cuarta potencia"
+	},{
+		"key": "D7",
+		"name": "Sandwich"
+	},{
+		"key": "D70",
+		"name": "Calorías (tabla internacional)"
+	},{
+		"key": "D71",
+		"name": "Calorías (tabla internacional) por segundo centímetro kelvin"
+	},{
+		"key": "D72",
+		"name": "Calorías (tabla internacional) por segundo centímetro cuadrado kelvin"
+	},{
+		"key": "D73",
+		"name": "Joule metro cuadrado"
+	},{
+		"key": "D74",
+		"name": "Kilogramo por Mol"
+	},{
+		"key": "D75",
+		"name": "Calorías (tabla internacional) por gramo"
+	},{
+		"key": "D76",
+		"name": "Calorías (tabla internacional) por gramo de kelvin"
+	},{
+		"key": "D77",
+		"name": "MegaCulombio"
+	},{
+		"key": "D78",
+		"name": "Megajoule por segundo"
+	},{
+		"key": "D79",
+		"name": "Viga"
+	},{
+		"key": "D8",
+		"name": "Draize score"
+	},{
+		"key": "D80",
+		"name": "Microwatt"
+	},{
+		"key": "D81",
+		"name": "Microtesla"
+	},{
+		"key": "D82",
+		"name": "Microvoltio"
+	},{
+		"key": "D83",
+		"name": "Milinewton metro"
+	},{
+		"key": "D85",
+		"name": "Microwatt por metro cuadrado"
+	},{
+		"key": "D86",
+		"name": "MiliCulombio"
+	},{
+		"key": "D87",
+		"name": "MiliMol por kilogramo"
+	},{
+		"key": "D88",
+		"name": "MiliCulombio por metro cúbico"
+	},{
+		"key": "D89",
+		"name": "MiliCulombio por metro cuadrado"
+	},{
+		"key": "D9",
+		"name": "Dina por centímetro cuadrado"
+	},{
+		"key": "D90",
+		"name": "Metro cúbico (neta)"
+	},{
+		"key": "D91",
+		"name": "Rem"
+	},{
+		"key": "D92",
+		"name": "banda"
+	},{
+		"key": "D93",
+		"name": "Segundo por metro cúbico"
+	},{
+		"key": "D94",
+		"name": "Segundo por metro cúbico Radian"
+	},{
+		"key": "D95",
+		"name": "Joule por gramo"
+	},{
+		"key": "D96",
+		"name": "Libra bruta"
+	},{
+		"key": "D98",
+		"name": "Libra masiva"
+	},{
+		"key": "D99",
+		"name": "manga"
+	},{
+		"key": "DAA",
+		"name": "Decar"
+	},{
+		"key": "DAD",
+		"name": "Decena de días"
+	},{
+		"key": "DAY",
+		"name": "Día"
+	},{
+		"key": "DB",
+		"name": "Libra seca"
+	},{
+		"key": "DC",
+		"name": "Disco (disco)"
+	},{
+		"key": "DD",
+		"name": "Grado [unidad de ángulo]"
+	},{
+		"key": "DE",
+		"name": "Acuerdo"
+	},{
+		"key": "DEC",
+		"name": "Década"
+	},{
+		"key": "DG",
+		"name": "Decigramo"
+	},{
+		"key": "DI",
+		"name": "dispensador"
+	},{
+		"key": "DJ",
+		"name": "Decagramo"
+	},{
+		"key": "DLT",
+		"name": "Decilitro"
+	},{
+		"key": "DMA",
+		"name": "Decámetro cúbico"
+	},{
+		"key": "DMK",
+		"name": "Decímetro cuadrado "
+	},{
+		"key": "DMO",
+		"name": "Kiloliter norma"
+	},{
+		"key": "DMQ",
+		"name": "Decímetro cúbico"
+	},{
+		"key": "DMT",
+		"name": "Decímetro"
+	},{
+		"key": "DN",
+		"name": "Decinewton metro"
+	},{
+		"key": "DPC",
+		"name": "Docenas de piezas"
+	},{
+		"key": "DPR",
+		"name": "Docenas de pares"
+	},{
+		"key": "DPT",
+		"name": "Peso de desplazamiento"
+	},{
+		"key": "DQ",
+		"name": "registro de datos"
+	},{
+		"key": "DRA",
+		"name": "Dram (EUA)"
+	},{
+		"key": "DRI",
+		"name": "Dram (UK)"
+	},{
+		"key": "DRL",
+		"name": "Docena de rodillos"
+	},{
+		"key": "DRM",
+		"name": "Drachm (UK)"
+	},{
+		"key": "DS",
+		"name": "monitor"
+	},{
+		"key": "DT",
+		"name": "Tonelada seca"
+	},{
+		"key": "DTN",
+		"name": "Decitonelada métrica"
+	},{
+		"key": "DU",
+		"name": "dina"
+	},{
+		"key": "DWT",
+		"name": "Pennyweight"
+	},{
+		"key": "Dx",
+		"name": "Dina por centímetro"
+	},{
+		"key": "DY",
+		"name": "Libro de directorio"
+	},{
+		"key": "DZN",
+		"name": "Docena"
+	},{
+		"key": "DZP",
+		"name": "Docena de paquete"
+	},{
+		"key": "E01",
+		"name": "Newton por centímetro cuadrado"
+	},{
+		"key": "E07",
+		"name": "Megawatt hora por hora"
+	},{
+		"key": "E08",
+		"name": "Megavatios por hertz"
+	},{
+		"key": "E09",
+		"name": "Miliamperio hora"
+	},{
+		"key": "E10",
+		"name": "Día de grado"
+	},{
+		"key": "E11",
+		"name": "Gigacalorie"
+	},{
+		"key": "E12",
+		"name": "Mille"
+	},{
+		"key": "E14",
+		"name": "Kilocaloría (tabla internacional)"
+	},{
+		"key": "E15",
+		"name": "Kilocaloría (termoquímica) por hora"
+	},{
+		"key": "E16",
+		"name": "Millón de btu (ti) por hora"
+	},{
+		"key": "E17",
+		"name": "Pie cúbico por segundo"
+	},{
+		"key": "E18",
+		"name": "Tonelada por hora"
+	},{
+		"key": "E19",
+		"name": "Ping"
+	},{
+		"key": "E20",
+		"name": "Megabit por segundo"
+	},{
+		"key": "E21",
+		"name": "Shares"
+	},{
+		"key": "E22",
+		"name": "Tue"
+	},{
+		"key": "E23",
+		"name": "Neumático"
+	},{
+		"key": "E25",
+		"name": "Unidad activa"
+	},{
+		"key": "E27",
+		"name": "Dosis"
+	},{
+		"key": "E28",
+		"name": "Tonelada seca de aire"
+	},{
+		"key": "E3",
+		"name": "remolque"
+	},{
+		"key": "E30",
+		"name": "Hebra"
+	},{
+		"key": "E31",
+		"name": "Metro cuadrado por litro"
+	},{
+		"key": "E32",
+		"name": "Litros por hora"
+	},{
+		"key": "E33",
+		"name": "Por mil pies"
+	},{
+		"key": "E34",
+		"name": "Gigabyte"
+	},{
+		"key": "E35",
+		"name": "Terabyte"
+	},{
+		"key": "E36",
+		"name": "Petabyte"
+	},{
+		"key": "E37",
+		"name": "Pixel"
+	},{
+		"key": "E38",
+		"name": "Megapíxeles"
+	},{
+		"key": "E39",
+		"name": "Puntos por pulgada"
+	},{
+		"key": "E4",
+		"name": "Kilo bruto"
+	},{
+		"key": "E40",
+		"name": "Parte por cien mil"
+	},{
+		"key": "E41",
+		"name": "Kilogramo-fuerza por milímetro cuadrado"
+	},{
+		"key": "E42",
+		"name": "Kilogramo-fuerza por centímetro cuadrado"
+	},{
+		"key": "E43",
+		"name": "Joule por centímetro cuadrado"
+	},{
+		"key": "E44",
+		"name": "Metros kilogramo-fuerza por centímetro cuadrado"
+	},{
+		"key": "E45",
+		"name": "MiliOhm"
+	},{
+		"key": "E46",
+		"name": "Kilovatio hora por metro cúbico"
+	},{
+		"key": "E47",
+		"name": "Kilovatio hora por kelvin"
+	},{
+		"key": "E48",
+		"name": "Unidad de servicio"
+	},{
+		"key": "E49",
+		"name": "Día de trabajo"
+	},{
+		"key": "E5",
+		"name": "Tonelada métrica larga"
+	},{
+		"key": "E50",
+		"name": "Unidad de cuenta"
+	},{
+		"key": "E51",
+		"name": "Trabajo"
+	},{
+		"key": "E52",
+		"name": "Run foot"
+	},{
+		"key": "E53",
+		"name": "Prueba"
+	},{
+		"key": "E54",
+		"name": "Viaje"
+	},{
+		"key": "E55",
+		"name": "Utilizar"
+	},{
+		"key": "E56",
+		"name": "Bien"
+	},{
+		"key": "E57",
+		"name": "Zona"
+	},{
+		"key": "E58",
+		"name": "Exabit por segundo"
+	},{
+		"key": "E59",
+		"name": "Exbibyte"
+	},{
+		"key": "E60",
+		"name": "Pebibyte"
+	},{
+		"key": "E61",
+		"name": "Tebibyte"
+	},{
+		"key": "E62",
+		"name": "Gibibyte"
+	},{
+		"key": "E63",
+		"name": "Mebibyte"
+	},{
+		"key": "E64",
+		"name": "Kibibyte"
+	},{
+		"key": "E65",
+		"name": "Exbibit por metro"
+	},{
+		"key": "E66",
+		"name": "Exbibit por metro cuadrado"
+	},{
+		"key": "E67",
+		"name": "Exbibit por metro cúbico"
+	},{
+		"key": "E68",
+		"name": "Gigabyte por segundo"
+	},{
+		"key": "E69",
+		"name": "Gibibit por metro"
+	},{
+		"key": "E70",
+		"name": "Gibibit por metro cuadrado"
+	},{
+		"key": "E71",
+		"name": "Gibibit por metro cúbico"
+	},{
+		"key": "E72",
+		"name": "Kibibit por metro"
+	},{
+		"key": "E73",
+		"name": "Kibibit por metro cuadrado"
+	},{
+		"key": "E74",
+		"name": "Kikibit por metro cúbico."
+	},{
+		"key": "E75",
+		"name": "Mebbit por metro."
+	},{
+		"key": "E76",
+		"name": "Mebbitt por metro cuadrado."
+	},{
+		"key": "E77",
+		"name": "Mebbit por metro cúbico. "
+	},{
+		"key": "E78",
+		"name": "Petabit"
+	},{
+		"key": "E79",
+		"name": "Pebibit por segundo."
+	},{
+		"key": "E80",
+		"name": "Pebibit por metro."
+	},{
+		"key": "E81",
+		"name": "Pebibit por metro cuadrado."
+	},{
+		"key": "E82",
+		"name": "Pebibit por metro cúbico."
+	},{
+		"key": "E83",
+		"name": "Tebibit."
+	},{
+		"key": "E84",
+		"name": "Tebibit por segundo"
+	},{
+		"key": "E85",
+		"name": "Tebibit por metro."
+	},{
+		"key": "E86",
+		"name": "Tebibit por metro cúbico."
+	},{
+		"key": "E87",
+		"name": "Tebibit por metro cuadrado"
+	},{
+		"key": "E88",
+		"name": "Bit por metro"
+	},{
+		"key": "E89",
+		"name": "Bit por metro cuadrado"
+	},{
+		"key": "E90",
+		"name": "Centímetro recíproco"
+	},{
+		"key": "E91",
+		"name": "Día recíproco"
+	},{
+		"key": "E92",
+		"name": "Decímetro cúbico por hora"
+	},{
+		"key": "E93",
+		"name": "Kilogramo por hora"
+	},{
+		"key": "E94",
+		"name": "KiloMol por segundo"
+	},{
+		"key": "E95",
+		"name": "Mol por segundo"
+	},{
+		"key": "E96",
+		"name": "Grado por segundo"
+	},{
+		"key": "E97",
+		"name": "Mililitro por gadro celsius metro"
+	},{
+		"key": "E98",
+		"name": "Grado celsius por kelvin"
+	},{
+		"key": "E99",
+		"name": "Hectopascal por bar"
+	},{
+		"key": "EA",
+		"name": "Elemento"
+	},{
+		"key": "EB",
+		"name": "Casilla de correo electrónico"
+	},{
+		"key": "EP",
+		"name": "Paquete de once"
+	},{
+		"key": "EQ",
+		"name": "Galón equivalente"
+	},{
+		"key": "F01",
+		"name": "Bit por metro cúbico"
+	},{
+		"key": "F02",
+		"name": "Kelvin por kelvin"
+	},{
+		"key": "F03",
+		"name": "Kilopascal por bar"
+	},{
+		"key": "F04",
+		"name": "Milibar por bar"
+	},{
+		"key": "F05",
+		"name": "Megapascal por bar"
+	},{
+		"key": "F06",
+		"name": "Poise por bar"
+	},{
+		"key": "F07",
+		"name": "Pascal por bar"
+	},{
+		"key": "F08",
+		"name": "Miliamperio por pulgada"
+	},{
+		"key": "F1",
+		"name": "Mil pies cúbicos por día"
+	},{
+		"key": "F10",
+		"name": "Kelvin por hora"
+	},{
+		"key": "F11",
+		"name": "Kelvin por minuto"
+	},{
+		"key": "F12",
+		"name": "Kelvin por segundo"
+	},{
+		"key": "F13",
+		"name": "Slug"
+	},{
+		"key": "F14",
+		"name": "Gramo por kelvin"
+	},{
+		"key": "F15",
+		"name": "Kilogramo por kelvin"
+	},{
+		"key": "F16",
+		"name": "Miligramo por kelvin"
+	},{
+		"key": "F17",
+		"name": "Libra fuerza por pie"
+	},{
+		"key": "F18",
+		"name": "Kilogramo centímetro cuadrado"
+	},{
+		"key": "F19",
+		"name": "Kilogramo milimetro cuadrado"
+	},{
+		"key": "F20",
+		"name": "Libra pulgada cuadrada"
+	},{
+		"key": "F21",
+		"name": "Libra fuerza pulgada"
+	},{
+		"key": "F22",
+		"name": "Libra fuerza por pie entre amperio"
+	},{
+		"key": "F23",
+		"name": "Gramo por decímetro cúbico"
+	},{
+		"key": "F24",
+		"name": "Kilogramo por kiloMol"
+	},{
+		"key": "F25",
+		"name": "Gramo por hertz"
+	},{
+		"key": "F26",
+		"name": "Gramo por día"
+	},{
+		"key": "F27",
+		"name": "Gramo por hora"
+	},{
+		"key": "F28",
+		"name": "Gramo por minuto"
+	},{
+		"key": "F29",
+		"name": "Gramo por segundo"
+	},{
+		"key": "F30",
+		"name": "Kilogramo por día"
+	},{
+		"key": "F31",
+		"name": "Kilogramo por minuto"
+	},{
+		"key": "F32",
+		"name": "Miligramo por dia"
+	},{
+		"key": "F33",
+		"name": "Miligramo por minuto"
+	},{
+		"key": "F34",
+		"name": "Miligramo por segundo"
+	},{
+		"key": "F35",
+		"name": "Gramo por día kelvin"
+	},{
+		"key": "F36",
+		"name": "Gramo por hora kelvin"
+	},{
+		"key": "F37",
+		"name": "Gramo por minuto kelvin"
+	},{
+		"key": "F38",
+		"name": "Gramo por segundo kelvin"
+	},{
+		"key": "F39",
+		"name": "Kilogramo por día kelvin"
+	},{
+		"key": "F40",
+		"name": "Kilogramo por hora kelvin"
+	},{
+		"key": "F41",
+		"name": "Kilogramo por minuto kelvin"
+	},{
+		"key": "F42",
+		"name": "Kilogramo por segundo kelvin"
+	},{
+		"key": "F43",
+		"name": "Miligramo por día kelvin"
+	},{
+		"key": "F44",
+		"name": "Miligramo por hora kelvin"
+	},{
+		"key": "F45",
+		"name": "Miligramo por minuto kelvin"
+	},{
+		"key": "F46",
+		"name": "Miligramo por segundo kelvin"
+	},{
+		"key": "F47",
+		"name": "Newton por milímetro"
+	},{
+		"key": "F48",
+		"name": "Libra fuerza por pulgada"
+	},{
+		"key": "F49",
+		"name": "Rod (Unidad de distancia)"
+	},{
+		"key": "F50",
+		"name": "Micrómetro por kelvin"
+	},{
+		"key": "F51",
+		"name": "Centímetro por kelvin"
+	},{
+		"key": "F52",
+		"name": "Metro por kelvin"
+	},{
+		"key": "F53",
+		"name": "Mililitro por kelvin"
+	},{
+		"key": "F54",
+		"name": "MiliOhm por metro"
+	},{
+		"key": "F55",
+		"name": "Ohm por milla (milla estatal)"
+	},{
+		"key": "F56",
+		"name": "Ohm por kilómetro"
+	},{
+		"key": "F57",
+		"name": "Miliamperio por libra-fuerza por pulgada cuadrada"
+	},{
+		"key": "F58",
+		"name": "Bar recíproco"
+	},{
+		"key": "F59",
+		"name": "Miliamperio por bar"
+	},{
+		"key": "F60",
+		"name": "Grado celsius por bar"
+	},{
+		"key": "F61",
+		"name": "Kelvin por bar"
+	},{
+		"key": "F62",
+		"name": "Gramo por día bar"
+	},{
+		"key": "F63",
+		"name": "Gramo por hora bar"
+	},{
+		"key": "F64",
+		"name": "Gramo por minuto bar"
+	},{
+		"key": "F65",
+		"name": "Gramo por segundo bar"
+	},{
+		"key": "F66",
+		"name": "Kililogramo por día bar"
+	},{
+		"key": "F67",
+		"name": "Kilogramo por hora bar"
+	},{
+		"key": "F68",
+		"name": "Kilogramo por minuto bar"
+	},{
+		"key": "F69",
+		"name": "Kilogramo por segundo bar"
+	},{
+		"key": "F70",
+		"name": "Miligramo por día bar"
+	},{
+		"key": "F71",
+		"name": "Miligramo por hora bar"
+	},{
+		"key": "F72",
+		"name": "Miligramo por minuto bar"
+	},{
+		"key": "F73",
+		"name": "Miligramo por segundo bar"
+	},{
+		"key": "F74",
+		"name": "Gramo por bar"
+	},{
+		"key": "F75",
+		"name": "Miligramo por bar"
+	},{
+		"key": "F76",
+		"name": "Miliamperio por milímetro"
+	},{
+		"key": "F77",
+		"name": "Pascal segundo por kelvin"
+	},{
+		"key": "F78",
+		"name": "Pulgada de agua"
+	},{
+		"key": "F79",
+		"name": "Pulgada de mercurio"
+	},{
+		"key": "F80",
+		"name": "Caballos de fuerza de agua"
+	},{
+		"key": "F81",
+		"name": "Bar por kelvin"
+	},{
+		"key": "F82",
+		"name": "Hectopascal por kelvin"
+	},{
+		"key": "F83",
+		"name": "Kilopascal por kelvin"
+	},{
+		"key": "F84",
+		"name": "Milibar por kelvin"
+	},{
+		"key": "F85",
+		"name": "Megapascal por kelvin"
+	},{
+		"key": "F86",
+		"name": "Poise por kelvin"
+	},{
+		"key": "F87",
+		"name": "Voltio por litro minuto"
+	},{
+		"key": "F88",
+		"name": "Newton centímetro"
+	},{
+		"key": "F89",
+		"name": "Newton metro por grados"
+	},{
+		"key": "F9",
+		"name": "Fibra por centímetro cúbico de aire"
+	},{
+		"key": "F90",
+		"name": "Newton metro por amperio"
+	},{
+		"key": "F91",
+		"name": "Bar litro por segundo"
+	},{
+		"key": "F92",
+		"name": "Bar metro cúbico por segundo"
+	},{
+		"key": "F93",
+		"name": "Hectopascal litro por segundo"
+	},{
+		"key": "F94",
+		"name": "Hectopascal metro cúbico por segundo"
+	},{
+		"key": "F95",
+		"name": "Milibar litro por segundo"
+	},{
+		"key": "F96",
+		"name": "Milibar metro cúbico por segundo"
+	},{
+		"key": "F97",
+		"name": "Megapascal litro por segundo"
+	},{
+		"key": "F98",
+		"name": "Megapascal metro cúbico por segundo"
+	},{
+		"key": "F99",
+		"name": "Pascal litro por segundo"
+	},{
+		"key": "FAH",
+		"name": "Grado fahrenheit"
+	},{
+		"key": "FAR",
+		"name": "Farad"
+	},{
+		"key": "FB",
+		"name": "campo"
+	},{
+		"key": "FBM",
+		"name": "Medidor de fibra"
+	},{
+		"key": "FC",
+		"name": "Mil pies cúbicos"
+	},{
+		"key": "FD",
+		"name": "Millones de partículas por pie cúbico"
+	},{
+		"key": "FE",
+		"name": "Pie de pista"
+	},{
+		"key": "FF",
+		"name": "Cien metros cúbicos"
+	},{
+		"key": "FG",
+		"name": "Parche transdérmico"
+	},{
+		"key": "FH",
+		"name": "MicroMol"
+	},{
+		"key": "FIT",
+		"name": "Fallas en el tiempo"
+	},{
+		"key": "FL",
+		"name": "Flake ton"
+	},{
+		"key": "FM",
+		"name": "Millones de pies cúbicos"
+	},{
+		"key": "FOT",
+		"name": "Pie"
+	},{
+		"key": "FP",
+		"name": "Libra por pie cuadrado"
+	},{
+		"key": "FR",
+		"name": "Pie por minuto"
+	},{
+		"key": "FS",
+		"name": "Pie por segundo"
+	},{
+		"key": "FTK",
+		"name": "Pie cuadrado"
+	},{
+		"key": "FTQ",
+		"name": "Pie cúbico"
+	},{
+		"key": "G01",
+		"name": "Pascal metro cúbico por segundo"
+	},{
+		"key": "G04",
+		"name": "Centímetro por bar"
+	},{
+		"key": "G05",
+		"name": "Metro por bar "
+	},{
+		"key": "G06",
+		"name": "Milímetro por bar "
+	},{
+		"key": "G08",
+		"name": "Pulgada cuadrada por segundo"
+	},{
+		"key": "G09",
+		"name": "Metro cuadrado por segundo kelvin"
+	},{
+		"key": "G10",
+		"name": "Stokes por kelvin"
+	},{
+		"key": "G11",
+		"name": "Gramo por centímetro cúbico bar"
+	},{
+		"key": "G12",
+		"name": "Gramo por decímetro cúbico bar"
+	},{
+		"key": "G13",
+		"name": "Gramo por litro bar"
+	},{
+		"key": "G14",
+		"name": "Gramo por metro cúbico bar"
+	},{
+		"key": "G15",
+		"name": "Gramo por mililitro bar"
+	},{
+		"key": "G16",
+		"name": "Kilogramo por centímetro cúbico bar"
+	},{
+		"key": "G17",
+		"name": "Kilogramo por litro bar"
+	},{
+		"key": "G18",
+		"name": "Kilogramo por metro cúbico bar"
+	},{
+		"key": "G19",
+		"name": "Newton metro por kilogramo"
+	},{
+		"key": "G2",
+		"name": "Galón (EUA) por minuto"
+	},{
+		"key": "G20",
+		"name": "Libra-fuerza pie por libra"
+	},{
+		"key": "G21",
+		"name": "Taza (unidad de volumen)"
+	},{
+		"key": "G23",
+		"name": "Peck"
+	},{
+		"key": "G24",
+		"name": "Cucharada (estados unidos)"
+	},{
+		"key": "G25",
+		"name": "Cucharilla (estados unidos)"
+	},{
+		"key": "G26",
+		"name": "Estere"
+	},{
+		"key": "G27",
+		"name": "Centímetro cúbico por kelvin"
+	},{
+		"key": "G28",
+		"name": "Litro por kelvin"
+	},{
+		"key": "G29",
+		"name": "Metro cúbico por kelvin"
+	},{
+		"key": "G3",
+		"name": "Galón (RU) por minuto"
+	},{
+		"key": "G30",
+		"name": "Mililitro por klevin"
+	},{
+		"key": "G31",
+		"name": "Kilogramo por centímetro cúbico"
+	},{
+		"key": "G32",
+		"name": "Onza (avoirdupois) por yarda cúbica"
+	},{
+		"key": "G33",
+		"name": "Gramo por centímetro cúbico kelvin"
+	},{
+		"key": "G34",
+		"name": "Gramo por decímetro cúbico kelvin"
+	},{
+		"key": "G35",
+		"name": "Gramo por litro kelvin"
+	},{
+		"key": "G36",
+		"name": "Gramo por metro cúbico kelvin"
+	},{
+		"key": "G37",
+		"name": "Gramo por mililitro kelvin"
+	},{
+		"key": "G38",
+		"name": "Kilogramo por centímetro cúbico kelvin"
+	},{
+		"key": "G39",
+		"name": "Kilogramo por litro kelvin"
+	},{
+		"key": "G40",
+		"name": "Kilogramo por metro cúbico kelvin"
+	},{
+		"key": "G41",
+		"name": "Metro cuadrado por segundo bar"
+	},{
+		"key": "G42",
+		"name": "Microsiemens por centímetro"
+	},{
+		"key": "G43",
+		"name": "Microsiemens por metro"
+	},{
+		"key": "G44",
+		"name": "Nanosiemens por centímetro"
+	},{
+		"key": "G45",
+		"name": "Nanosiemens por metro"
+	},{
+		"key": "G46",
+		"name": "Stokes por bar"
+	},{
+		"key": "G47",
+		"name": "Centímetro cúbico por día"
+	},{
+		"key": "G48",
+		"name": "Centímetro cúbico por hora"
+	},{
+		"key": "G49",
+		"name": "Centímetro cúbico por minuto"
+	},{
+		"key": "G50",
+		"name": "Galón por hora"
+	},{
+		"key": "G51",
+		"name": "Litro por segundo"
+	},{
+		"key": "G52",
+		"name": "Metro cúbico por día"
+	},{
+		"key": "G53",
+		"name": "Metro cúbico por minuto"
+	},{
+		"key": "G54",
+		"name": "Mililitro por día"
+	},{
+		"key": "G55",
+		"name": "Mililitro por hora"
+	},{
+		"key": "G56",
+		"name": "Pulgada cúbica por hora"
+	},{
+		"key": "G57",
+		"name": "Pulgada cúbica por minuto"
+	},{
+		"key": "G58",
+		"name": "Pulgada cúbica por segundo"
+	},{
+		"key": "G59",
+		"name": "Miliamperio por litro minuto"
+	},{
+		"key": "G60",
+		"name": "Voltio por bar"
+	},{
+		"key": "G61",
+		"name": "Centímetro cúbico por día kelvin"
+	},{
+		"key": "G62",
+		"name": "Centímetro cúbico por hora kelvin"
+	},{
+		"key": "G63",
+		"name": "Centímetro cúbico por minuto kelvin"
+	},{
+		"key": "G64",
+		"name": "Centímetro cúbico por segundo kelvin"
+	},{
+		"key": "G65",
+		"name": "Litro por día kelvin"
+	},{
+		"key": "G66",
+		"name": "Litro por hora kelvin"
+	},{
+		"key": "G67",
+		"name": "Litro por minuto kelvin"
+	},{
+		"key": "G68",
+		"name": "Litro por segundo kelvin"
+	},{
+		"key": "G69",
+		"name": "Metro cúbico por día kelvin"
+	},{
+		"key": "G7",
+		"name": "Hoja de microficha"
+	},{
+		"key": "G70",
+		"name": "Metro cúbico por hora kelvin"
+	},{
+		"key": "G71",
+		"name": "Metro cúbico por minuto kelvin"
+	},{
+		"key": "G72",
+		"name": "Metro cúbico por segundo kelvin"
+	},{
+		"key": "G73",
+		"name": "Mililitro por día kelvin"
+	},{
+		"key": "G74",
+		"name": "Mililitro por hora kelvin"
+	},{
+		"key": "G75",
+		"name": "Mililitro por minuto kelvin"
+	},{
+		"key": "G76",
+		"name": "Mililitro por segundo kelvin"
+	},{
+		"key": "G77",
+		"name": "Milímetro a la cuarta potencia "
+	},{
+		"key": "G78",
+		"name": "Centímetro cúbico por día bar"
+	},{
+		"key": "G79",
+		"name": "Centímetro cúbico por hora bar"
+	},{
+		"key": "G80",
+		"name": "Centímetro cúbico por minuto bar"
+	},{
+		"key": "G81",
+		"name": "Centímetro cúbico por segundo bar"
+	},{
+		"key": "G82",
+		"name": "Litro por día bar"
+	},{
+		"key": "G83",
+		"name": "Litro por hora bar"
+	},{
+		"key": "G84",
+		"name": "Litro por minuto bar"
+	},{
+		"key": "G85",
+		"name": "Litro por segundo bar"
+	},{
+		"key": "G86",
+		"name": "Metro cúbico por día bar"
+	},{
+		"key": "G87",
+		"name": "Metro cúbico por hora bar"
+	},{
+		"key": "G88",
+		"name": "Metro cúbico por minuto bar"
+	},{
+		"key": "G89",
+		"name": "Metro cúbico por segundo bar"
+	},{
+		"key": "G90",
+		"name": "Mililitro por día bar"
+	},{
+		"key": "G91",
+		"name": "Mililitro por hora bar"
+	},{
+		"key": "G92",
+		"name": "Mililitro por minuto bar"
+	},{
+		"key": "G93",
+		"name": "Mililitro por segundo bar"
+	},{
+		"key": "G94",
+		"name": "Centímetro cúbico por bar"
+	},{
+		"key": "G95",
+		"name": "Litro por bar"
+	},{
+		"key": "G96",
+		"name": "Metro cúbico por bar"
+	},{
+		"key": "G97",
+		"name": "Mililitro por bar "
+	},{
+		"key": "G98",
+		"name": "Micro henry por kiloOhm"
+	},{
+		"key": "G99",
+		"name": "Micro henry por Ohm"
+	},{
+		"key": "GB",
+		"name": "Galón (EUA) por día"
+	},{
+		"key": "GBQ",
+		"name": "Gigabecquerel"
+	},{
+		"key": "GC",
+		"name": "Gramo por 100 gramos"
+	},{
+		"key": "Gd",
+		"name": "Barril bruto"
+	},{
+		"key": "GDW",
+		"name": "Gramo, peso seco"
+	},{
+		"key": "GE",
+		"name": "Libra por galón (EUA)"
+	},{
+		"key": "GF",
+		"name": "Gramo por metro (gramo por 100 centímetros)"
+	},{
+		"key": "GFI",
+		"name": "Gramo de isótopo fisible"
+	},{
+		"key": "GGR",
+		"name": "Grandioso"
+	},{
+		"key": "GH",
+		"name": "Medio galón (US)"
+	},{
+		"key": "GIA",
+		"name": "Gill (us)"
+	},{
+		"key": "GIC",
+		"name": "Gramo, incluido el contenedor"
+	},{
+		"key": "GII",
+		"name": "Gill (uk)"
+	},{
+		"key": "GIP",
+		"name": "Grama, incluido el embalaje interior"
+	},{
+		"key": "GJ",
+		"name": "Gramo por mililitro"
+	},{
+		"key": "GK",
+		"name": "Gramo por kilogramo"
+	},{
+		"key": "GL",
+		"name": "Gramo por litro"
+	},{
+		"key": "GLD",
+		"name": "Galón seco (EUA)"
+	},{
+		"key": "GLI",
+		"name": "Galón (UK)"
+	},{
+		"key": "GLL",
+		"name": "Galón (EUA)"
+	},{
+		"key": "GM",
+		"name": "Gramo por metro cuadrado"
+	},{
+		"key": "GN",
+		"name": "Galón bruto"
+	},{
+		"key": "GO",
+		"name": "Miligramo por metro cuadrado"
+	},{
+		"key": "GP",
+		"name": "Miligramo por metro cúbico"
+	},{
+		"key": "GQ",
+		"name": "Microgramo por metro cúbico"
+	},{
+		"key": "GRM",
+		"name": "Gramo"
+	},{
+		"key": "GRN",
+		"name": "Grano"
+	},{
+		"key": "GRO",
+		"name": "Gross"
+	},{
+		"key": "GT",
+		"name": "Tonelada bruta"
+	},{
+		"key": "GV",
+		"name": "Gigajoule"
+	},{
+		"key": "GW",
+		"name": "Galón por mil pies cúbicos"
+	},{
+		"key": "GWH",
+		"name": "Gigawatt hora"
+	},{
+		"key": "GY",
+		"name": "Patio grueso"
+	},{
+		"key": "GZ",
+		"name": "Sistema de calibración"
+	},{
+		"key": "H03",
+		"name": "Henry por kiloOhm"
+	},{
+		"key": "H04",
+		"name": "Henry por Ohm"
+	},{
+		"key": "H05",
+		"name": "Milihenry por kiloOhm"
+	},{
+		"key": "H06",
+		"name": "Milihenry por Ohm"
+	},{
+		"key": "H07",
+		"name": "Pascal segundo por bar"
+	},{
+		"key": "H08",
+		"name": "Microbequerel"
+	},{
+		"key": "H09",
+		"name": "Año recíproco"
+	},{
+		"key": "H1",
+		"name": "Media página - electrónica"
+	},{
+		"key": "H10",
+		"name": "Hora recíproca"
+	},{
+		"key": "H11",
+		"name": "Mes recíproco"
+	},{
+		"key": "H12",
+		"name": "Grado celsius por hora"
+	},{
+		"key": "H13",
+		"name": "Grado celsius por minuto"
+	},{
+		"key": "H14",
+		"name": "Grado celsius por segundo"
+	},{
+		"key": "H15",
+		"name": "Centímetro cudrado por gramo"
+	},{
+		"key": "H16",
+		"name": "Decámetro cuadrado"
+	},{
+		"key": "H18",
+		"name": "Hectómetro cuadrado"
+	},{
+		"key": "H19",
+		"name": "Hectómetro cúbico"
+	},{
+		"key": "H2",
+		"name": "Medio litro"
+	},{
+		"key": "H20",
+		"name": "Kilómetro cúbico"
+	},{
+		"key": "H21",
+		"name": "Blanco"
+	},{
+		"key": "H22",
+		"name": "Voltio pulgada cuadrada por libra fuerza"
+	},{
+		"key": "H23",
+		"name": "Voltio por pulgada"
+	},{
+		"key": "H24",
+		"name": "Voltio por microsegundo"
+	},{
+		"key": "H25",
+		"name": "Por ciento por kelvin"
+	},{
+		"key": "H26",
+		"name": "Ohm por metro"
+	},{
+		"key": "H27",
+		"name": "Grado por metro"
+	},{
+		"key": "H28",
+		"name": "Microfaradio por kilómetro"
+	},{
+		"key": "H29",
+		"name": "Microgramo por litro"
+	},{
+		"key": "H30",
+		"name": "Micrómetro cuadrado"
+	},{
+		"key": "H31",
+		"name": "Amperio por kilogramo"
+	},{
+		"key": "H32",
+		"name": "Amperio cuadrado segundo"
+	},{
+		"key": "H33",
+		"name": "Faradio por kilómetro"
+	},{
+		"key": "H34",
+		"name": "Hertz metro"
+	},{
+		"key": "H35",
+		"name": "Kelvin metro por watt"
+	},{
+		"key": "H36",
+		"name": "MegaOhm por kilómetro"
+	},{
+		"key": "H37",
+		"name": "MegaOhm por metro"
+	},{
+		"key": "H38",
+		"name": "Megaamperio"
+	},{
+		"key": "H39",
+		"name": "Megahertz kilómetro"
+	},{
+		"key": "H40",
+		"name": "Newton por amperio"
+	},{
+		"key": "H41",
+		"name": "Newton metro watts elevado a la potencia menos 0.5"
+	},{
+		"key": "H42",
+		"name": "Pascal por metro"
+	},{
+		"key": "H43",
+		"name": "Siemens por centímetro"
+	},{
+		"key": "H44",
+		"name": "TeraOhm"
+	},{
+		"key": "H45",
+		"name": "Voltio segundo por metro"
+	},{
+		"key": "H46",
+		"name": "Voltio por segundo"
+	},{
+		"key": "H47",
+		"name": "Watt por metro cúbico"
+	},{
+		"key": "H48",
+		"name": "Attofarad"
+	},{
+		"key": "H49",
+		"name": "Centímetro por hora"
+	},{
+		"key": "H50",
+		"name": "Reciprocidad del centimetro cúbico"
+	},{
+		"key": "H51",
+		"name": "Decibel per kilometro"
+	},{
+		"key": "H52",
+		"name": "Decibel per metro"
+	},{
+		"key": "H53",
+		"name": "Kilogramo por bar"
+	},{
+		"key": "H54",
+		"name": "Kilogramo por decímetro cúbico kelvin "
+	},{
+		"key": "H55",
+		"name": "Kilogramo por decímetro cúbico bar"
+	},{
+		"key": "H56",
+		"name": "Kilogramo por metro cuadrado segundo"
+	},{
+		"key": "H57",
+		"name": "Pulgada por dos pi por radián"
+	},{
+		"key": "H58",
+		"name": "Metro por voltio segundo"
+	},{
+		"key": "H59",
+		"name": "Metro cuadrado por newton"
+	},{
+		"key": "H60",
+		"name": "Metro cúbico por metro cúbico"
+	},{
+		"key": "H61",
+		"name": "Milisiemens por centímetro"
+	},{
+		"key": "H62",
+		"name": "Milivoltio por minuto"
+	},{
+		"key": "H63",
+		"name": "Miligramo por centímetro cuadrado"
+	},{
+		"key": "H64",
+		"name": "Miligramo por gramo"
+	},{
+		"key": "H65",
+		"name": "Mililitro por metro cúbico"
+	},{
+		"key": "H66",
+		"name": "Milímetro por año "
+	},{
+		"key": "H67",
+		"name": "Milímetro por hora"
+	},{
+		"key": "H68",
+		"name": "MiliMol por gram"
+	},{
+		"key": "H69",
+		"name": "Picopascal por kilometro"
+	},{
+		"key": "H70",
+		"name": "Picosegundo"
+	},{
+		"key": "H71",
+		"name": "Por ciento al mes"
+	},{
+		"key": "H72",
+		"name": "Por ciento por hectobar"
+	},{
+		"key": "H73",
+		"name": "Por ciento por decakelvin"
+	},{
+		"key": "H74",
+		"name": "Watt por metro"
+	},{
+		"key": "H75",
+		"name": "Decapascal"
+	},{
+		"key": "H76",
+		"name": "Gramo por milímetro"
+	},{
+		"key": "H77",
+		"name": "Anchura del módulo"
+	},{
+		"key": "H78",
+		"name": "Centímetro convencional de agua"
+	},{
+		"key": "H79",
+		"name": "Escala francesa "
+	},{
+		"key": "H80",
+		"name": "Unidad de bastidor"
+	},{
+		"key": "H81",
+		"name": "Milímetro por minuto"
+	},{
+		"key": "H82",
+		"name": "Punto grande"
+	},{
+		"key": "H83",
+		"name": "Litro por kilogramo"
+	},{
+		"key": "H84",
+		"name": "Gramos milímetro"
+	},{
+		"key": "H85",
+		"name": "Semana recíproca"
+	},{
+		"key": "H87",
+		"name": "Pieza"
+	},{
+		"key": "H88",
+		"name": "MegaOhm kilómetro"
+	},{
+		"key": "H89",
+		"name": "Por ciento por Ohmio"
+	},{
+		"key": "H90",
+		"name": "Porcentaje por grado"
+	},{
+		"key": "H91",
+		"name": "Por ciento por cada diez mil"
+	},{
+		"key": "H92",
+		"name": "Ciento por cien mil"
+	},{
+		"key": "H93",
+		"name": "Porcentaje por cien"
+	},{
+		"key": "H94",
+		"name": "Por ciento por mil"
+	},{
+		"key": "H95",
+		"name": "Por ciento por voltio"
+	},{
+		"key": "H96",
+		"name": "Tanto por ciento por bar"
+	},{
+		"key": "H98",
+		"name": "Por ciento por pulgada"
+	},{
+		"key": "H99",
+		"name": "Por ciento por metro"
+	},{
+		"key": "HA",
+		"name": "Madeja"
+	},{
+		"key": "HAR",
+		"name": "hectárea"
+	},{
+		"key": "HBA",
+		"name": "Hectobar "
+	},{
+		"key": "HBX",
+		"name": "Ciento de cajas"
+	},{
+		"key": "HC",
+		"name": "Conteo en cientos"
+	},{
+		"key": "HD",
+		"name": "Media docena"
+	},{
+		"key": "HDW",
+		"name": "Cien kilogramos, peso seco"
+	},{
+		"key": "HE",
+		"name": "Centésima de un quilate"
+	},{
+		"key": "HEA",
+		"name": "Cabeza"
+	},{
+		"key": "HF",
+		"name": "Cien pies"
+	},{
+		"key": "HGM",
+		"name": "Héctogramo"
+	},{
+		"key": "HH",
+		"name": "Cien pies cúbicos"
+	},{
+		"key": "HI",
+		"name": "Cien hojas"
+	},{
+		"key": "HIU",
+		"name": "Unidad internacional de cien"
+	},{
+		"key": "HJ",
+		"name": "Potencia métrica"
+	},{
+		"key": "HK",
+		"name": "Cien kilogramos"
+	},{
+		"key": "HKM",
+		"name": "Cien kilogramos, masa neta"
+	},{
+		"key": "HL",
+		"name": "Cien pies (lineal)"
+	},{
+		"key": "HLT",
+		"name": "Hectolitro"
+	},{
+		"key": "HM",
+		"name": "Milla por hora (milla estatal)"
+	},{
+		"key": "HMQ",
+		"name": "Millones de metros cúbicos"
+	},{
+		"key": "HMT",
+		"name": "Hectómetro"
+	},{
+		"key": "HN",
+		"name": "Milímetro convencional de mercurio"
+	},{
+		"key": "HO",
+		"name": "Cien onzas troy"
+	},{
+		"key": "HP",
+		"name": "Milímetro convencional de agua"
+	},{
+		"key": "HPA",
+		"name": "Hectolitro de alcohol puro"
+	},{
+		"key": "HS",
+		"name": "Cien pies cuadrados"
+	},{
+		"key": "HT",
+		"name": "media hora"
+	},{
+		"key": "HTZ",
+		"name": "Hertz"
+	},{
+		"key": "HUR",
+		"name": "Hora"
+	},{
+		"key": "HY",
+		"name": "Cien yardas"
+	},{
+		"key": "IA",
+		"name": "Pulgada libra"
+	},{
+		"key": "IC",
+		"name": "Contar por pulgada"
+	},{
+		"key": "IE",
+		"name": "Personas"
+	},{
+		"key": "IF",
+		"name": "Pulgadas de agua"
+	},{
+		"key": "II",
+		"name": "Columna pulgada"
+	},{
+		"key": "IM",
+		"name": "Impresión"
+	},{
+		"key": "INH",
+		"name": "Pulgada"
+	},{
+		"key": "INK",
+		"name": "Pulgada cuadrada"
+	},{
+		"key": "INQ",
+		"name": "Pulgada cúbica"
+	},{
+		"key": "IP",
+		"name": "póliza de seguros"
+	},{
+		"key": "ISD",
+		"name": "Grado internacional de azúcar"
+	},{
+		"key": "IT",
+		"name": "Recuento por centímetro"
+	},{
+		"key": "IU",
+		"name": "Pulgada por segundo"
+	},{
+		"key": "IV",
+		"name": "Pulgada por segundo al cuadrado"
+	},{
+		"key": "J10",
+		"name": "Por ciento por milímetro"
+	},{
+		"key": "J12",
+		"name": "Por mille por psi"
+	},{
+		"key": "J13",
+		"name": "Grado api"
+	},{
+		"key": "J14",
+		"name": "Grado baume (escala de origen)"
+	},{
+		"key": "J15",
+		"name": "Grado baume (us pesado)"
+	},{
+		"key": "J16",
+		"name": "Grado baume (luz de los EUA)"
+	},{
+		"key": "J17",
+		"name": "Grado balling"
+	},{
+		"key": "J18",
+		"name": "Grado brix"
+	},{
+		"key": "J19",
+		"name": "Grado fahrenheit hora pie cuadrado por unidad térmica británica (termoquímico)."
+	},{
+		"key": "J2",
+		"name": "Joule por kilogramo"
+	},{
+		"key": "J20",
+		"name": "Grado fahrenheit por kelvin"
+	},{
+		"key": "J21",
+		"name": "Grado fahrenheit por bar"
+	},{
+		"key": "J22",
+		"name": "Grado fahrenheit hora pie cuadrado por unidad térmica británica (tabla internacional)."
+	},{
+		"key": "J23",
+		"name": "Grado fahrenheit por hora"
+	},{
+		"key": "J24",
+		"name": "Grado fahrenheit por minuto"
+	},{
+		"key": "J25",
+		"name": "Grado fahrenheit por segundo"
+	},{
+		"key": "J26",
+		"name": "Reciprocidad grado fahrenheit"
+	},{
+		"key": "J27",
+		"name": "Grado oechsle"
+	},{
+		"key": "J28",
+		"name": "Grado rankine por hora"
+	},{
+		"key": "J29",
+		"name": "Grado rankine por minuto"
+	},{
+		"key": "J30",
+		"name": "Grado rankine por segundo"
+	},{
+		"key": "J31",
+		"name": "Grado twaddel."
+	},{
+		"key": "J32",
+		"name": "Micropoise"
+	},{
+		"key": "J33",
+		"name": "Microgramo por kilogramo"
+	},{
+		"key": "J34",
+		"name": "Microgramo por metro cúbico kelvin"
+	},{
+		"key": "J35",
+		"name": "Microgramo por metro cúbico bar"
+	},{
+		"key": "J36",
+		"name": "Microlitro por litro"
+	},{
+		"key": "J38",
+		"name": "Baud"
+	},{
+		"key": "J39",
+		"name": "Unidad térmica británica (significado)"
+	},{
+		"key": "J40",
+		"name": "Unidad térmica británica (tabla internacional) pie por hora pie cuadrado grado fahrenheit."
+	},{
+		"key": "J41",
+		"name": "Unidad térmica británica (tabla internacional) pulgada por hora pie cuadrado grado fahrenheit."
+	},{
+		"key": "J42",
+		"name": "Unidad térmica británica (tabla internacional) pulgada por segundo pie cuadrado grado fahrenheit."
+	},{
+		"key": "J43",
+		"name": "Unidad térmica británica (tabla internacional) por libra grado fahrenheit"
+	},{
+		"key": "J44",
+		"name": "Unidad térmica británica (tabla internacional) por minuto"
+	},{
+		"key": "J45",
+		"name": "Unidad térmica británica (tabla internacional) por segundo"
+	},{
+		"key": "J46",
+		"name": "Unidad térmica británica (termoquímico) pie por hora pie cuadrado grado fahrenheit."
+	},{
+		"key": "J47",
+		"name": "Unidad térmica británica (termoquímica) por hora"
+	},{
+		"key": "J48",
+		"name": "Unidad térmica británica (termoquímico) pulgada por hora pie cuadrado grado fahrenheit."
+	},{
+		"key": "J49",
+		"name": "Unidad térmica británica (termoquímico) pulgada por segundo pie cuadrado grado fahrenheit."
+	},{
+		"key": "J50",
+		"name": "Unidad térmica británica (termoquímico) por libra grado fahrenheit"
+	},{
+		"key": "J51",
+		"name": "Unidad térmica británica (termoquímica) por minuto"
+	},{
+		"key": "J52",
+		"name": "Unidad térmica británica (termoquímica) por segundo"
+	},{
+		"key": "J53",
+		"name": "Culombio metro cuadrado por kilogramo"
+	},{
+		"key": "J54",
+		"name": "Megabaud"
+	},{
+		"key": "J55",
+		"name": "Watt segundo"
+	},{
+		"key": "J56",
+		"name": "Bar por bar"
+	},{
+		"key": "J57",
+		"name": "Barril (uk petróleo)"
+	},{
+		"key": "J58",
+		"name": "Barril (petróleo UK) por minuto"
+	},{
+		"key": "J59",
+		"name": "Barril (petróleo UK) por día"
+	},{
+		"key": "J60",
+		"name": "Barril (petróleo UK) por hora"
+	},{
+		"key": "J61",
+		"name": "Barril (petróleo UK) por segundo"
+	},{
+		"key": "J62",
+		"name": "Barril (petróleo estados unidos) por hora"
+	},{
+		"key": "J63",
+		"name": "Barril (petróleo estados unidos) por segundo"
+	},{
+		"key": "J64",
+		"name": "Bushel (UK) por día "
+	},{
+		"key": "J65",
+		"name": "Bushel (UK) por hora"
+	},{
+		"key": "J66",
+		"name": "Bushel (UK) por minuto"
+	},{
+		"key": "J67",
+		"name": "Bushel (UK) por segundo"
+	},{
+		"key": "J68",
+		"name": "Bushel (seco,estados unidos) por día"
+	},{
+		"key": "J69",
+		"name": "Bushel (seco,estados unidos) por hora"
+	},{
+		"key": "J70",
+		"name": "Bushel (seco,estados unidos) por minuto"
+	},{
+		"key": "J71",
+		"name": "Bushel (seco,estados unidos) por segundo"
+	},{
+		"key": "J72",
+		"name": "Centinewton metro"
+	},{
+		"key": "J73",
+		"name": "Centipoise por kelvin"
+	},{
+		"key": "J74",
+		"name": "Centipoise por bar"
+	},{
+		"key": "J75",
+		"name": "Caloría"
+	},{
+		"key": "J76",
+		"name": "Caloría (tabla internacional) por gramo gadro celsius"
+	},{
+		"key": "J78",
+		"name": "Caloría (termoquímica) por centímetro segundo grado celsius"
+	},{
+		"key": "J79",
+		"name": "Caloría (termoquímico) por gramo gadro celsius"
+	},{
+		"key": "J81",
+		"name": "Caloría (termoquímica) por minuto"
+	},{
+		"key": "J82",
+		"name": "Caloría (termoquímica) por segundo"
+	},{
+		"key": "J83",
+		"name": "Clo"
+	},{
+		"key": "J84",
+		"name": "Centímetro por segundo kelvin"
+	},{
+		"key": "J85",
+		"name": "Centímetro por segundo bar"
+	},{
+		"key": "J87",
+		"name": "Centímetro cúbico por metro cúbico"
+	},{
+		"key": "J89",
+		"name": "Centímetro de mercurio"
+	},{
+		"key": "J90",
+		"name": "Decímetro cúbico por día"
+	},{
+		"key": "J91",
+		"name": "Decímetro cúbico por metro cúbico"
+	},{
+		"key": "J92",
+		"name": "Decímetro cúbico por minuto"
+	},{
+		"key": "J93",
+		"name": "Decímetro cúbico por segundo"
+	},{
+		"key": "J94",
+		"name": "Dina centímetro"
+	},{
+		"key": "J95",
+		"name": "Onza (fluido, UK) por día"
+	},{
+		"key": "J96",
+		"name": "Onza (fluido, UK) por hora"
+	},{
+		"key": "J97",
+		"name": "Onza (fluido, UK) por minuto"
+	},{
+		"key": "J98",
+		"name": "Onza (fluido, UK) por segundo"
+	},{
+		"key": "J99",
+		"name": "Onza (fluido, estados unidos) por día"
+	},{
+		"key": "JB",
+		"name": "Jumbo"
+	},{
+		"key": "JE",
+		"name": "Joule por kelvin"
+	},{
+		"key": "JK",
+		"name": "Megajoule por kilogramo"
+	},{
+		"key": "JM",
+		"name": "Megajoule por metro cúbico"
+	},{
+		"key": "JNT",
+		"name": "Junta de tubería"
+	},{
+		"key": "Jo",
+		"name": "Articulación"
+	},{
+		"key": "JOU",
+		"name": "Joule"
+	},{
+		"key": "JPS",
+		"name": "Cien metros"
+	},{
+		"key": "JWL",
+		"name": "Número de joyas"
+	},{
+		"key": "K1",
+		"name": "Demanda de kilowatt"
+	},{
+		"key": "K10",
+		"name": "Onza (fluido, estados unidos) por hora"
+	},{
+		"key": "K11",
+		"name": "Onza (fluido, estados unidos) por minuto"
+	},{
+		"key": "K12",
+		"name": "Onza (fluido, estados unidos) por segundo"
+	},{
+		"key": "K13",
+		"name": "Pie por grado fahrenheit"
+	},{
+		"key": "K14",
+		"name": "Pie por hora"
+	},{
+		"key": "K15",
+		"name": "Pie libra-fuerza por hora"
+	},{
+		"key": "K16",
+		"name": "Pie libra-fuerza por minuto"
+	},{
+		"key": "K17",
+		"name": "Pie por psi (libra por pulgada cuadrada)"
+	},{
+		"key": "K18",
+		"name": "Pie por segundo grado fahrenheit"
+	},{
+		"key": "K19",
+		"name": "Pie por segundo psi (libra por pulgada cuadrada)"
+	},{
+		"key": "K2",
+		"name": "Kilovoltios amperios demanda reactiva"
+	},{
+		"key": "K20",
+		"name": "Reciprocidad del pie cuadrado"
+	},{
+		"key": "K21",
+		"name": "Pie cúbico por grado fahrenheit"
+	},{
+		"key": "K22",
+		"name": "Pie cúbico por día"
+	},{
+		"key": "K23",
+		"name": "Pie cúbico por psi (libra por pulgada cuadrada)"
+	},{
+		"key": "K24",
+		"name": "Pie de agua"
+	},{
+		"key": "K25",
+		"name": "Pie de mercurio"
+	},{
+		"key": "K26",
+		"name": "Galón (UK) por día"
+	},{
+		"key": "K27",
+		"name": "Galón (UK) por hora"
+	},{
+		"key": "K28",
+		"name": "Galón (UK) por segundo"
+	},{
+		"key": "K3",
+		"name": "Kilovoltio amperio hora reactivo"
+	},{
+		"key": "K30",
+		"name": "Galón (líquido, EUA) por segundo"
+	},{
+		"key": "K31",
+		"name": "Gramo-fuerza por centímetro cuadrado"
+	},{
+		"key": "K32",
+		"name": "Gill (UK) por día"
+	},{
+		"key": "K33",
+		"name": "Gill (UK) por hora"
+	},{
+		"key": "K34",
+		"name": "Gill (UK) por minuto"
+	},{
+		"key": "K35",
+		"name": "Gill (UK) por segundo"
+	},{
+		"key": "K36",
+		"name": "Gill (estados unidos) por día"
+	},{
+		"key": "K37",
+		"name": "Gill (estados unidos) por hora"
+	},{
+		"key": "K38",
+		"name": "Gill (estados unidos) por minuto"
+	},{
+		"key": "K39",
+		"name": "Gill (estados unidos) por segundo"
+	},{
+		"key": "K40",
+		"name": "Aceleración estándar de la caída libre"
+	},{
+		"key": "K41",
+		"name": "Grano por galón (EUA)"
+	},{
+		"key": "K42",
+		"name": "Caballo de fuerza de caldera "
+	},{
+		"key": "K43",
+		"name": "Caballo de fuerza (eléctrico)"
+	},{
+		"key": "K45",
+		"name": "Pulgada por grado fahrenheit"
+	},{
+		"key": "K46",
+		"name": "Pulgada por psi (libra por pulgada cuadrada)"
+	},{
+		"key": "K47",
+		"name": "Pulgada por segundo grado fahrenheit"
+	},{
+		"key": "K48",
+		"name": "Pulgada por segundo psi (libra por pulgada cuadrada)"
+	},{
+		"key": "K49",
+		"name": "Reciprocidad de la pulgada cuadrada"
+	},{
+		"key": "K5",
+		"name": "Kilovoltios amperios (reactivos)"
+	},{
+		"key": "K50",
+		"name": "Kilobaud"
+	},{
+		"key": "K51",
+		"name": "Kilocaloría (significado)"
+	},{
+		"key": "K52",
+		"name": "Kilocaloría (tabla internacional) por hora metro grado celsius"
+	},{
+		"key": "K53",
+		"name": "Kilocaloría (termoquímico)"
+	},{
+		"key": "K54",
+		"name": "Kilocaloría (termoquímica) por minuto"
+	},{
+		"key": "K55",
+		"name": "Kilocaloría (termoquímica) por segundo"
+	},{
+		"key": "K58",
+		"name": "KiloMol por hora"
+	},{
+		"key": "K59",
+		"name": "KiloMol por metro cúbico kelvin"
+	},{
+		"key": "K6",
+		"name": "Kilolitro"
+	},{
+		"key": "K60",
+		"name": "KiloMol por metro cúbico bar"
+	},{
+		"key": "K61",
+		"name": "KiloMol por minuto"
+	},{
+		"key": "K62",
+		"name": "Litro por litro"
+	},{
+		"key": "K63",
+		"name": "Reciprocidad del litro"
+	},{
+		"key": "K64",
+		"name": "Libra (avoirdupois) por grado fahrenheit"
+	},{
+		"key": "K65",
+		"name": "Libra (avoirdupois) pie cuadrado"
+	},{
+		"key": "K66",
+		"name": "Libra (avoirdupois) por día"
+	},{
+		"key": "K67",
+		"name": "Libra por pie hora"
+	},{
+		"key": "K68",
+		"name": "Libra por pie segundo"
+	},{
+		"key": "K69",
+		"name": "Libra (avoirdupois) por pie cúbico grado fahrenheit"
+	},{
+		"key": "K70",
+		"name": "Libra (avoirdupois) por pie cúbico psi"
+	},{
+		"key": "K71",
+		"name": "Libra (avoirdupois) por galón (UK)"
+	},{
+		"key": "K73",
+		"name": "Libra (avoirdupois) por hora grados fahrenheit"
+	},{
+		"key": "K74",
+		"name": "Libra (avoirdupois) por hora libra-fuerza por pulgada cuadrada"
+	},{
+		"key": "K75",
+		"name": "Libra (avoirdupois) por pulgada cúbica grado fahrenheit"
+	},{
+		"key": "K76",
+		"name": "Libra (avoirdupois) por pulgada cúbica psi"
+	},{
+		"key": "K77",
+		"name": "Libra (avoirdupois) por psi"
+	},{
+		"key": "K78",
+		"name": "Libra (avoirdupois) por minuto"
+	},{
+		"key": "K79",
+		"name": "Libra (avoirdupois) por minuto grados fahrenheit"
+	},{
+		"key": "K80",
+		"name": "Libra (avoirdupois) por minuto libra-fuerza por pulgada cuadrada"
+	},{
+		"key": "K81",
+		"name": "Libra (avoirdupois) por segundo"
+	},{
+		"key": "K82",
+		"name": "Libra (avoirdupois)por segundo grados fahrenheit"
+	},{
+		"key": "K83",
+		"name": "Libra (avoirdupois) por segundo libra-fuerza por pulgada cuadrada"
+	},{
+		"key": "K84",
+		"name": "Libra por yarda cúbica "
+	},{
+		"key": "K85",
+		"name": "Libra-fuerza por pie cuadrado"
+	},{
+		"key": "K86",
+		"name": "Libra-fuerza por pulgada cuadrada grados fahrenheit"
+	},{
+		"key": "K87",
+		"name": "Libra-fuerza por pulgada cuadrada pulgada cúbica por segundo"
+	},{
+		"key": "K88",
+		"name": "Libra-fuerza por pulgada cuadrada litro por segundo"
+	},{
+		"key": "K89",
+		"name": "Libra-fuerza por pulgada cuadrada metro cúbico por segundo"
+	},{
+		"key": "K90",
+		"name": "Libra-fuerza por pulgada cuadrada yarda cúbica por segundo"
+	},{
+		"key": "K91",
+		"name": "Libra-fuerza segundo por pie cuadrado"
+	},{
+		"key": "K92",
+		"name": "Libra-fuerza segundo por pulgada cuadrada"
+	},{
+		"key": "K93",
+		"name": "Reciprocidad psi"
+	},{
+		"key": "K94",
+		"name": "Cuarto (líquido, UK) por día"
+	},{
+		"key": "K95",
+		"name": "Cuarto (líquido, UK) por hora"
+	},{
+		"key": "K96",
+		"name": "Cuarto (líquido, UK) por minuto"
+	},{
+		"key": "K97",
+		"name": "Cuarto (líquido, UK) por segundo"
+	},{
+		"key": "K98",
+		"name": "Cuarto (líquido, estados unidos) por día"
+	},{
+		"key": "K99",
+		"name": "Cuarto (líquido, estados unidos) por hora"
+	},{
+		"key": "KA",
+		"name": "Pastel"
+	},{
+		"key": "KAT",
+		"name": "Katal"
+	},{
+		"key": "KB",
+		"name": "Kilocaracter"
+	},{
+		"key": "KBA",
+		"name": "Kilobar"
+	},{
+		"key": "KCC",
+		"name": "Kilogramo de cloruro de colina"
+	},{
+		"key": "KD",
+		"name": "Kilogram decimal"
+	},{
+		"key": "KDW",
+		"name": "Kilogramo de peso neto drenado"
+	},{
+		"key": "KEL",
+		"name": "Kelvin"
+	},{
+		"key": "KF",
+		"name": "Kilopacket"
+	},{
+		"key": "KGM",
+		"name": "Kilogramo"
+	},{
+		"key": "KGS",
+		"name": "Kilogramo por segundo"
+	},{
+		"key": "KHY",
+		"name": "Kilogramo de peróxido de hidrógeno"
+	},{
+		"key": "KHZ",
+		"name": "Kilohertz"
+	},{
+		"key": "KI",
+		"name": "Kilogramo por milímetro de ancho"
+	},{
+		"key": "KIC",
+		"name": "Kilogramo, incluyendo el contenedor"
+	},{
+		"key": "KIP",
+		"name": "Kilogramo, incluyendo el empaquetado interno"
+	},{
+		"key": "KJ",
+		"name": "Kilosegmento"
+	},{
+		"key": "KJO",
+		"name": "Kilojoule"
+	},{
+		"key": "KL",
+		"name": "Kilogramo por metro"
+	},{
+		"key": "KLK",
+		"name": "Porcentaje de material seco láctico"
+	},{
+		"key": "KLX",
+		"name": "Kilolux"
+	},{
+		"key": "KMA",
+		"name": "Kilogramo de metilamina"
+	},{
+		"key": "KMH",
+		"name": "Kilómetro por hora"
+	},{
+		"key": "KMK",
+		"name": "Kilómetro cuadrado"
+	},{
+		"key": "KMQ",
+		"name": "Kilogramo por metro cúbico"
+	},{
+		"key": "KMT",
+		"name": "Kilómetro"
+	},{
+		"key": "KNI",
+		"name": "Kilogramo de nitrógeno"
+	},{
+		"key": "KNM",
+		"name": "Kolonewton por metro cuadrado"
+	},{
+		"key": "KNS",
+		"name": "Kilogram sustancia nombrada"
+	},{
+		"key": "KNT",
+		"name": "Nudo"
+	},{
+		"key": "KO",
+		"name": "Miliequivalentes de potasa cáustica por gramo de producto"
+	},{
+		"key": "KPA",
+		"name": "Kilopascal"
+	},{
+		"key": "KPH",
+		"name": "Kilogramo de hidróxido de potasio (potasa cáustica)"
+	},{
+		"key": "KPO",
+		"name": "Kilogramo de óxido de potasio"
+	},{
+		"key": "KPP",
+		"name": "Kilogramo de pentóxido de fósforo (anhídrido fosfórico)"
+	},{
+		"key": "KR",
+		"name": "Kiloroentgen"
+	},{
+		"key": "KS",
+		"name": "Mil libras por pulgada cuadrada"
+	},{
+		"key": "KSD",
+		"name": "Kilogramo de sustancia 90% seco"
+	},{
+		"key": "KSH",
+		"name": "Kilogramo de hidróxido de sodio (sodio cáustica)"
+	},{
+		"key": "KT",
+		"name": "Kit"
+	},{
+		"key": "KTN",
+		"name": "Kilotonelada Métrica"
+	},{
+		"key": "KUR",
+		"name": "Kilogramo de uranio"
+	},{
+		"key": "KVA",
+		"name": "Kilovoltio - amperio"
+	},{
+		"key": "KVR",
+		"name": "Kilovar"
+	},{
+		"key": "KVT",
+		"name": "Kilovoltio"
+	},{
+		"key": "KW",
+		"name": "Kilogramo por milímetro"
+	},{
+		"key": "KWH",
+		"name": "Kilowatt hora"
+	},{
+		"key": "KWN",
+		"name": "Kilowatt hora por metro cúbico normalizado"
+	},{
+		"key": "KWO",
+		"name": "Kilogramo de trióxido de tungsteno"
+	},{
+		"key": "KWS",
+		"name": "Kilowatt hora por metro cúbico estándar"
+	},{
+		"key": "KWT",
+		"name": "Kilowatt"
+	},{
+		"key": "KX",
+		"name": "Mililitro por kilogramo"
+	},{
+		"key": "L10",
+		"name": "Cuarto (líquido, estados unidos) por minuto"
+	},{
+		"key": "L11",
+		"name": "Cuarto (líquido, estados unidos) por segundo"
+	},{
+		"key": "L12",
+		"name": "Metro por segundo kelvin"
+	},{
+		"key": "L13",
+		"name": "Metro por segundo bar"
+	},{
+		"key": "L14",
+		"name": "Metro cuadrado hora grado celsius por kilocaloría (tabla internacional)"
+	},{
+		"key": "L15",
+		"name": "Milipascal segundo por kelvin"
+	},{
+		"key": "L16",
+		"name": "Milipascal segundo por bar"
+	},{
+		"key": "L17",
+		"name": "Miligramo por metro cúbico kelvin"
+	},{
+		"key": "L18",
+		"name": "Miligramo por metro cúbico bar"
+	},{
+		"key": "L19",
+		"name": "Mililitro por litro"
+	},{
+		"key": "L2",
+		"name": "Litro por minuto"
+	},{
+		"key": "L20",
+		"name": "Reciprocidad del milimetro cúbico"
+	},{
+		"key": "L21",
+		"name": "Milimetro cúbico por metro cúbico"
+	},{
+		"key": "L23",
+		"name": "Mol por hora "
+	},{
+		"key": "L24",
+		"name": "Mol por kilogramo kelvin"
+	},{
+		"key": "L25",
+		"name": "Mol por kilogramo bar"
+	},{
+		"key": "L26",
+		"name": "Mol por litreo kelvin"
+	},{
+		"key": "L27",
+		"name": "Mol por litro bar"
+	},{
+		"key": "L28",
+		"name": "Mol por metro cúbico kelvin"
+	},{
+		"key": "L29",
+		"name": "Mol por metro cúbico bar"
+	},{
+		"key": "L30",
+		"name": "Mol por minuto"
+	},{
+		"key": "L31",
+		"name": "Milliroentgen aequivalent men"
+	},{
+		"key": "L32",
+		"name": "Nanogramo por kilogramo"
+	},{
+		"key": "L33",
+		"name": "Onza (avoirdupois) por día"
+	},{
+		"key": "L34",
+		"name": "Onza (avoirdupois) por hora"
+	},{
+		"key": "L35",
+		"name": "Onza (avoirdupois) por minuto"
+	},{
+		"key": "L36",
+		"name": "Onza (avoirdupois) por segundo"
+	},{
+		"key": "L37",
+		"name": "Onza (avoirdupois) por galón (UK)"
+	},{
+		"key": "L38",
+		"name": "Onza (avoirdupois) por galón (EUA)"
+	},{
+		"key": "L39",
+		"name": "Onza (avoirdupois) por pulgada cúbica"
+	},{
+		"key": "L40",
+		"name": "Onza fuerza"
+	},{
+		"key": "L41",
+		"name": "Onza (avoirdupois) fuerza pulgada"
+	},{
+		"key": "L42",
+		"name": "Picosiemens por metro"
+	},{
+		"key": "L43",
+		"name": "Peck (UK)"
+	},{
+		"key": "L44",
+		"name": "Peck (UK) por día"
+	},{
+		"key": "L45",
+		"name": "Peck (UK) por hora"
+	},{
+		"key": "L46",
+		"name": "Peck (UK) por minuto"
+	},{
+		"key": "L47",
+		"name": "Peck (UK) por segundo"
+	},{
+		"key": "L48",
+		"name": "Peck (seco, estados unidos) por día"
+	},{
+		"key": "L49",
+		"name": "Peck (seco, estados unidos) por hora"
+	},{
+		"key": "L50",
+		"name": "Peck (seco, estados unidos) por minuto"
+	},{
+		"key": "L51",
+		"name": "Peck (seco, estados unidos) por segundo"
+	},{
+		"key": "L52",
+		"name": "Libra.fuerza por pulgada cuadrada por libra fuerza por pulgada cuadrada"
+	},{
+		"key": "L53",
+		"name": "Pinta (UK) por día"
+	},{
+		"key": "L54",
+		"name": "Pinta (UK) por hora"
+	},{
+		"key": "L55",
+		"name": "Pinta (UK) por minuto"
+	},{
+		"key": "L56",
+		"name": "Pinta (UK) por segundo"
+	},{
+		"key": "L57",
+		"name": "Pinta (líquido, estados unidos) por día"
+	},{
+		"key": "L58",
+		"name": "Pinta (líquido, estados unidos) por hora"
+	},{
+		"key": "L59",
+		"name": "Pinta (líquido, estados unidos) por minuto"
+	},{
+		"key": "L60",
+		"name": "Pinta (líquido, estados unidos) por segundo"
+	},{
+		"key": "L61",
+		"name": "Pinta (US seco)"
+	},{
+		"key": "L62",
+		"name": "Cuarto de galón (seco de los EUA)"
+	},{
+		"key": "L63",
+		"name": "Slug por día"
+	},{
+		"key": "L64",
+		"name": "Slug por pie segundo"
+	},{
+		"key": "L65",
+		"name": "Slug por pie cúbico"
+	},{
+		"key": "L66",
+		"name": "Slug por hora"
+	},{
+		"key": "L67",
+		"name": "Slug por minuto"
+	},{
+		"key": "L68",
+		"name": "Slug por segundo"
+	},{
+		"key": "L69",
+		"name": "Tonelada por kelvin"
+	},{
+		"key": "L70",
+		"name": "Tonelada por bar"
+	},{
+		"key": "L71",
+		"name": "Tonelada por día"
+	},{
+		"key": "L72",
+		"name": "Tonelada por día kelvin"
+	},{
+		"key": "L73",
+		"name": "Tonelada por día bar"
+	},{
+		"key": "L74",
+		"name": "Tonelada por hora kelvin"
+	},{
+		"key": "L75",
+		"name": "Tonelada por hora bar"
+	},{
+		"key": "L76",
+		"name": "Tonelada por metro cúbico kelvin"
+	},{
+		"key": "L77",
+		"name": "Tonelada por metro cúbico bar"
+	},{
+		"key": "L78",
+		"name": "Tonelada por minuto"
+	},{
+		"key": "L79",
+		"name": "Tonelada por minuto kelvin"
+	},{
+		"key": "L80",
+		"name": "Tonelada por minuto bar"
+	},{
+		"key": "L81",
+		"name": "Tonelada por segundo"
+	},{
+		"key": "L82",
+		"name": "Tonelada por segundo kelvin"
+	},{
+		"key": "L83",
+		"name": "Tonelada por segundo bar"
+	},{
+		"key": "L84",
+		"name": "Tonelada (flota UK)"
+	},{
+		"key": "L85",
+		"name": "Tonelada larga por día"
+	},{
+		"key": "L86",
+		"name": "Tonelada (flota estados unidos)"
+	},{
+		"key": "L87",
+		"name": "Tonelada corta por grado fahrenheit"
+	},{
+		"key": "L88",
+		"name": "Tonelada corta por día"
+	},{
+		"key": "L89",
+		"name": "Tonelada corta por hora grados fahrenheit"
+	},{
+		"key": "L90",
+		"name": "Tonelada corta por hora libra-fuerza por pulgada cuadrada"
+	},{
+		"key": "L91",
+		"name": "Tonelada corta por psi"
+	},{
+		"key": "L92",
+		"name": "Tonelada larga (UK) por yarda cúbica"
+	},{
+		"key": "L93",
+		"name": "Tonelada corta (estados unidos) por yarda cúbica"
+	},{
+		"key": "L94",
+		"name": "Tonelada fuerza"
+	},{
+		"key": "L95",
+		"name": "Año común"
+	},{
+		"key": "L96",
+		"name": "Año sideral"
+	},{
+		"key": "L98",
+		"name": "Yarda por grado fahrenheit"
+	},{
+		"key": "L99",
+		"name": "Yarda por psi (libra por pulgada cuadrada)"
+	},{
+		"key": "LA",
+		"name": "Libra por pulgada cúbica "
+	},{
+		"key": "LAC",
+		"name": "Porcentaje de exceso de lactosa"
+	},{
+		"key": "LBR",
+		"name": "Libra"
+	},{
+		"key": "LBT",
+		"name": "Troy pound"
+	},{
+		"key": "LC",
+		"name": "Centímetro lineal"
+	},{
+		"key": "LD",
+		"name": "Litro por día"
+	},{
+		"key": "LE",
+		"name": "Lite"
+	},{
+		"key": "LEF",
+		"name": "Hoja"
+	},{
+		"key": "LF",
+		"name": "Pie lineal"
+	},{
+		"key": "LH",
+		"name": "Hora de trabajo"
+	},{
+		"key": "LI",
+		"name": "Pulgada lineal"
+	},{
+		"key": "LJ",
+		"name": "Spray grande"
+	},{
+		"key": "LK",
+		"name": "Enlazar"
+	},{
+		"key": "LM",
+		"name": "Metro lineal"
+	},{
+		"key": "LN",
+		"name": "Longitud"
+	},{
+		"key": "LO",
+		"name": "Lote [unidad de adquisición]"
+	},{
+		"key": "LP",
+		"name": "Libra líquida"
+	},{
+		"key": "LPA",
+		"name": "Litro de alcohol puro"
+	},{
+		"key": "LR",
+		"name": "Capa "
+	},{
+		"key": "LS",
+		"name": "Suma global"
+	},{
+		"key": "LTN",
+		"name": "Tonelada (UK) o tonelada larga (estados unidos)"
+	},{
+		"key": "LTR",
+		"name": "Litro"
+	},{
+		"key": "LUB",
+		"name": "Tonelada métrica, aceite lubricante"
+	},{
+		"key": "LUM",
+		"name": "Lumen"
+	},{
+		"key": "LUX",
+		"name": "Lux"
+	},{
+		"key": "LX",
+		"name": "Yarda lineal por libra"
+	},{
+		"key": "LY",
+		"name": "Yarda lineal"
+	},{
+		"key": "M0",
+		"name": "cinta magnética"
+	},{
+		"key": "M1",
+		"name": "Miligramo por litro"
+	},{
+		"key": "M10",
+		"name": "Reciprocidad de la yarda cuadrada"
+	},{
+		"key": "M11",
+		"name": "Yarda cúbica por grado fahrenheit"
+	},{
+		"key": "M12",
+		"name": "Yarda cúbica por día"
+	},{
+		"key": "M13",
+		"name": "Yarda cúbica por hora "
+	},{
+		"key": "M14",
+		"name": "Yarda cúbica por psi (libra por pulgada cuadrada)"
+	},{
+		"key": "M15",
+		"name": "Yarda cúbica por minuto"
+	},{
+		"key": "M16",
+		"name": "Yarda cúbica por segundo"
+	},{
+		"key": "M17",
+		"name": "Kilohertz metro"
+	},{
+		"key": "M18",
+		"name": "Gigahertz metro"
+	},{
+		"key": "M19",
+		"name": "Beaufort"
+	},{
+		"key": "M20",
+		"name": "Recíproco de megakelvin ó megakelvin a la potencia menos 1"
+	},{
+		"key": "M21",
+		"name": "Kilovoltio-amperio hora recíprocidad"
+	},{
+		"key": "M22",
+		"name": "Milímetro por centímetro cuadrado minuto"
+	},{
+		"key": "M23",
+		"name": "Newton por centímetro"
+	},{
+		"key": "M24",
+		"name": "Ohm kilómetro"
+	},{
+		"key": "M25",
+		"name": "Porcentaje por grado celsius"
+	},{
+		"key": "M26",
+		"name": "GigaOhm por metro"
+	},{
+		"key": "M27",
+		"name": "Megahertz metro"
+	},{
+		"key": "M29",
+		"name": "Kilogramo por kilogramo"
+	},{
+		"key": "M30",
+		"name": "voltio-amperio segundo recíprocidad"
+	},{
+		"key": "M31",
+		"name": "Kilogramo por kilómetro"
+	},{
+		"key": "M32",
+		"name": "Segundos pascal por litro"
+	},{
+		"key": "M33",
+		"name": "MiliMol por litro"
+	},{
+		"key": "M34",
+		"name": "Newton metro por metro cuadrado"
+	},{
+		"key": "M35",
+		"name": "Milivoltio - amperio"
+	},{
+		"key": "M36",
+		"name": "Mes de 30 días"
+	},{
+		"key": "M37",
+		"name": "Actual 360"
+	},{
+		"key": "M38",
+		"name": "Kilómetro por segundo cuadrado"
+	},{
+		"key": "M39",
+		"name": "Centímetro por segundo cuadrado"
+	},{
+		"key": "M4",
+		"name": "Valor monetario"
+	},{
+		"key": "M40",
+		"name": "Yarda por segundo cuadrado"
+	},{
+		"key": "M41",
+		"name": "Milímetro por segundo cuadrado"
+	},{
+		"key": "M42",
+		"name": "Milla (milla estatal)  por segundo cuadrado"
+	},{
+		"key": "M43",
+		"name": "Mil (unidad de Medida Militar)"
+	},{
+		"key": "M44",
+		"name": "Revolución"
+	},{
+		"key": "M45",
+		"name": "Grado por segundo cuadrado"
+	},{
+		"key": "M46",
+		"name": "Revolución por minuto"
+	},{
+		"key": "M47",
+		"name": "Circular Mil"
+	},{
+		"key": "M48",
+		"name": "Milla cuadrada (basado en u.s survey foot)"
+	},{
+		"key": "M49",
+		"name": "Cadena "
+	},{
+		"key": "M5",
+		"name": "Microcurie"
+	},{
+		"key": "M50",
+		"name": "Estadio"
+	},{
+		"key": "M51",
+		"name": "Pie (Topografía UEA)"
+	},{
+		"key": "M52",
+		"name": "Milla"
+	},{
+		"key": "M53",
+		"name": "Metro por pascal"
+	},{
+		"key": "M55",
+		"name": "Metro por radián"
+	},{
+		"key": "M56",
+		"name": "Shake "
+	},{
+		"key": "M57",
+		"name": "Milla por minuto"
+	},{
+		"key": "M58",
+		"name": "Milla por segundo"
+	},{
+		"key": "M59",
+		"name": "Metro por segundo pascal"
+	},{
+		"key": "M60",
+		"name": "Metro por hora"
+	},{
+		"key": "M61",
+		"name": "Pulgada por año"
+	},{
+		"key": "M62",
+		"name": "Kilómetro por segundo"
+	},{
+		"key": "M63",
+		"name": "Pulgada por minuto"
+	},{
+		"key": "M64",
+		"name": "Yarda por segundo"
+	},{
+		"key": "M65",
+		"name": "Yarda por minuto"
+	},{
+		"key": "M66",
+		"name": "Yarda por hora"
+	},{
+		"key": "M67",
+		"name": "Acre-pie"
+	},{
+		"key": "M68",
+		"name": "Cordón"
+	},{
+		"key": "M69",
+		"name": "Milla cúbica (reinounido)"
+	},{
+		"key": "M7",
+		"name": "Micro-pulgada"
+	},{
+		"key": "M70",
+		"name": "Unidad tradicional de capacidad de carga"
+	},{
+		"key": "M71",
+		"name": "Metro cúbico por pascal (joules)"
+	},{
+		"key": "M72",
+		"name": "Bel"
+	},{
+		"key": "M73",
+		"name": "Kilogramo por metro cúbico pascal"
+	},{
+		"key": "M74",
+		"name": "Kilogramo por pascal"
+	},{
+		"key": "M75",
+		"name": "Kilolibra fuerza"
+	},{
+		"key": "M76",
+		"name": "Poundal"
+	},{
+		"key": "M77",
+		"name": "Kilogramo metro por segundo cuadrado"
+	},{
+		"key": "M78",
+		"name": "Pond"
+	},{
+		"key": "M79",
+		"name": "Pie cuadrado por hora"
+	},{
+		"key": "M80",
+		"name": "Stokes por pascal"
+	},{
+		"key": "M81",
+		"name": "Centímetro cuadrado por segundo"
+	},{
+		"key": "M82",
+		"name": "Metro cuadrado por segundo pascal"
+	},{
+		"key": "M83",
+		"name": "Denier"
+	},{
+		"key": "M84",
+		"name": "Libra por yarda "
+	},{
+		"key": "M85",
+		"name": "Tonelada, ensayo"
+	},{
+		"key": "M86",
+		"name": "Libra Alemana"
+	},{
+		"key": "M87",
+		"name": "Kilogramo por segundo pascal"
+	},{
+		"key": "M88",
+		"name": "Tonelada por mes"
+	},{
+		"key": "M89",
+		"name": "Tonelada por año"
+	},{
+		"key": "M9",
+		"name": "Millones de btu por 1000 pies cúbicos"
+	},{
+		"key": "M90",
+		"name": "Kilolibra por hora"
+	},{
+		"key": "M91",
+		"name": "Libra por libra"
+	},{
+		"key": "M92",
+		"name": "Libra fuerza pie"
+	},{
+		"key": "M93",
+		"name": "Newton metro por radián"
+	},{
+		"key": "M94",
+		"name": "Kilogramo metro"
+	},{
+		"key": "M95",
+		"name": "Poundal pie"
+	},{
+		"key": "M96",
+		"name": "Poundal pulgada"
+	},{
+		"key": "M97",
+		"name": "Dina metro"
+	},{
+		"key": "M98",
+		"name": "Kilogramo centímetro por segundo"
+	},{
+		"key": "M99",
+		"name": "Gramo centímetro por segundo"
+	},{
+		"key": "MA",
+		"name": "Máquina por unidad"
+	},{
+		"key": "MAH",
+		"name": "Megavoltio amperio reactivo hora"
+	},{
+		"key": "MAL",
+		"name": "Megalitro"
+	},{
+		"key": "MAM",
+		"name": "Megametro"
+	},{
+		"key": "MAR",
+		"name": "Megavar"
+	},{
+		"key": "MAW",
+		"name": "Megawatt"
+	},{
+		"key": "MBE",
+		"name": "Mil equivalente de ladrillo estándar"
+	},{
+		"key": "MBF",
+		"name": "Mil pies de tabla"
+	},{
+		"key": "MBR",
+		"name": "Milibar"
+	},{
+		"key": "MC",
+		"name": "Microgramo"
+	},{
+		"key": "MCU",
+		"name": "Milicurie"
+	},{
+		"key": "MD",
+		"name": "Tonelada métrica seca al aire"
+	},{
+		"key": "MF",
+		"name": "Miligramo por pie cuadrado por lado"
+	},{
+		"key": "MGM",
+		"name": "Miligramo"
+	},{
+		"key": "MHZ",
+		"name": "Megahertz"
+	},{
+		"key": "MIK",
+		"name": "Milla cuadrada (milla estatal)"
+	},{
+		"key": "MIL",
+		"name": "Mil"
+	},{
+		"key": "MIN",
+		"name": "Minuto [unidad de tiempo]"
+	},{
+		"key": "MIO",
+		"name": "Millon"
+	},{
+		"key": "MIU",
+		"name": "Unidad internacional de millon"
+	},{
+		"key": "MK",
+		"name": "Miligramo por pulgada cuadrada"
+	},{
+		"key": "MLD",
+		"name": "Mil millones"
+	},{
+		"key": "MLT",
+		"name": "Mililitro"
+	},{
+		"key": "MMK",
+		"name": "Milímetro cuadrado"
+	},{
+		"key": "MMQ",
+		"name": "Milímetro cúbico"
+	},{
+		"key": "MMT",
+		"name": "Milímetro"
+	},{
+		"key": "MND",
+		"name": "Kilogramo, peso seco"
+	},{
+		"key": "MON",
+		"name": "Mes "
+	},{
+		"key": "MPA",
+		"name": "Megapascal"
+	},{
+		"key": "MQ",
+		"name": "Mil metros"
+	},{
+		"key": "MQH",
+		"name": "Metro cúbico por hora"
+	},{
+		"key": "MQS",
+		"name": "Metro cúbico por segundo"
+	},{
+		"key": "MSK",
+		"name": "Metro por segundo cuadrado"
+	},{
+		"key": "MTK",
+		"name": "Metro cuadrado"
+	},{
+		"key": "MTQ",
+		"name": "Metro cúbico"
+	},{
+		"key": "MTR",
+		"name": "Metro"
+	},{
+		"key": "MTS",
+		"name": "Metro por segundo"
+	},{
+		"key": "MV",
+		"name": "Número de mults"
+	},{
+		"key": "MVA",
+		"name": "Megavoltio - amperio"
+	},{
+		"key": "MWH",
+		"name": "Megawatt hora"
+	},{
+		"key": "N1",
+		"name": "Pluma calórica"
+	},{
+		"key": "N10",
+		"name": "Libra pie por segundo"
+	},{
+		"key": "N11",
+		"name": "Libra pulgada por segundo"
+	},{
+		"key": "N12",
+		"name": "Pferdestaerke"
+	},{
+		"key": "N13",
+		"name": "Centímetro de mercurio (0°)"
+	},{
+		"key": "N14",
+		"name": "Centímetro de agua (4°)"
+	},{
+		"key": "N15",
+		"name": "Pie de agua (39.2 °f)"
+	},{
+		"key": "N16",
+		"name": "Pulgada de mercurio (32 °f)"
+	},{
+		"key": "N17",
+		"name": "Pulgada de mercurio (60 °f)"
+	},{
+		"key": "N18",
+		"name": "Pulgada de agua (39.2 °f)"
+	},{
+		"key": "N19",
+		"name": "Pulgada de agua (60 °f)"
+	},{
+		"key": "N2",
+		"name": "número de líneas"
+	},{
+		"key": "N20",
+		"name": "Kip por pulgada cuadrada"
+	},{
+		"key": "N21",
+		"name": "Poundal por pie cuadrado"
+	},{
+		"key": "N22",
+		"name": "Onza (avoirdupois) por pulgada cuadrada"
+	},{
+		"key": "N23",
+		"name": "Metro convencional de agua"
+	},{
+		"key": "N24",
+		"name": "Gramo por milímetro cuadrado"
+	},{
+		"key": "N25",
+		"name": "Libra por yarda cuadrada"
+	},{
+		"key": "N26",
+		"name": "Poundal por pulgada cuadrada"
+	},{
+		"key": "N27",
+		"name": "Pie a la cuarta potencia "
+	},{
+		"key": "N28",
+		"name": "Decímetro cúbico por kilogramo"
+	},{
+		"key": "N29",
+		"name": "Pie cúbico por libra "
+	},{
+		"key": "N3",
+		"name": "Impresión de punto"
+	},{
+		"key": "N30",
+		"name": "Pulgada cúbica por libra"
+	},{
+		"key": "N31",
+		"name": "Kilonewton por metro"
+	},{
+		"key": "N32",
+		"name": "Poundal por pulgada"
+	},{
+		"key": "N33",
+		"name": "Libra-fuerza por yarda"
+	},{
+		"key": "N34",
+		"name": "Poundal segundo por pie cuadrado"
+	},{
+		"key": "N35",
+		"name": "Poise por pascal"
+	},{
+		"key": "N36",
+		"name": "Newton segundo por metro cuadrado"
+	},{
+		"key": "N37",
+		"name": "Kilogramo por metro segundo"
+	},{
+		"key": "N38",
+		"name": "Kilogramo por metro minuto"
+	},{
+		"key": "N39",
+		"name": "Kilogramo por metro día"
+	},{
+		"key": "N40",
+		"name": "Kilogramo por metro hora"
+	},{
+		"key": "N41",
+		"name": "Gramo por centímetro segundo"
+	},{
+		"key": "N42",
+		"name": "Poundal segundo por pulgada cuadrada"
+	},{
+		"key": "N43",
+		"name": "Libra por pie minuto"
+	},{
+		"key": "N44",
+		"name": "Libra por pie día"
+	},{
+		"key": "N45",
+		"name": "Metro cúbico por segundo pascal"
+	},{
+		"key": "N46",
+		"name": "Pie poundal"
+	},{
+		"key": "N47",
+		"name": "Pulgada poundal"
+	},{
+		"key": "N48",
+		"name": "Watt por centímetro cuadrado"
+	},{
+		"key": "N49",
+		"name": "Watt por pulgada cuadrada"
+	},{
+		"key": "N50",
+		"name": "Unidad térmica británica (tabla internacional) por pie cuadrado hora."
+	},{
+		"key": "N51",
+		"name": "Unidad térmica británica (termoquímica) por pie cuadrado hora."
+	},{
+		"key": "N52",
+		"name": "Unidad térmica británica (termoquímico) por pie cuadrado minuto."
+	},{
+		"key": "N53",
+		"name": "Unidad térmica británica (tabla internacional) por pie cuadrado segundo."
+	},{
+		"key": "N54",
+		"name": "Unidad térmica británica (termoquímica) por pie cuadrado segundo."
+	},{
+		"key": "N55",
+		"name": "Unidad térmica británica (tabla internacional) por pulgada cuadrada segundo."
+	},{
+		"key": "N56",
+		"name": "Caloría (termoquímica) por centímetro cuadrado minuto"
+	},{
+		"key": "N57",
+		"name": "Caloría (termoquímica) por centímetro cuadrado segundo"
+	},{
+		"key": "N58",
+		"name": "Unidad térmica británica (tabla internacional) por pie cúbico"
+	},{
+		"key": "N59",
+		"name": "Unidad térmica británica (termoquímica) por pie cúbico"
+	},{
+		"key": "N60",
+		"name": "Unidad térmica británica (tabla internacional) por grado fahrenheit"
+	},{
+		"key": "N61",
+		"name": "Unidad térmica británica (termoquímico) por grado fahrenheit"
+	},{
+		"key": "N62",
+		"name": "Unidad térmica británica (tabla internacional) por grado rankine"
+	},{
+		"key": "N63",
+		"name": "Unidad térmica británica (termoquímico) por grado rankine"
+	},{
+		"key": "N64",
+		"name": "Unidad térmica británica (termoquímico) por libra grado rankine"
+	},{
+		"key": "N65",
+		"name": "Kilocaloría (tabla internacional) por gramo kelvin"
+	},{
+		"key": "N66",
+		"name": "Unidad térmica británica (39 °f)"
+	},{
+		"key": "N67",
+		"name": "Unidad térmica británica (59 °f)"
+	},{
+		"key": "N68",
+		"name": "Unidad térmica británica (60 °f)"
+	},{
+		"key": "N69",
+		"name": "Caloría (20 °c)"
+	},{
+		"key": "N70",
+		"name": "Quad"
+	},{
+		"key": "N71",
+		"name": "Termia (energía comercial)"
+	},{
+		"key": "N72",
+		"name": "Termia (UEA)"
+	},{
+		"key": "N73",
+		"name": "Unidad térmica británica (termoquímica) por libra"
+	},{
+		"key": "N74",
+		"name": "Unidad térmica británica (tabla internacional) por hora pie cuadrado grado fahrenheit."
+	},{
+		"key": "N75",
+		"name": "Unidad térmica británica (termoquímico) por hora pie cuadrado grado farenheit."
+	},{
+		"key": "N76",
+		"name": "Unidad térmica británica (tabla internacional) por segundo pie cuadrado grado fahrenheit."
+	},{
+		"key": "N77",
+		"name": "Unidad térmica británica (termoquímico) por segundo pie cuadrado grado fahrenheit."
+	},{
+		"key": "N78",
+		"name": "Kilowatt por metro cuadrado kelvin"
+	},{
+		"key": "N79",
+		"name": "Kelvin por pascal"
+	},{
+		"key": "N80",
+		"name": "Watt por metro grado celsius"
+	},{
+		"key": "N81",
+		"name": "Kilowatt por metro kelvin"
+	},{
+		"key": "N82",
+		"name": "Kilowatt por metro grado celsius"
+	},{
+		"key": "N83",
+		"name": "Metro por grado celsius metro"
+	},{
+		"key": "N84",
+		"name": "Grado fahrenheit hora por unidad térmica británica (tabla internacional)"
+	},{
+		"key": "N85",
+		"name": "Grado fahrenheit hora por unidad térmica británica (termoquímico)"
+	},{
+		"key": "N86",
+		"name": "Grado fahrenheit segundo por unidad térmica británica (tabla internacional)"
+	},{
+		"key": "N87",
+		"name": "Grago fahrenheit segundo por unidad térmica británica (termoquímico)"
+	},{
+		"key": "N88",
+		"name": "Grado fahrenheit hora pie cuadrado por unidad térmica británica (tabla internacional) pulgada"
+	},{
+		"key": "N89",
+		"name": "Grado fahrenheit hora pie cuadrado por unidad térmica británica (termoquímico) pulgada."
+	},{
+		"key": "N90",
+		"name": "Kilofaradio"
+	},{
+		"key": "N91",
+		"name": "Joule recíproco"
+	},{
+		"key": "N92",
+		"name": "Picosiemens"
+	},{
+		"key": "N93",
+		"name": "Amperio por pascal"
+	},{
+		"key": "N94",
+		"name": "Franklin"
+	},{
+		"key": "N95",
+		"name": "Amperio minuto"
+	},{
+		"key": "N96",
+		"name": "Biot"
+	},{
+		"key": "N97",
+		"name": "Gilbert"
+	},{
+		"key": "N98",
+		"name": "Voltio por pascal"
+	},{
+		"key": "N99",
+		"name": "Picovoltio"
+	},{
+		"key": "NA",
+		"name": "Miligramo por kilogramo"
+	},{
+		"key": "NAR",
+		"name": "Número de artículos"
+	},{
+		"key": "NB",
+		"name": "barcaza"
+	},{
+		"key": "NBB",
+		"name": "Número de bobinas"
+	},{
+		"key": "NC",
+		"name": "Carro"
+	},{
+		"key": "NCL",
+		"name": "Número de celulas"
+	},{
+		"key": "ND",
+		"name": "Barril neto"
+	},{
+		"key": "NE",
+		"name": "Litro neto"
+	},{
+		"key": "NEW",
+		"name": "Newton"
+	},{
+		"key": "NF",
+		"name": "Mensaje"
+	},{
+		"key": "NG",
+		"name": "Galón neto (us)"
+	},{
+		"key": "NH",
+		"name": "Hora del mensaje"
+	},{
+		"key": "NI",
+		"name": "Galón imperial neto"
+	},{
+		"key": "NIL",
+		"name": "Nil"
+	},{
+		"key": "NIU",
+		"name": "Número de unidades internacionales"
+	},{
+		"key": "NJ",
+		"name": "Número de pantallas"
+	},{
+		"key": "NL",
+		"name": "Carga"
+	},{
+		"key": "NM3",
+		"name": "Metro cúbico normalizado"
+	},{
+		"key": "NMI",
+		"name": "Milla náutica"
+	},{
+		"key": "NMP",
+		"name": "Número de paquetes"
+	},{
+		"key": "NN",
+		"name": "tren"
+	},{
+		"key": "NPR",
+		"name": "Número de parejas"
+	},{
+		"key": "NPT",
+		"name": "Número de partes"
+	},{
+		"key": "NQ",
+		"name": "Mho"
+	},{
+		"key": "NR",
+		"name": "Micromho"
+	},{
+		"key": "NT",
+		"name": "Tonelada neta"
+	},{
+		"key": "NTT",
+		"name": "Tonelada de registro neto"
+	},{
+		"key": "NV",
+		"name": "vehículo"
+	},{
+		"key": "NY",
+		"name": "Libra por tonelada métrica al aire seco"
+	},{
+		"key": "NX",
+		"name": "Parte por mil"
+	},{
+		"key": "OA",
+		"name": "Panel"
+	},{
+		"key": "ODE",
+		"name": "Equvalente de agotamiento del ozona"
+	},{
+		"key": "Ohm",
+		"name": "Ohm"
+	},{
+		"key": "ON",
+		"name": "Onza por yarda cuadrada"
+	},{
+		"key": "ONZ",
+		"name": "Onza (avoirdupois)"
+	},{
+		"key": "OP",
+		"name": "Dos paquetes"
+	},{
+		"key": "OPM",
+		"name": "Oscilaciones por minuto"
+	},{
+		"key": "OT",
+		"name": "Hora extra"
+	},{
+		"key": "OZ",
+		"name": "Onza AV"
+	},{
+		"key": "OZA",
+		"name": "Onza líquida (estados unidos)"
+	},{
+		"key": "OZI",
+		"name": "Onza líquida (UK)"
+	},{
+		"key": "P0",
+		"name": "Página electrónica"
+	},{
+		"key": "P1",
+		"name": "Tanto por ciento"
+	},{
+		"key": "P10",
+		"name": "Culombio por metro"
+	},{
+		"key": "P11",
+		"name": "Kiloweber"
+	},{
+		"key": "P12",
+		"name": "Gamma"
+	},{
+		"key": "P13",
+		"name": "Kilotesla"
+	},{
+		"key": "P14",
+		"name": "Joule por segundo"
+	},{
+		"key": "P15",
+		"name": "Joule por minuto"
+	},{
+		"key": "P16",
+		"name": "Joule por hora"
+	},{
+		"key": "P17",
+		"name": "Joule por día"
+	},{
+		"key": "P18",
+		"name": "Kilojoule por segundo"
+	},{
+		"key": "P19",
+		"name": "Kilojoule por minuto"
+	},{
+		"key": "P2",
+		"name": "Libra por pie"
+	},{
+		"key": "P20",
+		"name": "Kilojoule por hora"
+	},{
+		"key": "P21",
+		"name": "Kilojoule por dia"
+	},{
+		"key": "P22",
+		"name": "NanoOhm"
+	},{
+		"key": "P23",
+		"name": "Ohm circular-mil por pie"
+	},{
+		"key": "P24",
+		"name": "Kilohenry"
+	},{
+		"key": "P25",
+		"name": "Lumen por pie cuadrado"
+	},{
+		"key": "P26",
+		"name": "Foto"
+	},{
+		"key": "P27",
+		"name": "Vela (medida)"
+	},{
+		"key": "P28",
+		"name": "Candela por pulgada cuadrada"
+	},{
+		"key": "P29",
+		"name": "Footlambert"
+	},{
+		"key": "P3",
+		"name": "Tres paquetes"
+	},{
+		"key": "P30",
+		"name": "Lambert"
+	},{
+		"key": "P31",
+		"name": "Stilb "
+	},{
+		"key": "P32",
+		"name": "Candela por pie cuadrado"
+	},{
+		"key": "P33",
+		"name": "Kilocandela"
+	},{
+		"key": "P34",
+		"name": "Milicandela"
+	},{
+		"key": "P35",
+		"name": "Hefner-kerze"
+	},{
+		"key": "P36",
+		"name": "Candela internacional"
+	},{
+		"key": "P37",
+		"name": "Unidad térmica británica (tabla internacional) por pie cuadrado"
+	},{
+		"key": "P38",
+		"name": "Unidad térmica británica (termoquímica) por pie cuadrado"
+	},{
+		"key": "P39",
+		"name": "Caloría (termoquímica) por centímetro cuadrado"
+	},{
+		"key": "P4",
+		"name": "paquete de cuatro"
+	},{
+		"key": "P40",
+		"name": "Langley"
+	},{
+		"key": "P41",
+		"name": "Década (logaritmica)"
+	},{
+		"key": "P42",
+		"name": "Pascal por segundo cuadrado"
+	},{
+		"key": "P43",
+		"name": "Bel por metro"
+	},{
+		"key": "P44",
+		"name": "Libra Mol"
+	},{
+		"key": "P45",
+		"name": "Libra de Mol por segundo"
+	},{
+		"key": "P46",
+		"name": "Libra Mol por minuto"
+	},{
+		"key": "P47",
+		"name": "KiloMol por kilogramo"
+	},{
+		"key": "P48",
+		"name": "Libra de Mol por libra"
+	},{
+		"key": "P49",
+		"name": "Newton metro cuadrado por amperio"
+	},{
+		"key": "P5",
+		"name": "Paquete de cinco"
+	},{
+		"key": "P50",
+		"name": "Metro weber"
+	},{
+		"key": "P51",
+		"name": "Mol por kilogramo pascal "
+	},{
+		"key": "P52",
+		"name": "Mol por metro cúbico pascal"
+	},{
+		"key": "P53",
+		"name": "Unit por segundo"
+	},{
+		"key": "P54",
+		"name": "MiliGray por segundo"
+	},{
+		"key": "P55",
+		"name": "MicroGray por segundo"
+	},{
+		"key": "P56",
+		"name": "NanoGray por segundo"
+	},{
+		"key": "P57",
+		"name": "Gray por minuto"
+	},{
+		"key": "P58",
+		"name": "MiliGray por minuto"
+	},{
+		"key": "P59",
+		"name": "Microgray por minuto"
+	},{
+		"key": "P6",
+		"name": "paquete de seis"
+	},{
+		"key": "P60",
+		"name": "Nanogray por minuto"
+	},{
+		"key": "P61",
+		"name": "Gray por hora"
+	},{
+		"key": "P62",
+		"name": "MiliGray por hora"
+	},{
+		"key": "P63",
+		"name": "Micro gray por hora"
+	},{
+		"key": "P64",
+		"name": "Nanogray por hora"
+	},{
+		"key": "P65",
+		"name": "Sievert por segundo"
+	},{
+		"key": "P66",
+		"name": "MilliSievert por segundo"
+	},{
+		"key": "P67",
+		"name": "MicroSievert por segundo"
+	},{
+		"key": "P68",
+		"name": "NanoSievert por segundo"
+	},{
+		"key": "P69",
+		"name": "Rem por segundo"
+	},{
+		"key": "P7",
+		"name": "Paquete de siete"
+	},{
+		"key": "P70",
+		"name": "Sievert por hora"
+	},{
+		"key": "P71",
+		"name": "MilliSievert por hora"
+	},{
+		"key": "P72",
+		"name": "Micro Sievert por hora"
+	},{
+		"key": "P73",
+		"name": "NanoSievert por hora"
+	},{
+		"key": "P74",
+		"name": "Sievert por minuto"
+	},{
+		"key": "P75",
+		"name": "MilliSievert por minuto"
+	},{
+		"key": "P76",
+		"name": "MicroSievert por minuto"
+	},{
+		"key": "P77",
+		"name": "NanoSievert pominut "
+	},{
+		"key": "P78",
+		"name": "Reciprocidad por segundo"
+	},{
+		"key": "P79",
+		"name": "Pascal metro cuadrado por kilogramo"
+	},{
+		"key": "P8",
+		"name": "Paquete de ocho"
+	},{
+		"key": "P80",
+		"name": "Milipascal por metro."
+	},{
+		"key": "P81",
+		"name": "Kilopascal por metro."
+	},{
+		"key": "P82",
+		"name": "Hectopascal por metro."
+	},{
+		"key": "P83",
+		"name": "Admosfera estandar por metro."
+	},{
+		"key": "P84",
+		"name": "Admosfera tecnica por metro."
+	},{
+		"key": "P85",
+		"name": "Torr por metro."
+	},{
+		"key": "P86",
+		"name": "Psi por pulgada"
+	},{
+		"key": "P87",
+		"name": "Metro cúbico por segundo de metro cuadrado"
+	},{
+		"key": "P88",
+		"name": "Rhe"
+	},{
+		"key": "P89",
+		"name": "Libra por metro cúbico de pulgada"
+	},{
+		"key": "P9",
+		"name": "Nueve paquetes"
+	},{
+		"key": "P90",
+		"name": "Libra-fuerza por pulgada cuadrada"
+	},{
+		"key": "P91",
+		"name": "Permanente (0°c)"
+	},{
+		"key": "P92",
+		"name": "Permanente (23°c)"
+	},{
+		"key": "P93",
+		"name": "Byte por segundo"
+	},{
+		"key": "P94",
+		"name": "Kilobyte por segundo"
+	},{
+		"key": "P95",
+		"name": "Megabite por segundo"
+	},{
+		"key": "P96",
+		"name": "Recíproco de la unidad si deriva voltio"
+	},{
+		"key": "P97",
+		"name": "Reciprocidad de Radian"
+	},{
+		"key": "P98",
+		"name": "Pascal a la suma de potencia de los números estequimetricos"
+	},{
+		"key": "P99",
+		"name": "Mols por metro cúbico a la suma de potencia de los números estequimetricos"
+	},{
+		"key": "PAL",
+		"name": "Pascal"
+	},{
+		"key": "PB",
+		"name": "Par de la pulgada"
+	},{
+		"key": "PD",
+		"name": "Almohadilla"
+	},{
+		"key": "PE",
+		"name": "Libra equivalente"
+	},{
+		"key": "PFL",
+		"name": "Litro de prueba "
+	},{
+		"key": "PGL",
+		"name": "Galón de prueba"
+	},{
+		"key": "PI",
+		"name": "Tono"
+	},{
+		"key": "PLA",
+		"name": "Grado de platón "
+	},{
+		"key": "PM",
+		"name": "Porcentaje de libra"
+	},{
+		"key": "PO",
+		"name": "Libra por pulgada"
+	},{
+		"key": "PQ",
+		"name": "Página por pulgada"
+	},{
+		"key": "PR",
+		"name": "Par"
+	},{
+		"key": "PS",
+		"name": "Libra fuerza por pulgada cuadrada"
+	},{
+		"key": "PT",
+		"name": "Pinta (US)"
+	},{
+		"key": "PTD",
+		"name": "Pinta seca (estados unidos)"
+	},{
+		"key": "PTI",
+		"name": "Pint (uk)"
+	},{
+		"key": "PTL",
+		"name": "Pinta líquida (estados unidos)"
+	},{
+		"key": "PTN",
+		"name": "Parte"
+	},{
+		"key": "PV",
+		"name": "Media pinta (US)"
+	},{
+		"key": "PW",
+		"name": "Libra por pulgada de ancho"
+	},{
+		"key": "PY",
+		"name": "Pico seco (EUA)"
+	},{
+		"key": "PZ",
+		"name": "Peck dry (UK)"
+	},{
+		"key": "Q10",
+		"name": "Joule por tesla"
+	},{
+		"key": "Q11",
+		"name": "Erlang"
+	},{
+		"key": "Q12",
+		"name": "Octeto"
+	},{
+		"key": "Q13",
+		"name": "Octeto por segundo"
+	},{
+		"key": "Q14",
+		"name": "Shannon"
+	},{
+		"key": "Q15",
+		"name": "Hartley"
+	},{
+		"key": "Q16",
+		"name": "Unidad natural de información "
+	},{
+		"key": "Q17",
+		"name": "Shannon por segundo"
+	},{
+		"key": "Q18",
+		"name": "Hartley por segundo "
+	},{
+		"key": "Q19",
+		"name": "Unidad natural de información por segundo "
+	},{
+		"key": "Q20",
+		"name": "Segundo por kilogramo"
+	},{
+		"key": "Q21",
+		"name": "Watt metro cuadrado"
+	},{
+		"key": "Q22",
+		"name": "Segundo por metro cúbicos de radianes "
+	},{
+		"key": "Q23",
+		"name": "Weber a la potencia menos uno"
+	},{
+		"key": "Q24",
+		"name": "Reciprocidad de Pulgada"
+	},{
+		"key": "Q25",
+		"name": "Dioptría"
+	},{
+		"key": "Q26",
+		"name": "Uno por uno"
+	},{
+		"key": "Q27",
+		"name": "Newtons metros por metro"
+	},{
+		"key": "Q28",
+		"name": "Kilograma por metro cuadrado pascal segundo"
+	},{
+		"key": "Q29",
+		"name": "Microgramo por hectogramo"
+	},{
+		"key": "Q3",
+		"name": "Comida"
+	},{
+		"key": "Q30",
+		"name": "Ph (potencial de hidrogeno)"
+	},{
+		"key": "Q31",
+		"name": "Kilojoule por gramo"
+	},{
+		"key": "Q32",
+		"name": "Femtolitro"
+	},{
+		"key": "Q33",
+		"name": "Picolitro"
+	},{
+		"key": "Q34",
+		"name": "Nanolitro"
+	},{
+		"key": "Q35",
+		"name": "Megawatts por minuto"
+	},{
+		"key": "Q36",
+		"name": "Metro cuadrado por metro cúbico"
+	},{
+		"key": "Q37",
+		"name": "Metro cúbico estándar por día"
+	},{
+		"key": "Q38",
+		"name": "Metro cúbico estándar por hora"
+	},{
+		"key": "Q39",
+		"name": "Metro cúbico normalizado por día"
+	},{
+		"key": "Q40",
+		"name": "Metro cúbico normalizado por hora"
+	},{
+		"key": "Q41",
+		"name": "Joule por metro cúbico normalizado"
+	},{
+		"key": "Q42",
+		"name": "Joule por metro cúbico estándar"
+	},{
+		"key": "QA",
+		"name": "Página-fascimil"
+	},{
+		"key": "QAN",
+		"name": "Cuarto (de un año)"
+	},{
+		"key": "QB",
+		"name": "Página, copia impresa"
+	},{
+		"key": "QD",
+		"name": "Cuarta docena"
+	},{
+		"key": "QH",
+		"name": "Un cuarto de hora"
+	},{
+		"key": "QK",
+		"name": "Cuarto de kilogramo"
+	},{
+		"key": "QR",
+		"name": "Mano de papel"
+	},{
+		"key": "QT",
+		"name": "Cuarto (EUA)"
+	},{
+		"key": "QTD",
+		"name": "Cuarto seco (estados unidos)"
+	},{
+		"key": "QTI",
+		"name": "Cuarto (UK)"
+	},{
+		"key": "QTL",
+		"name": "Cuarto de líquido (estadis unidos)"
+	},{
+		"key": "QTR",
+		"name": "Cuarto"
+	},{
+		"key": "R1",
+		"name": "Pica"
+	},{
+		"key": "R9",
+		"name": "Mil metros cúbicos "
+	},{
+		"key": "RH",
+		"name": "Hora de funcionamiento"
+	},{
+		"key": "RK",
+		"name": "Medida métrica de rollo"
+	},{
+		"key": "RM",
+		"name": "Resma"
+	},{
+		"key": "RN",
+		"name": "Medida métrica de Hojas (resma)"
+	},{
+		"key": "ROM",
+		"name": "Habitación"
+	},{
+		"key": "RP",
+		"name": "Libra por resma"
+	},{
+		"key": "RPM",
+		"name": "Revoluciones por minuto"
+	},{
+		"key": "RPS",
+		"name": "Revoluciones por segundo"
+	},{
+		"key": "RS",
+		"name": "Reiniciar"
+	},{
+		"key": "RT",
+		"name": "Milla de toneladas de ingresos"
+	},{
+		"key": "RU",
+		"name": "correr"
+	},{
+		"key": "S3",
+		"name": "Pie cuadrado por segundo"
+	},{
+		"key": "S4",
+		"name": "Metro cuadrado por segundo"
+	},{
+		"key": "S5",
+		"name": "Sesenta cuartos de pulgada"
+	},{
+		"key": "S6",
+		"name": "Sesión"
+	},{
+		"key": "S7",
+		"name": "unidad de almacenamiento"
+	},{
+		"key": "S8",
+		"name": "Unidad de publicidad estándar"
+	},{
+		"key": "SAN",
+		"name": "Medio año"
+	},{
+		"key": "SCO",
+		"name": "Puntuación"
+	},{
+		"key": "SCR",
+		"name": "Escrúpulo"
+	},{
+		"key": "SD",
+		"name": "Libra sólida"
+	},{
+		"key": "SE",
+		"name": "Sección"
+	},{
+		"key": "SEC",
+		"name": "Segundo [unidad de tiempo]"
+	},{
+		"key": "SET",
+		"name": "Conjunto"
+	},{
+		"key": "SG",
+		"name": "Segmento "
+	},{
+		"key": "SHT",
+		"name": "Tonelada de envíos"
+	},{
+		"key": "SIE",
+		"name": "Siemens"
+	},{
+		"key": "SK",
+		"name": "Camión cisterna con división"
+	},{
+		"key": "SM3",
+		"name": "Metro cúbico estándar"
+	},{
+		"key": "SMI",
+		"name": "Milla (milla estatal)"
+	},{
+		"key": "SN",
+		"name": "Barra cuadrada"
+	},{
+		"key": "SQ",
+		"name": "Cuadrado"
+	},{
+		"key": "SQR",
+		"name": "Cuadrado y techado"
+	},{
+		"key": "SR",
+		"name": "Tira"
+	},{
+		"key": "SS",
+		"name": "Medida métrica de hoja"
+	},{
+		"key": "SST",
+		"name": "Estandar corto (7200 partidos)"
+	},{
+		"key": "STC",
+		"name": "Palo"
+	},{
+		"key": "STI",
+		"name": "Estone (UK)"
+	},{
+		"key": "STK",
+		"name": "Palo, cigarrillo"
+	},{
+		"key": "STL",
+		"name": "Litro estándar"
+	},{
+		"key": "STN",
+		"name": "Tonelada (estados unidos) o tonelada corta (UK y estados unidos)"
+	},{
+		"key": "STW",
+		"name": "Paja"
+	},{
+		"key": "SW",
+		"name": "Número de madejas"
+	},{
+		"key": "SX",
+		"name": "Envío"
+	},{
+		"key": "SYR",
+		"name": "Jeringuilla"
+	},{
+		"key": "T0",
+		"name": "Linea de telecomunicaciones en servicio"
+	},{
+		"key": "T1",
+		"name": "Mil libras"
+	},{
+		"key": "T3",
+		"name": "Mil pedazos"
+	},{
+		"key": "T4",
+		"name": "Bolsa de mil"
+	},{
+		"key": "T5",
+		"name": "Mil envolturas"
+	},{
+		"key": "T6",
+		"name": "Mil galones (US)"
+	},{
+		"key": "T7",
+		"name": "Impresión de mil"
+	},{
+		"key": "T8",
+		"name": "Mil pulgadas lineales"
+	},{
+		"key": "TA",
+		"name": "Décimo de pie cúbico"
+	},{
+		"key": "TAB",
+		"name": "Tonelada de registro bruto"
+	},{
+		"key": "TAH",
+		"name": "Kiloamperio-hora (milamperio-hora)"
+	},{
+		"key": "TAN",
+		"name": "Número de acido total"
+	},{
+		"key": "TC",
+		"name": "Camión"
+	},{
+		"key": "TD",
+		"name": "Termico"
+	},{
+		"key": "TE",
+		"name": "Totalizador"
+	},{
+		"key": "TF",
+		"name": "Diez yardas cuadradas"
+	},{
+		"key": "TI",
+		"name": "Mil pulgadas cuadradas"
+	},{
+		"key": "TIC",
+		"name": "Tonelada métrica, incluido el contenedor"
+	},{
+		"key": "TIP",
+		"name": "Tonelada métrica, incluido el embalaje interior"
+	},{
+		"key": "TJ",
+		"name": "Mil centímetros cuadrados"
+	},{
+		"key": "TKM",
+		"name": "Tonelada kilometro"
+	},{
+		"key": "TL",
+		"name": "Mil pies (lineal)"
+	},{
+		"key": "TMS",
+		"name": "Kilogramo de carne importada, menos despojos"
+	},{
+		"key": "TNE",
+		"name": "Tonelada (tonelada métrica)"
+	},{
+		"key": "TP",
+		"name": "Paquete de diez"
+	},{
+		"key": "TPI",
+		"name": "Dientes por pulgada"
+	},{
+		"key": "TPR",
+		"name": "Decenas de pares"
+	},{
+		"key": "TQ",
+		"name": "Mil pies"
+	},{
+		"key": "TQD",
+		"name": "Mil metros cúbicos por día "
+	},{
+		"key": "TR",
+		"name": "Diez pies cuadrados"
+	},{
+		"key": "TRL",
+		"name": "Trillones (eur)"
+	},{
+		"key": "Ts",
+		"name": "Mil pies cuadrados"
+	},{
+		"key": "TSD",
+		"name": "Tonelada de sustancia 90% seca"
+	},{
+		"key": "TSH",
+		"name": "Tonelada de vapor por hora"
+	},{
+		"key": "TST",
+		"name": "Decena de conjuntos"
+	},{
+		"key": "TT",
+		"name": "Mil metros lineales"
+	},{
+		"key": "TTS",
+		"name": "Decenas de millar de pegatinas"
+	},{
+		"key": "Tu",
+		"name": "Contenedor externo"
+	},{
+		"key": "TV",
+		"name": "Mil kilogramos"
+	},{
+		"key": "TW",
+		"name": "Mil hojas"
+	},{
+		"key": "U1",
+		"name": "Tratamiento "
+	},{
+		"key": "U2",
+		"name": "Número de tabletas"
+	},{
+		"key": "UA",
+		"name": "Torr"
+	},{
+		"key": "UB",
+		"name": "Linea de telecomunicaciones en servicio promedio "
+	},{
+		"key": "UC",
+		"name": "Puerto de telecomunicaciones "
+	},{
+		"key": "UD",
+		"name": "Décimo minuto"
+	},{
+		"key": "UE",
+		"name": "Hora de décimo"
+	},{
+		"key": "UF",
+		"name": "Uso por línea de telecomunicaciones promedio"
+	},{
+		"key": "UH",
+		"name": "Diez mil yardas"
+	},{
+		"key": "UM",
+		"name": "Millón de unidades"
+	},{
+		"key": "UN",
+		"name": "Newton metro"
+	},{
+		"key": "VA",
+		"name": "Voltio-amperio por kilogramo"
+	},{
+		"key": "VLT",
+		"name": "Voltio"
+	},{
+		"key": "VP",
+		"name": "Volumen porcentual "
+	},{
+		"key": "VS",
+		"name": "Visita"
+	},{
+		"key": "W2",
+		"name": "Kilo húmedo "
+	},{
+		"key": "W4",
+		"name": "Dos semanas"
+	},{
+		"key": "WA",
+		"name": "Watt por kilogramo "
+	},{
+		"key": "WB",
+		"name": "Libra húmeda"
+	},{
+		"key": "WCD",
+		"name": "Cable"
+	},{
+		"key": "WE",
+		"name": "Tonelada húmeda "
+	},{
+		"key": "WEB",
+		"name": "Weber"
+	},{
+		"key": "WEE",
+		"name": "Semana"
+	},{
+		"key": "WG",
+		"name": "Galón de vino"
+	},{
+		"key": "WH",
+		"name": "Rueda"
+	},{
+		"key": "WHR",
+		"name": "Watt hora"
+	},{
+		"key": "WI",
+		"name": "Peso por pulgada cuadrada"
+	},{
+		"key": "WM",
+		"name": "Mes de trabajo "
+	},{
+		"key": "WR",
+		"name": "Envolver"
+	},{
+		"key": "WSD",
+		"name": "Estándar"
+	},{
+		"key": "WTT",
+		"name": "Watt"
+	},{
+		"key": "WW",
+		"name": "Mililitro de agua"
+	},{
+		"key": "X1",
+		"name": "Cadena de gunter"
+	},{
+		"key": "X1A",
+		"name": "Tambor de acero"
+	},{
+		"key": "X1B",
+		"name": "Tambor de aluminio"
+	},{
+		"key": "X1D",
+		"name": "Tambor contrachapado"
+	},{
+		"key": "X1F",
+		"name": "Contenedor flexible"
+	},{
+		"key": "X1G",
+		"name": "Tambor de fibra"
+	},{
+		"key": "X1w",
+		"name": "Tambor de madera"
+	},{
+		"key": "X2C",
+		"name": "Barril de madera"
+	},{
+		"key": "X3A",
+		"name": "Bidón de acero"
+	},{
+		"key": "X3H",
+		"name": "Bidón de plástico"
+	},{
+		"key": "X43",
+		"name": "Bolsa de gran tamaño"
+	},{
+		"key": "X44",
+		"name": "Bolsa de plastico"
+	},{
+		"key": "X4A",
+		"name": "Caja de acero"
+	},{
+		"key": "X4B",
+		"name": "Caja de aluminio"
+	},{
+		"key": "X4C",
+		"name": "Caja de  madera natural"
+	},{
+		"key": "X4D",
+		"name": "Caja de contrachapado"
+	},{
+		"key": "X4F",
+		"name": "Caja de madera reconstituida"
+	},{
+		"key": "X4G",
+		"name": "Caja de cartón"
+	},{
+		"key": "X4H",
+		"name": "Caja de plástico"
+	},{
+		"key": "X5H",
+		"name": "Bolsa de plástico tejido"
+	},{
+		"key": "X5L",
+		"name": "Bolsa textil"
+	},{
+		"key": "X5M",
+		"name": "Bolsa de papel"
+	},{
+		"key": "X6H",
+		"name": "Recipiente de plástico, Contenedor compuesto."
+	},{
+		"key": "X6P",
+		"name": "Recipiente de vidrio, Contenedor compuesto."
+	},{
+		"key": "X7A",
+		"name": "Estuche para carro"
+	},{
+		"key": "X7B",
+		"name": "Estuche de madera"
+	},{
+		"key": "X8A",
+		"name": "Pallet de madera"
+	},{
+		"key": "X8B",
+		"name": "Cajón de madera"
+	},{
+		"key": "X8C",
+		"name": "Madera flejada"
+	},{
+		"key": "XAA",
+		"name": "Contenedor intermedio  para gráneles de plástico rígido"
+	},{
+		"key": "XAB",
+		"name": "Contenedor de fibra"
+	},{
+		"key": "XAC",
+		"name": "Contenedor de papel"
+	},{
+		"key": "XAD",
+		"name": "Contenedor de madera"
+	},{
+		"key": "XAE",
+		"name": "Aerosol"
+	},{
+		"key": "XAF",
+		"name": "Pallet modular con collares,  80cms * 60cms"
+	},{
+		"key": "XAG",
+		"name": "Pallet o empaquetado"
+	},{
+		"key": "XAH",
+		"name": "Pallet, 100cms X 110cms"
+	},{
+		"key": "XAI",
+		"name": "Contenedor tipo concha"
+	},{
+		"key": "XAJ",
+		"name": "Cono"
+	},{
+		"key": "XAL",
+		"name": "Esféra"
+	},{
+		"key": "XAM",
+		"name": "Ampolleta no protegida"
+	},{
+		"key": "XAP",
+		"name": "Ampolleta protegida"
+	},{
+		"key": "XAT",
+		"name": "Atomizador"
+	},{
+		"key": "XAV",
+		"name": "Cápsula"
+	},{
+		"key": "XB4",
+		"name": "Cinturón"
+	},{
+		"key": "XBA",
+		"name": "Barril"
+	},{
+		"key": "XBB",
+		"name": "Bobina"
+	},{
+		"key": "XBC",
+		"name": "Cajón para botellas / Estante para botellas"
+	},{
+		"key": "XBD",
+		"name": "Tablero"
+	},{
+		"key": "XBE",
+		"name": "Flejado"
+	},{
+		"key": "XBF",
+		"name": "Globo no protegido"
+	},{
+		"key": "XBG",
+		"name": "Bolso"
+	},{
+		"key": "XBH",
+		"name": "Manojo"
+	},{
+		"key": "XBI",
+		"name": "Compartimiento"
+	},{
+		"key": "XBJ",
+		"name": "Cubeta"
+	},{
+		"key": "XBK",
+		"name": "Cesta"
+	},{
+		"key": "XBL",
+		"name": "Paca comprimida"
+	},{
+		"key": "XBM",
+		"name": "Cuenco"
+	},{
+		"key": "XBN",
+		"name": "Paca no comprimida"
+	},{
+		"key": "XBO",
+		"name": "Botella no-protegida y cilíndrica"
+	},{
+		"key": "XBP",
+		"name": "Globo protegido"
+	},{
+		"key": "XBQ",
+		"name": "Botella cilíndrica protegida"
+	},{
+		"key": "XBR",
+		"name": "Barra"
+	},{
+		"key": "XBS",
+		"name": "Botella, no-protegida en forma de bulbo"
+	},{
+		"key": "XBT",
+		"name": "Rollo de tela"
+	},{
+		"key": "XBU",
+		"name": "Butt"
+	},{
+		"key": "XBV",
+		"name": "Botella de bulbo protegido"
+	},{
+		"key": "XBW",
+		"name": "Caja para líquidos"
+	},{
+		"key": "XBX",
+		"name": "Caja"
+	},{
+		"key": "XBY",
+		"name": "Tablero, con fleje/ agrupados/ armados"
+	},{
+		"key": "XBZ",
+		"name": "Barras, con fleje/ agrupados/ armados"
+	},{
+		"key": "XCA",
+		"name": "Lata rectangular"
+	},{
+		"key": "XCB",
+		"name": "Cajón para cerveza"
+	},{
+		"key": "XCC",
+		"name": "Mantequera"
+	},{
+		"key": "XCD",
+		"name": "Lata con mango y boquilla"
+	},{
+		"key": "XCE",
+		"name": "Cesto tejido"
+	},{
+		"key": "XCF",
+		"name": "Cofre"
+	},{
+		"key": "XCG",
+		"name": "Contenedor tipo Jaula"
+	},{
+		"key": "XCH",
+		"name": "Cajonera"
+	},{
+		"key": "XCI",
+		"name": "Frasco"
+	},{
+		"key": "XCJ",
+		"name": "Ataúd"
+	},{
+		"key": "XCK",
+		"name": "Barrica"
+	},{
+		"key": "XCL",
+		"name": "Espiral"
+	},{
+		"key": "XCM",
+		"name": "Paquete de tarjetas"
+	},{
+		"key": "XCN",
+		"name": "Contenedor, no especificado como equipo de transporte"
+	},{
+		"key": "XCO",
+		"name": "Garrafón no protegido"
+	},{
+		"key": "XCP",
+		"name": "Garrafón protegido"
+	},{
+		"key": "XCQ",
+		"name": "Cartucho"
+	},{
+		"key": "XCR",
+		"name": "Cajón"
+	},{
+		"key": "XCS",
+		"name": "Estuche"
+	},{
+		"key": "XCT",
+		"name": "Cartón"
+	},{
+		"key": "XCU",
+		"name": "Vaso"
+	},{
+		"key": "XCV",
+		"name": "Cubierta"
+	},{
+		"key": "XCW",
+		"name": "Jaula estilo rodillo"
+	},{
+		"key": "XCX",
+		"name": "Lata cilíndrica"
+	},{
+		"key": "XCY",
+		"name": "Cilindro"
+	},{
+		"key": "XCZ",
+		"name": "Lona"
+	},{
+		"key": "XDA",
+		"name": "Cajón multicapa de plástico"
+	},{
+		"key": "XDB",
+		"name": "Cajón de varias capas de madera"
+	},{
+		"key": "XDC",
+		"name": "Cajón multicapa de cartón"
+	},{
+		"key": "XDG",
+		"name": "Jaula, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP))"
+	},{
+		"key": "XDH",
+		"name": "Caja, Según la clasificación de la compañía (CHEP), Eurobox"
+	},{
+		"key": "XDI",
+		"name": "Tambor de hierro"
+	},{
+		"key": "XDJ",
+		"name": "damajuana o garrafa, no protegido"
+	},{
+		"key": "XDK",
+		"name": "Cajón a granel, cartón"
+	},{
+		"key": "XDL",
+		"name": "Cajas de plástico"
+	},{
+		"key": "XDM",
+		"name": "Cajones a granel de madera"
+	},{
+		"key": "XDN",
+		"name": "Dispensador"
+	},{
+		"key": "XDP",
+		"name": "damajuana o garrafa, protegido"
+	},{
+		"key": "XDR",
+		"name": "Tambor"
+	},{
+		"key": "XDS",
+		"name": "Bandeja de una capa sin cubierta y de plástico"
+	},{
+		"key": "XDT",
+		"name": "Bandeja de una capa sin cubierta y de madera"
+	},{
+		"key": "XDU",
+		"name": "Bandeja de una capa sin cubierta y  poliestireno"
+	},{
+		"key": "XDV",
+		"name": "Bandeja de una capa sin cubierta y de cartón"
+	},{
+		"key": "XDW",
+		"name": "Bandeja de dos capas sin tapa y con bandeja de plástico"
+	},{
+		"key": "XDX",
+		"name": "Bandeja de dos capas sin cubierta y de madera"
+	},{
+		"key": "XDY",
+		"name": "Bandeja de dos capas sin cubierta y de cartón"
+	},{
+		"key": "XEC",
+		"name": "Bolsa de plástico"
+	},{
+		"key": "XED",
+		"name": "Estuche, con pallet de base"
+	},{
+		"key": "XEE",
+		"name": "Estuche, con pallet base de madera"
+	},{
+		"key": "XEF",
+		"name": "Estuche, con pallet base de cartón"
+	},{
+		"key": "XEG",
+		"name": "Estuche, con pallet base de plástico"
+	},{
+		"key": "XEH",
+		"name": "Estuche, con pallet base de metal"
+	},{
+		"key": "XEI",
+		"name": "Estuche isotérmico"
+	},{
+		"key": "XEN",
+		"name": "Sobre"
+	},{
+		"key": "XFB",
+		"name": "Bolsa flexible"
+	},{
+		"key": "XFC",
+		"name": "Cajón para fruta"
+	},{
+		"key": "XFD",
+		"name": "Cajón enmarcado"
+	},{
+		"key": "XFE",
+		"name": "Tanque flexible"
+	},{
+		"key": "XFI",
+		"name": "Firkin"
+	},{
+		"key": "XFL",
+		"name": "Matraz"
+	},{
+		"key": "XFO",
+		"name": "Cajón para zapatos"
+	},{
+		"key": "XFP",
+		"name": "Caja auxiliar para película fotográfica"
+	},{
+		"key": "XFR",
+		"name": "Marco"
+	},{
+		"key": "XFT",
+		"name": "Contenedor para alimentos"
+	},{
+		"key": "XFW",
+		"name": "Carro de cama plana"
+	},{
+		"key": "XFX",
+		"name": "Bolsa flexible tipo contenedor"
+	},{
+		"key": "XGB",
+		"name": "Botella para gas"
+	},{
+		"key": "XGI",
+		"name": "Viga"
+	},{
+		"key": "XGL",
+		"name": "Contenedor tipo galón"
+	},{
+		"key": "XGR",
+		"name": "Recipiente de vidrio"
+	},{
+		"key": "XGU",
+		"name": "Bandeja contenedor para apilar horizontalmente objetos planos"
+	},{
+		"key": "XGY",
+		"name": "Costal de Yute"
+	},{
+		"key": "XGZ",
+		"name": "Vigas con correas o agrupadas"
+	},{
+		"key": "XHA",
+		"name": "Cesta con mango y de plástico"
+	},{
+		"key": "XHB",
+		"name": "Cesta con mango y de madera"
+	},{
+		"key": "XHC",
+		"name": "Cesta  con asa y de  cartón"
+	},{
+		"key": "XHG",
+		"name": "Hogshead"
+	},{
+		"key": "XHN",
+		"name": "Gancho"
+	},{
+		"key": "XHR",
+		"name": "Cesto"
+	},{
+		"key": "XIA",
+		"name": "Paquete con pantalla y de madera"
+	},{
+		"key": "XIB",
+		"name": "Paquete  con pantalla y de cartón"
+	},{
+		"key": "XIC",
+		"name": "Paquete con pantalla y de plástico"
+	},{
+		"key": "XID",
+		"name": "Paquete con pantalla y de metal"
+	},{
+		"key": "XIE",
+		"name": "Paquete de mostrador."
+	},{
+		"key": "XIF",
+		"name": "Envase para alimentos"
+	},{
+		"key": "XIG",
+		"name": "Paquete envuelto en papel"
+	},{
+		"key": "XIH",
+		"name": "Tambor de plástico"
+	},{
+		"key": "XIK",
+		"name": "Paquete de cartón con los agujeros para botellas"
+	},{
+		"key": "XIL",
+		"name": "Bandeja rígida con tapa y apilable (CEN TS 14482: 2002)"
+	},{
+		"key": "XIN",
+		"name": "Lingote"
+	},{
+		"key": "XIZ",
+		"name": "Lingotes  con correas/ agrupados"
+	},{
+		"key": "XJB",
+		"name": "Bolsa jumbo"
+	},{
+		"key": "XJC",
+		"name": "Bidón rectangular"
+	},{
+		"key": "XJG",
+		"name": "Jarra"
+	},{
+		"key": "XJR",
+		"name": "Tarro"
+	},{
+		"key": "XJT",
+		"name": "Bolsa de yute"
+	},{
+		"key": "XJY",
+		"name": "Bidón, cilíndrico"
+	},{
+		"key": "XKG",
+		"name": "Barrilete"
+	},{
+		"key": "XKI",
+		"name": "Kit (Conjunto de piezas)"
+	},{
+		"key": "XLE",
+		"name": "Valijas"
+	},{
+		"key": "XLG",
+		"name": "Bitacora"
+	},{
+		"key": "XLT",
+		"name": "Lote"
+	},{
+		"key": "XLU",
+		"name": "Caja de arrastre"
+	},{
+		"key": "XLV",
+		"name": "Contenedor pequeño"
+	},{
+		"key": "XLZ",
+		"name": "Registros  con fleje/ agrupados/ armados"
+	},{
+		"key": "XMA",
+		"name": "Cajón metálico"
+	},{
+		"key": "XMB",
+		"name": "Múltiplo de bolsas"
+	},{
+		"key": "XMC",
+		"name": "Cajón para leche"
+	},{
+		"key": "XME",
+		"name": "Contenedor de metal"
+	},{
+		"key": "XMR",
+		"name": "Recipiente de metal"
+	},{
+		"key": "XMS",
+		"name": "Saco milti-pared"
+	},{
+		"key": "XMT",
+		"name": "Tapete"
+	},{
+		"key": "XMW",
+		"name": "Contenedor envuelto en plástico"
+	},{
+		"key": "XMX",
+		"name": "Caja pequeña de cerillos"
+	},{
+		"key": "XNA",
+		"name": "No disponible"
+	},{
+		"key": "XNE",
+		"name": "Sin empaque o no empaquetado"
+	},{
+		"key": "XNF",
+		"name": "Sin empaque o no empaquetado, unidad simple"
+	},{
+		"key": "XNG",
+		"name": "Sin empaque o no empaquetado, unidades múltiples"
+	},{
+		"key": "XNS",
+		"name": "Caja nido"
+	},{
+		"key": "XNT",
+		"name": "Red"
+	},{
+		"key": "XNU",
+		"name": "Red de plástico con tubo"
+	},{
+		"key": "XNV",
+		"name": "Red textil con tubo"
+	},{
+		"key": "XOA",
+		"name": "Pallet, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP) 40 cm x 60 cm"
+	},{
+		"key": "XOB",
+		"name": "Pallet, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP) 80 cm x 120 cm"
+	},{
+		"key": "XOC",
+		"name": "Pallet, Según la clasificación de la compañía (Commonwealth Handling Equipment Pool (CHEP) 100 cm x 120 cm"
+	},{
+		"key": "XOD",
+		"name": "Pallet, AS 4068-1993"
+	},{
+		"key": "XOE",
+		"name": "Pallet, ISO T11"
+	},{
+		"key": "XOF",
+		"name": "Plataforma, peso o dimensión no especificada"
+	},{
+		"key": "XOK",
+		"name": "Bloque"
+	},{
+		"key": "XOT",
+		"name": "Octabin"
+	},{
+		"key": "XP2",
+		"name": "Charola"
+	},{
+		"key": "XPA",
+		"name": "Cajetilla"
+	},{
+		"key": "XPB",
+		"name": "Pallet, Caja combinada y abierta con caja y pallet."
+	},{
+		"key": "XPC",
+		"name": "Paquete postal"
+	},{
+		"key": "XPD",
+		"name": "Pallet modular con collares (80cms * 100cms)"
+	},{
+		"key": "XPE",
+		"name": "Pallet modular con collares (80cms * 120cms)"
+	},{
+		"key": "XPF",
+		"name": "Corral"
+	},{
+		"key": "XPG",
+		"name": "Placa"
+	},{
+		"key": "XPH",
+		"name": "Cantaro"
+	},{
+		"key": "XPI",
+		"name": "Pleca"
+	},{
+		"key": "XPJ",
+		"name": "Canastilla"
+	},{
+		"key": "XPK",
+		"name": "Paquete"
+	},{
+		"key": "XPL",
+		"name": "Balde"
+	},{
+		"key": "XPN",
+		"name": "Tablón"
+	},{
+		"key": "XPO",
+		"name": "Bolsa pequeña"
+	},{
+		"key": "XPR",
+		"name": "Contenedor de plástico"
+	},{
+		"key": "XPT",
+		"name": "Maceta"
+	},{
+		"key": "XPU",
+		"name": "Cacerola"
+	},{
+		"key": "XPV",
+		"name": "Tubos, con fleje/ agrupados/ armados"
+	},{
+		"key": "XPX",
+		"name": "Pallet"
+	},{
+		"key": "XPY",
+		"name": "Placas con fleje/ agrupados/ armados"
+	},{
+		"key": "XPZ",
+		"name": "Tablones con fleje/ agrupados/ armados"
+	},{
+		"key": "XQA",
+		"name": "Tambor de acero con cabeza no desmontable"
+	},{
+		"key": "XQB",
+		"name": "Tambor de  acero con cabeza extraíble"
+	},{
+		"key": "XQC",
+		"name": "Tambor de aluminio con cabeza no extraíble"
+	},{
+		"key": "XQD",
+		"name": "Tambor de aluminio con cabeza extraíble"
+	},{
+		"key": "XQF",
+		"name": "Tambor, plástico con cabeza no desmontable"
+	},{
+		"key": "XQG",
+		"name": "Tambor, plástico, cabeza extraíble"
+	},{
+		"key": "XQH",
+		"name": "Barril de madera con tapón"
+	},{
+		"key": "XQJ",
+		"name": "Barril de madera con cabeza desprendible"
+	},{
+		"key": "XQK",
+		"name": "Bidón de acero con cabeza no desmontable"
+	},{
+		"key": "XQL",
+		"name": "Bidón de acero con cabeza desmontable"
+	},{
+		"key": "XQM",
+		"name": "Bidón de plástico con cabeza no desmontable"
+	},{
+		"key": "XQN",
+		"name": "Bidón de plástico con cabeza extraíble"
+	},{
+		"key": "XQP",
+		"name": "Caja de madera natural estándar"
+	},{
+		"key": "XQQ",
+		"name": "Caja de madera natural con muros a prueba de filtraciones"
+	},{
+		"key": "XQR",
+		"name": "Caja de plástico expandida"
+	},{
+		"key": "XQS",
+		"name": "Caja de plástico sólida"
+	},{
+		"key": "XRD",
+		"name": "Rod"
+	},{
+		"key": "XRG",
+		"name": "Anillo"
+	},{
+		"key": "XRJ",
+		"name": "Estante, Perchero para ropa"
+	},{
+		"key": "XRK",
+		"name": "Estante"
+	},{
+		"key": "XRL",
+		"name": "Carrete"
+	},{
+		"key": "XRO",
+		"name": "Rollo"
+	},{
+		"key": "XRT",
+		"name": "Red Roja"
+	},{
+		"key": "XRZ",
+		"name": "Varillas  con fleje/ agrupados/ armados"
+	},{
+		"key": "XSA",
+		"name": "Saco"
+	},{
+		"key": "XSB",
+		"name": "Losa"
+	},{
+		"key": "XSC",
+		"name": "Cajón poco profundo"
+	},{
+		"key": "XSD",
+		"name": "Huso"
+	},{
+		"key": "XSE",
+		"name": "Baúl"
+	},{
+		"key": "XSH",
+		"name": "Bolsa pequeña hermética"
+	},{
+		"key": "XSI",
+		"name": "Patín"
+	},{
+		"key": "XSK",
+		"name": "Carcasa esqueleto"
+	},{
+		"key": "XSL",
+		"name": "Hoja de deslizamiento"
+	},{
+		"key": "XSM",
+		"name": "Hoja de metal"
+	},{
+		"key": "XSO",
+		"name": "Carrete pequeño"
+	},{
+		"key": "XSP",
+		"name": "Hoja de empaque de plástico"
+	},{
+		"key": "XSS",
+		"name": "Cajón de acero"
+	},{
+		"key": "XSU",
+		"name": "Maleta"
+	},{
+		"key": "XSV",
+		"name": "Sobre de acero"
+	},{
+		"key": "XSW",
+		"name": "Envoltorio"
+	},{
+		"key": "XSY",
+		"name": "Manga"
+	},{
+		"key": "XSZ",
+		"name": "Hojas  con fleje/ agrupados/ armados"
+	},{
+		"key": "XT1",
+		"name": "Tableta"
+	},{
+		"key": "XTB",
+		"name": "Tina"
+	},{
+		"key": "XTC",
+		"name": "Caja para té"
+	},{
+		"key": "XTD",
+		"name": "Tubo plegable"
+	},{
+		"key": "XTG",
+		"name": "Contenedor de tanque genérico"
+	},{
+		"key": "XTI",
+		"name": "Tierce"
+	},{
+		"key": "XTK",
+		"name": "Tanque rectangular"
+	},{
+		"key": "XTL",
+		"name": "Tina con tapa"
+	},{
+		"key": "XTN",
+		"name": "Hojalata"
+	},{
+		"key": "XTO",
+		"name": "Tonel"
+	},{
+		"key": "XTR",
+		"name": "Maletero"
+	},{
+		"key": "XTS",
+		"name": "Estructura"
+	},{
+		"key": "XTT",
+		"name": "Bolsa de mano"
+	},{
+		"key": "XTU",
+		"name": "Tubo"
+	},{
+		"key": "XTV",
+		"name": "Tubo con boquilla"
+	},{
+		"key": "XTW",
+		"name": "Pallet tricapa"
+	},{
+		"key": "XTY",
+		"name": "Tanque cilíndrico"
+	},{
+		"key": "XTZ",
+		"name": "Tubos  con fleje/ agrupados/ armados"
+	},{
+		"key": "XUC",
+		"name": "Sin empaque"
+	},{
+		"key": "XUN",
+		"name": "Unidad"
+	},{
+		"key": "XVA",
+		"name": "Tanque"
+	},{
+		"key": "XVG",
+		"name": "Tanque de gas (a 1,031 mbar y 15° C)"
+	},{
+		"key": "XVI",
+		"name": "Frasco pequeño"
+	},{
+		"key": "XVK",
+		"name": "Paquete transportable"
+	},{
+		"key": "XVL",
+		"name": "Contenedor para líquidos a granel"
+	},{
+		"key": "XVN",
+		"name": "Vehículo"
+	},{
+		"key": "XVO",
+		"name": "Contenedor para sólido de partículas grandes a granel (\"nódulos\")"
+	},{
+		"key": "XVP",
+		"name": "Envasado al vacío"
+	},{
+		"key": "XVQ",
+		"name": "Tanque para Gas licuado (a temperatura / presión anormal)"
+	},{
+		"key": "XVR",
+		"name": "Contenedor para sólidos de partículas granulares a granel (Granos)"
+	},{
+		"key": "XVS",
+		"name": "Contenedor de chatarra a granel"
+	},{
+		"key": "XVY",
+		"name": "Contenedor para sólido de partículas finas a granel (\"polvos\")"
+	},{
+		"key": "XWA",
+		"name": "Contenedor de granel intermedio"
+	},{
+		"key": "XWB",
+		"name": "Botella de mimbre"
+	},{
+		"key": "XWC",
+		"name": "Contenedor intermedio para gráneles y de acero"
+	},{
+		"key": "XWD",
+		"name": "Contenedor intermedio para gráneles y de aluminio"
+	},{
+		"key": "XWF",
+		"name": "Contenedor intermedio para gráneles y de metal"
+	},{
+		"key": "XWG",
+		"name": "Contenedor intermedio para gráneles y de acero presurizado menor a 10 kpa"
+	},{
+		"key": "XWH",
+		"name": "Contenedor intermedio para gráneles y de aluminio, presurizado menor a 10 kpa"
+	},{
+		"key": "XWJ",
+		"name": "Contenedor intermedio para gráneles y de metal con una presión de 10 kpa"
+	},{
+		"key": "XWK",
+		"name": "Contenedor intermedio para gráneles y de acero para líquido"
+	},{
+		"key": "XWL",
+		"name": "Contenedor intermedio para gráneles y de aluminio para líquido"
+	},{
+		"key": "XWM",
+		"name": "Contenedor intermedio para gráneles y de metal para líquido"
+	},{
+		"key": "XWN",
+		"name": "Contenedor intermedio para gráneles con tejido plástico sin capa con revestimiento"
+	},{
+		"key": "XWP",
+		"name": "Contenedor intermedio para gráneles con tejido plástico y recubierto"
+	},{
+		"key": "XWQ",
+		"name": "Contenedor intermedio para gráneles con tejido plástico con revestimiento"
+	},{
+		"key": "XWR",
+		"name": "Contenedor intermedio para gráneles con tejido plástico, revestido y con forro"
+	},{
+		"key": "XWS",
+		"name": "Contenedor intermedio para gráneles con película de plástico"
+	},{
+		"key": "XWT",
+		"name": "Contenedor intermedio para gráneles textil sin capa / forro"
+	},{
+		"key": "XWU",
+		"name": "Contenedor intermedio para gráneles de madera natural con forro interior"
+	},{
+		"key": "XWV",
+		"name": "Contenedor intermedio para gráneles textil recubierto"
+	},{
+		"key": "XWW",
+		"name": "Contenedor intermedio para gráneles textil con revestimiento"
+	},{
+		"key": "XWX",
+		"name": "Contenedor intermedio para gráneles textil recubierto y con forro"
+	},{
+		"key": "XWY",
+		"name": "Contenedor intermedio para gráneles contrachapado con revestimiento interior"
+	},{
+		"key": "XWZ",
+		"name": "Contenedor intermedio para gráneles de madera reconstituida con revestimiento interior"
+	},{
+		"key": "XXA",
+		"name": "Bolsa de tejido plástico, sin abrigo interior ni forro"
+	},{
+		"key": "XXB",
+		"name": "Bolsa de tejido plástico a prueba de filtraciones"
+	},{
+		"key": "XXC",
+		"name": "Bolsa de tejido plástico resistente al agua"
+	},{
+		"key": "XXD",
+		"name": "Bolsa con película de plástico"
+	},{
+		"key": "XXF",
+		"name": "Bolsa textil sin capa ni forro interior"
+	},{
+		"key": "XXG",
+		"name": "Bolsa textil a prueba de filtraciones"
+	},{
+		"key": "XXH",
+		"name": "Bolsa textil resistente al agua"
+	},{
+		"key": "XXJ",
+		"name": "Bolsa de papel multi-pared"
+	},{
+		"key": "XXK",
+		"name": "Bolsa de papel multi-pared, resistente al agua"
+	},{
+		"key": "XYA",
+		"name": "Empaque compuesto, recipiente de plástico en tambor de acero"
+	},{
+		"key": "XYB",
+		"name": "Empaque compuesto, recipiente de plástico en cajas de acero"
+	},{
+		"key": "XYC",
+		"name": "Empaque compuesto, recipiente de plástico en tambor de aluminio"
+	},{
+		"key": "XYD",
+		"name": "Empaque compuesto, recipiente de plástico en cajón de aluminio"
+	},{
+		"key": "XYF",
+		"name": "Empaque compuesto, recipiente de plástico en caja de madera"
+	},{
+		"key": "XYG",
+		"name": "Empaque compuesto, recipiente de plástico en tambor de madera contrachapada"
+	},{
+		"key": "XYH",
+		"name": "Empaque compuesto, recipiente de plástico en caja de madera contrachapada"
+	},{
+		"key": "XYJ",
+		"name": "Empaque compuesto, recipiente de plástico en tambor de fibra"
+	},{
+		"key": "XYK",
+		"name": "Empaque compuesto, recipiente de plástico en caja de cartón"
+	},{
+		"key": "XYL",
+		"name": "Empaque compuesto, recipiente de plástico en el tambor de plástico"
+	},{
+		"key": "XYM",
+		"name": "Empaque compuesto, recipiente de plástico en caja de plástico sólido"
+	},{
+		"key": "XYN",
+		"name": "Empaque compuesto, receptáculo de vidrio en tambor de acero"
+	},{
+		"key": "XYP",
+		"name": "Empaque compuesto, receptáculo de vidrio en caja de cajas de acero"
+	},{
+		"key": "XYQ",
+		"name": "Empaque compuesto, recipiente de vidrio en tambor de aluminio"
+	},{
+		"key": "XYR",
+		"name": "Empaque compuesto, receptáculo de vidrio en caja de aluminio"
+	},{
+		"key": "XYS",
+		"name": "Empaque compuesto, recipiente de vidrio en caja de madera"
+	},{
+		"key": "XYT",
+		"name": "Empaque compuesto, recipiente de vidrio en tambor de madera contrachapada"
+	},{
+		"key": "Xyv",
+		"name": "Empaque compuesto, recipiente de vidrio en el cesto de mimbre"
+	},{
+		"key": "XYW",
+		"name": "Empaque compuesto, recipiente de vidrio en tambor de fibra"
+	},{
+		"key": "XYX",
+		"name": "Empaque compuesto, recipiente de vidrio en caja de cartón"
+	},{
+		"key": "XYY",
+		"name": "Empaque compuesto, recipiente de vidrio en paquete de plástico expandible"
+	},{
+		"key": "XYZ",
+		"name": "Empaque compuesto, recipiente de vidrio en paquete de plástico sólido"
+	},{
+		"key": "XZA",
+		"name": "Contenedor de granel intermedio, papel, multi-pared"
+	},{
+		"key": "XZB",
+		"name": "Bolsa grande"
+	},{
+		"key": "XZC",
+		"name": "Contenedor intermedio para gráneles de papel, multi-pared y resistente al agua"
+	},{
+		"key": "XZD",
+		"name": "Contenedor intermedio para gráneles de plástico rígido, con equipo estructural para sólidos"
+	},{
+		"key": "XZF",
+		"name": "Contenedor intermedio para gráneles de plástico rígido, autoportante para sólidos"
+	},{
+		"key": "XZG",
+		"name": "Contenedor intermedio para gráneles de plástico rígido, con equipo estructural, presurizado"
+	},{
+		"key": "XZH",
+		"name": "Contenedor intermedio para gráneles de plástico rígido, autoportante y presurizado"
+	},{
+		"key": "XZJ",
+		"name": "Contenedor intermedio para gráneles de plástico rígido, con equipo estructural para líquidos"
+	},{
+		"key": "XZK",
+		"name": "Contenedor intermedio para gráneles de plástico rígido, autoportante, líquidos"
+	},{
+		"key": "XZL",
+		"name": "Contenedor intermedio para gráneles, compuesto y de plástico rígido, sólidos"
+	},{
+		"key": "XZM",
+		"name": "Contenedor intermedio para gráneles, compuesto y de plástico flexible, sólidos"
+	},{
+		"key": "XZN",
+		"name": "Contenedor intermedio para gráneles, compuesto y de plástico rígido, presurizado"
+	},{
+		"key": "XZP",
+		"name": "Contenedor intermedio para gráneles, compuesto y de plástico flexible, presurizado"
+	},{
+		"key": "XZQ",
+		"name": "Contenedor intermedio para gráneles, compuesto y de plástico rígido, líquidos"
+	},{
+		"key": "XZR",
+		"name": "Contenedor intermedio para gráneles, compuesto y de plástico flexible para líquidos"
+	},{
+		"key": "XZS",
+		"name": "Contenedor intermedio para gráneles, compuesto"
+	},{
+		"key": "XZT",
+		"name": "Contenedor intermedio para gráneles con tablero de fibras"
+	},{
+		"key": "XZU",
+		"name": "Contenedor intermedio para gráneles flexible"
+	},{
+		"key": "XZV",
+		"name": "Contenedor intermedio para gráneles de metal, distinto del acero"
+	},{
+		"key": "XZW",
+		"name": "Contenedor intermedio para gráneles, de madera natural"
+	},{
+		"key": "XZX",
+		"name": "Contenedor intermedio para gráneles, de contrachapado"
+	},{
+		"key": "XZY",
+		"name": "Contenedor intermedio para gráneles, de madera reconstituida"
+	},{
+		"key": "YDK",
+		"name": "Yarda cuadrada"
+	},{
+		"key": "YDQ",
+		"name": "Yarda cúbica"
+	},{
+		"key": "YL",
+		"name": "Cien yardas lineales"
+	},{
+		"key": "YRD",
+		"name": "Yarda"
+	},{
+		"key": "YT",
+		"name": "Diez yardas"
+	},{
+		"key": "Z1",
+		"name": "Furgoneta"
+	},{
+		"key": "Z11",
+		"name": "Contenedor colgante "
+	},{
+		"key": "Z5",
+		"name": "Arrastre"
+	},{
+		"key": "Z6",
+		"name": "Punto de conferencia"
+	},{
+		"key": "Z8",
+		"name": "Página de noticias"
+	},{
+		"key": "ZP",
+		"name": "Páginas"
+	},{
+		"key": "ZZ",
+		"name": "Mutuamente definido"
+	}
+]

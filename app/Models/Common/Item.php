@@ -27,7 +27,7 @@ class Item extends Model
      *
      * @var array
      */
-    protected $fillable = ['company_id', 'name', 'description', 'sale_price', 'purchase_price', 'category_id', 'enabled', 'code_item', 'description_code', 'unit_item', 'description_unit'];
+    protected $fillable = ['company_id', 'name', 'description', 'sale_price', 'purchase_price', 'category_id', 'enabled', 'code_item', 'unit_item'];
 
     /**
      * The attributes that should be cast.
@@ -65,6 +65,16 @@ class Item extends Model
     public function document_items()
     {
         return $this->hasMany('App\Models\Document\DocumentItem');
+    }
+
+    public function code_item()
+    {
+        return $this->hasOne('App\Models\KeyProductService', 'id');
+    }
+
+    public function unit_item()
+    {
+        return $this->hasOne('App\Models\KeyItemService', 'id');
     }
 
     public function bill_items()

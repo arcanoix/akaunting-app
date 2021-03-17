@@ -1,0 +1,68 @@
+[{
+  "key": 1,
+  "name": "Efectivo"
+},{
+  "key": 2,
+  "name": "Cheque nominativo"
+},{
+  "key": 3,
+  "name": "Transferencia electrónica de fondos"
+},{
+  "key": 4,
+  "name": "Tarjeta de crédito"
+},{
+  "key": 5,
+  "name": "Monedero electrónico"
+},{
+  "key": 6,
+  "name": "Dinero electrónico"
+},{
+  "key": 8,
+  "name": "Vales de despensa"
+},{
+  "key": 12,
+  "name": "Dación en pago"
+},{
+  "key": 13,
+  "name": "Pago por subrogación"
+},{
+  "key": 14,
+  "name": "Pago por consignación"
+},{
+  "key": 15,
+  "name": "Condonación"
+},{
+  "key": 17,
+  "name": "Compensación"
+},{
+  "key": 23,
+  "name": "Novación"
+},{
+  "key": 24,
+  "name": "Confusión"
+},{
+  "key": 25,
+  "name": "Remisión de deuda"
+},{
+  "key": 26,
+  "name": "Prescripción o caducidad"
+},{
+  "key": 27,
+  "name": "A satisfacción del acreedor"
+},{
+  "key": 28,
+  "name": "Tarjeta de débito"
+},{
+  "key": 29,
+  "name": "Tarjeta de servicios"
+},{
+  "key": 30,
+  "name": "Aplicación de anticipos"
+},{
+  "key": 31,
+  "name": "Intermediario pagos"
+},{
+  "key": 99,
+  "name": "Por definir"
+}
+]

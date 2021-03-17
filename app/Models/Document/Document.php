@@ -51,6 +51,10 @@ class Document extends Model
         'category_id',
         'parent_id',
         'footer',
+        'sellto',
+        'type_voucher_id',
+        'method_payment_id',
+        'shape_payment_id'
     ];
 
     /**

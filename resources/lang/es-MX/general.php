@@ -51,6 +51,7 @@ return [
     'templates'             => 'Plantilla|Plantillas',
     'sales'                 => 'Venta|Ventas',
     'purchases'             => 'Compra|Compras',
+    'curp'                  => 'Curp',
 
     'welcome'               => 'Bienvenido/a',
     'banking'               => 'Bancos',

@@ -38,9 +38,7 @@ class Item extends FormRequest
             'enabled'           => 'integer|boolean',
             'picture'           => $picture,
             'code_item'         => 'required|string',
-            'description_code'  => 'required|string',
-            'unit_item'         => 'required|string',
-            'description_unit'  => 'required|string',
+            'unit_item'         => 'required|string'
         ];
     }
 }

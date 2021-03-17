@@ -20,6 +20,7 @@
                     @stack('recurring_row_end')
 
                     @stack('more_row_start')
+                  
                     @if (!$hideCategory)
                     <div class="{{ $more_class }}">
                         @if (!$hideCategory)

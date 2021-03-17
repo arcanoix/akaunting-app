@@ -124,7 +124,8 @@ class CreateCompany extends Job
             'company.zone_code'     => $this->request->get('zone_code'),
             'company.municipality'  => $this->request->get('municipality'),
             'company.location'      => $this->request->get('location'),
-            'company.country'       => $this->request->get('country')
+            'company.country'       => $this->request->get('country'),
+            'company.curp'          => $this->request->get('curp')
 
         ]);
 

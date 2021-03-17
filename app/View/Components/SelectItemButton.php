@@ -35,7 +35,8 @@ class SelectItemButton extends Component
      */
     public function render()
     {
-        $items = Item::enabled()->orderBy('name')->take(setting('default.select_limit'))->get();
+        $items = Item::with('code_item', 'unit_item')->enabled()->orderBy('name')->take(setting('default.select_limit'))->get();
+
         $price_type = $this->getPriceType($this->type, $this->isSale, $this->isPurchase);
 
         foreach ($items as $item) {

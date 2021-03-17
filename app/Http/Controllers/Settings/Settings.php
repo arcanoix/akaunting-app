@@ -75,16 +75,29 @@ class Settings extends Controller
      */
     public function update(Request $request)
     {
-        $fields = $request->all();
+       
+        $fields = $request->except(['fiscal_regime']);
         $prefix = $request->get('_prefix', 'general');
         $company_id = $request->get('company_id');
+        
+        $fiscal = null;
 
         if (empty($company_id)) {
             $company_id = session('company_id');
         }
 
         $company = Company::find($company_id);
+        
+        if($request->get('fiscal_regime'))
+        {
+            $fiscal = implode(",", $request->get('fiscal_regime'));
 
+            setting()->set([
+                'company.fiscal_regime' => $fiscal,
+            ]);
+        }
+
+        
         $total_companies = Company::count();
 
         

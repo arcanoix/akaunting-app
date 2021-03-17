@@ -43,6 +43,8 @@
                     {{ Form::textGroup('location', trans('general.location')) }}
                     {{ Form::textGroup('country', trans('general.country')) }}
 
+                    {{ Form::textGroup('curp', trans('general.curp')) }}
+
                     {{ Form::fileGroup('logo', trans('companies.logo'), '', ['dropzone-class' => 'form-file'], $company->company_logo) }}
 
                     {{ Form::fileGroup('certificate', trans('companies.certificate'), '', ['dropzone-class' => 'form-file', 'options' => ['acceptedFiles' => '.cer']]) }}

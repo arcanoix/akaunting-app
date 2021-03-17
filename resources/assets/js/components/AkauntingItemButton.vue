@@ -220,6 +220,8 @@ export default {
     methods: {
         setItemList(items) {
             // Option set sort_option data
+            console.info("ITEMS");
+            console.log(items);
             if (!Array.isArray(items)) {
                 let index = 0;
                 
@@ -252,10 +254,10 @@ export default {
                         id: item.id,
                         name: (item.title) ? item.title : (item.display_name) ? item.display_name : item.name,
                         description: (item.description) ? item.description : '',
-                        description_code: (item.description_code) ? item.description_code : '',
-                        unit_item: (item.unit_item) ? item.unit_item : '',
-                        description_unit: (item.description_unit) ? item.description_unit : '',
-                        code_item: (item.code_item) ? item.code_item : '',
+                        description_code: (item.code_item) ? item.code_item.key : '',
+                        unit_item: (item.unit_item) ? item.unit_item.name : '',
+                        description_unit: (item.unit_item) ? item.unit_item.key : '',
+                        code_item: (item.code_item) ? item.code_item.name : '',
                         price: (item.price) ? item.price : (this.price == 'purchase_price') ? item.purchase_price : item.sale_price,
                         tax_ids: (item.tax_ids) ? item.tax_ids : [],
                     });

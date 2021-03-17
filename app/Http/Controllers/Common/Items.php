@@ -12,6 +12,8 @@ use App\Jobs\Common\CreateItem;
 use App\Jobs\Common\DeleteItem;
 use App\Jobs\Common\UpdateItem;
 use App\Models\Common\Item;
+use App\Models\KeyItemService;
+use App\Models\KeyProductService;
 use App\Models\Setting\Category;
 use App\Models\Setting\Currency;
 use App\Models\Setting\Tax;
@@ -28,7 +30,7 @@ class Items extends Controller
      */
     public function index()
     {
-        $items = Item::with('category', 'media')->collect();
+        $items = Item::with('category', 'media', 'code_item', 'unit_item')->collect();
 
         return $this->response('common.items.index', compact('items'));
     }
@@ -54,7 +56,10 @@ class Items extends Controller
 
         $taxes = Tax::enabled()->orderBy('name')->get()->pluck('title', 'id');
 
-        return view('common.items.create', compact('categories', 'taxes'));
+        $keyProductService = KeyProductService::orderBy('name')->pluck('name', 'id');
+        $keyUnitService = KeyItemService::orderBy('name')->pluck('name', 'id');
+
+        return view('common.items.create', compact('categories', 'taxes', 'keyProductService','keyUnitService'));
     }
 
     /**

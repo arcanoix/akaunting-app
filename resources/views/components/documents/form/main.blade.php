@@ -25,6 +25,14 @@
             hide-order-number="{{ $hideOrderNumber }}"
             text-order-number="{{ $textOrderNumber }}"
             order-number="{{ $orderNumber }}"
+            hide-sellto="{{ $hideSellTo }}"
+            :sellTo="$sellTo"
+            hide-methodpayment="{{ $hideMethodPayment }}"
+            :methodPayment="$methodPayment"
+            hide-shapepayment="{{ $hideShapePayment }}"
+            :shapePayment="$shapePayment"
+            hide-typevoucher="{{ $hideTypeVoucher }}"
+            :typeVoucher="$typeVoucher"
         />
 
         <x-documents.form.items

@@ -7,6 +7,8 @@ use App\Abstracts\Http\Controller;
 use App\Http\Requests\Install\Setting as Request;
 use App\Models\Auth\User;
 use App\Models\Common\Company;
+use App\Models\Setting\Category;
+use Artisan;
 
 class Register extends Controller 
 {
@@ -48,6 +50,8 @@ class Register extends Controller
                 setting()->setExtraColumns(['company_id' => $company->id]);
                 setting()->forgetAll();
 
+                $company_id = $company->id;
+
                     $user = User::create([
                         'name' => 'Demo',
                         'email' => $request->get('user_email'),
@@ -58,6 +62,66 @@ class Register extends Controller
 
                     $user->roles()->attach('1');
                     $user->companies()->attach($company->id);
+
+                    $rows = [
+                        [
+                            'company_id' => $company_id,
+                            'name' => trans_choice('general.transfers', 1),
+                            'type' => 'other',
+                            'color' => '#3c3f72',
+                            'enabled' => '1',
+                        ],
+                        [
+                            'company_id' => $company_id,
+                            'name' => trans('demo.categories.deposit'),
+                            'type' => 'income',
+                            'color' => '#efad32',
+                            'enabled' => '1',
+                        ],
+                        [
+                            'company_id' => $company_id,
+                            'name' => trans('demo.categories.sales'),
+                            'type' => 'income',
+                            'color' => '#6da252',
+                            'enabled' => '1',
+                        ],
+                        [
+                            'company_id' => $company_id,
+                            'name' => trans_choice('general.others', 1),
+                            'type' => 'expense',
+                            'color' => '#e5e5e5',
+                            'enabled' => '1',
+                        ],
+                        [
+                            'company_id' => $company_id,
+                            'name' => trans('general.general'),
+                            'type' => 'item',
+                            'color' => '#328aef',
+                            'enabled' => '1',
+                        ],
+                    ];
+            
+                    $income_category = $expense_category = false;
+            
+                    foreach ($rows as $row) {
+                        $category = Category::create($row);
+            
+                        switch ($category->type) {
+                            case 'income':
+                                if (empty($income_category)) {
+                                    $income_category = $category;
+                                }
+                                break;
+                            case 'expense':
+                                if (empty($expense_category)) {
+                                    $expense_category = $category;
+                                }
+                                break;
+                        }
+                    }
+            
+                    setting()->set('default.income_category', $income_category->id);
+                    setting()->set('default.expense_category', $expense_category->id);
 
                     setting()->set([
                         'company.name' => $request->get('company_name'),
@@ -75,6 +139,7 @@ class Register extends Controller
                     setting()->save();
                     setting()->forgetAll();
             });
+
 
             $message = trans('auth.register_notification');
             flash($message);

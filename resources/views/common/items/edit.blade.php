@@ -34,11 +34,7 @@
                     
                     {{ Form::textGroup('code_item', trans('items.code_item')) }}
 
-                    {{ Form::textGroup('description_code', trans('items.description_code')) }}
-
                     {{ Form::textGroup('unit_item', trans('items.unit_item')) }}
-
-                    {{ Form::textGroup('description_unit', trans('items.description_unit')) }}
 
                     {{ Form::radioGroup('enabled', trans('general.enabled'), $item->enabled) }}
                 </div>

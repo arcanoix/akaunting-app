@@ -359,6 +359,7 @@ class Invoices extends Controller
     public function markPaid(Document $invoice)
     {
         try {
+            
             event(new \App\Events\Document\PaymentReceived($invoice, ['type' => 'income']));
 
             $message = trans('documents.messages.marked_paid', ['type' => trans_choice('general.invoices', 1)]);

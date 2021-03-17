@@ -38,6 +38,10 @@
                 {{ Form::textGroup('municipality', trans('general.municipality'), '', [], setting('company.municipality')) }}
                 {{ Form::textGroup('location', trans('general.location'), '', [], setting('company.location')) }}
                 {{ Form::textGroup('country', trans('general.country'), '', [], setting('company.country')) }}
+                
+                {{ Form::textGroup('curp', trans('general.curp'), '', [], setting('company.curp')) }}
+
+                {{ Form::multiSelectGroup('fiscal_regime', 'Regimen Fiscal', 'percentage', $fiscal_regime, setting('company.fiscal_regime'), ['field' => ['key' => 'id', 'value' => 'name']], 'col-md-6 el-select-tags-pl-38', null) }}
 
                 {{ Form::fileGroup('certificate', trans('companies.certificate'), '', ['dropzone-class' => 'form-file', 'options' => ['acceptedFiles' => '.cer']]) }}
 

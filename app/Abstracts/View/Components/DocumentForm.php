@@ -5,6 +5,10 @@ namespace App\Abstracts\View\Components;
 use App\Abstracts\View\Components\Document as Base;
 use App\Models\Common\Contact;
 use App\Models\Document\Document;
+use App\Models\MethodPayment;
+use App\Models\SellTo;
+use App\Models\ShapePayment;
+use App\Models\TypeVoucher;
 use App\Traits\Documents;
 use Date;
 use Illuminate\Support\Str;
@@ -142,6 +146,17 @@ abstract class DocumentForm extends Base
     /** @var string */
     public $orderNumber;
 
+    /** new variables add */
+    public $sellTo;
+    public $hideSellTo;
+
+    public $methodPayment;
+    public $hideMethodPayment;
+    public $shapePayment;
+    public $hideShapePayment;
+    public $typeVoucher;
+    public $hideTypeVoucher;
+
     /** @var string */
     public $textIssuedAt;
 
@@ -226,7 +241,8 @@ abstract class DocumentForm extends Base
         string $textAddContact = '', string $textCreateNewContact = '', string $textEditContact = '', string $textContactInfo = '', string $textChooseDifferentContact = '',
         bool $hideContact = false, bool $hideIssuedAt = false, bool $hideDocumentNumber = false, bool $hideDueAt = false, bool $hideOrderNumber = false,
         string $textDocumentNumber = '', string $textOrderNumber = '', string $textIssuedAt = '', string $textDueAt = '',
-        string $issuedAt = '', string $documentNumber = '', string $dueAt = '', string $orderNumber = '',
+        string $issuedAt = '', string $documentNumber = '', string $dueAt = '', string $orderNumber = '', $hideSellTo = false , $sellTo = [],  $methodPayment = [], $hideMethodPayment = false,
+        $shapePayment = [], $hideShapePayment = false, $typeVoucher = [], $hideTypeVoucher = false,
         /** Metadata Component End */
         /** Items Component Start */
         string $textItems = '', string $textQuantity = '', string $textPrice = '', string $textAmount = '',
@@ -270,6 +286,16 @@ abstract class DocumentForm extends Base
         $this->notesSetting = $this->getNotesSettingValue($notesSetting);
         /** Content Component End */
 
+        $this->hideSellTo = $hideSellTo;
+        $this->sellTo = $this->getSellTo($type, $sellTo);
+
+        $this->hideMethodPayment = $hideMethodPayment;
+        $this->methodPayment = $this->getMethodPayment($type, $methodPayment);
+        $this->hideShapePayment = $hideShapePayment;
+        $this->shapePayment = $this->getShapePayment($type, $shapePayment);
+        $this->hideTypeVoucher = $hideTypeVoucher;
+        $this->typeVoucher = $this->getTypeVoucher($type, $typeVoucher);
+
         /** Metadata Component Start */
         $this->contacts = $this->getContacts($type, $contacts);
         $this->contact = $this->getContact($contact, $document);
@@ -307,7 +333,7 @@ abstract class DocumentForm extends Base
         $this->hideItems = $this->getHideItems($type, $hideItems, $hideName, $hideDescription);
         $this->hideName = $this->getHideName($type, $hideName);
         $this->hideDescription = $this->getHideDescription($type, $hideDescription);
-        $this->hideCodeitem = $this->getHideCodeItem($type, $hideCodeitem); //TODO: crear metodo
+        $this->hideCodeitem = $this->getHideCodeItem($type, $hideCodeitem); 
         $this->hideQuantity = $this->getHideQuantity($type, $hideQuantity);
         $this->hidePrice = $this->getHidePrice($type, $hidePrice);
         $this->hideDiscount = $this->getHideDiscount($type, $hideDiscount);
@@ -401,6 +427,75 @@ abstract class DocumentForm extends Base
         return $contacts;
     }
 
+    protected function getTypeVoucher($type, $typeVoucher) 
+    {
+        if(!empty($typeVoucher)) {
+            return $typeVoucher;
+        }
+
+        $typevoucher_type = $this->getTypeVoucherType($type, null);
+
+        if ($typevoucher_type) {
+            $typeVoucher = TypeVoucher::$typevoucher_type()->enabled()->orderBy('name')->pluck('name', 'id');
+        } else {
+            $typeVoucher = TypeVoucher::where('key', 'I')->orderBy('name')->pluck('name', 'id');
+        }
+
+        return $typeVoucher;
+    }
+
+    protected function getShapePayment($type, $shapePayment)
+    {
+        if(!empty($shapePayment)) {
+            return $shapePayment;
+        }
+
+        $shapepayment_type = $this->getShapePaymentType($type, null);
+
+        if ($shapepayment_type) {
+            $shapePayment = ShapePayment::$shapepayment_type()->enabled()->orderBy('name')->pluck('name', 'id');
+        } else {
+            $shapePayment = ShapePayment::orderBy('name')->pluck('name', 'id');
+        }
+
+        return $shapePayment;
+    }
+    
+
+    protected function getMethodPayment($type, $methodPayment)
+    {
+        if(!empty($methodPayment)) {
+            return $methodPayment;
+        }
+
+        $methodpayment_type = $this->getMethodPaymentType($type, null);
+
+        if ($methodpayment_type) {
+            $methodPayment = MethodPayment::$methodpayment_type()->enabled()->orderBy('name')->pluck('name', 'id');
+        } else {
+            $methodPayment = MethodPayment::orderBy('name')->pluck('name', 'id');
+        }
+
+        return $methodPayment;
+    }
+
+    protected function getSellTo($type, $sellTo)
+    {
+        if(!empty($sellTo)) {
+            return $sellTo;
+        }
+
+        $sellTo_type = $this->getSellToType($type, null);
+
+        if ($sellTo_type) {
+            $sellTo = SellTo::$sellTo_type()->enabled()->orderBy('name')->pluck('name', 'id');
+        } else {
+            $sellTo = SellTo::orderBy('name')->pluck('name', 'id');
+        }
+
+        return $sellTo;
+    }
+
     protected function getContact($contact, $document)
     {
         if (!empty($contact)) {
@@ -434,6 +529,70 @@ abstract class DocumentForm extends Base
         $type = Document::INVOICE_TYPE;
 
         return config('type.' . $type . '.contact_type');
+    }
+
+    protected function getTypeVoucherType($type, $typevoucher_type)
+    {
+        if (!empty($typevoucher_type)) {
+            return $typevoucher_type;
+        }
+
+        if ($typevoucher_type = config('type.' . $type . '.typevoucher_type')) {
+            return $typevoucher_type;
+        }
+
+        // set default type
+        $type = Document::INVOICE_TYPE;
+
+        return config('type.' . $type . '.typevoucher_type');
+    }
+
+    protected function getMethodPaymentType($type, $methodpayment_type)
+    {
+        if (!empty($methodpayment_type)) {
+            return $methodpayment_type;
+        }
+
+        if ($methodpayment_type = config('type.' . $type . '.methodpayment_type')) {
+            return $methodpayment_type;
+        }
+
+        // set default type
+        $type = Document::INVOICE_TYPE;
+
+        return config('type.' . $type . '.methodpayment_type');
+    }
+
+    protected function getSellToType($type, $sellToType)
+    {
+        if (!empty($sellToType)) {
+            return $sellToType;
+        }
+
+        if ($sellTo_type = config('type.' . $type . '.sellTo_type')) {
+            return $sellTo_type;
+        }
+
+        // set default type
+        $type = Document::INVOICE_TYPE;
+
+        return config('type.' . $type . '.sellTo_type');
+    }
+
+    protected function getShapePaymentType($type, $shapePaymentToType)
+    {
+        if (!empty($shapePaymentToType)) {
+            return $shapePaymentToType;
+        }
+
+        if ($shapePaymentTo_type = config('type.' . $type . '.shapePaymentTo_type')) {
+            return $shapePaymentTo_type;
+        }
+
+        // set default type
+        $type = Document::INVOICE_TYPE;
+
+        return config('type.' . $type . '.shapePaymentTo_type');
     }
 
     protected function getTextAddContact($type, $textAddContact)

@@ -451,8 +451,8 @@ export default {
     methods: {
         sortBy(option) {
             return (firstEl, secondEl) => {
-                let first_element = firstEl[option].toUpperCase(); // ignore upper and lowercase
-                let second_element = secondEl[option].toUpperCase(); // ignore upper and lowercase
+                let first_element = firstEl[option]; // ignore upper and lowercase .toUpperCase()
+                let second_element = secondEl[option]; // ignore upper and lowercase .toUpperCase()
 
                 if (first_element < second_element) {
                     return -1;
