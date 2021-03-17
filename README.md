@@ -37,6 +37,7 @@ php artisan install --db-name="akaunting" --db-username="root" --db-password="pa
 ```
 
 * Create sample data (optional): `php artisan sample-data:seed`
+* Load data important (require): `php artisan load-data:seed`
 
 ## Contributing
 
